@@ -2,17 +2,25 @@
 Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Problems addressed:
-Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
+Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 **Modeling Cardano Governance On Bee Democracy**  
    
-  * Bee Democracy
-    * Over millions of years, through the process of evolution, nature has already worked out the form of democracy which produces the most truth and best results for its citizens
-    * By abstracting those results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can save some time:
+  * Abstract
+    * Over millions of years, through the process of evolution, nature has worked out the form of democracy which produces the most truth and best decisions for honey bee colonies.  
       * Overview - [Bee Democracy](https://youtu.be/NDnQ4pAjBUg?t=310)
       * Tom Seeley, Cornell - [Details of Bee Democracy](https://youtu.be/JnnjY823e-w?t=2309)
       * Tom Seeley, Cornell - [BReps vs DReps](https://youtu.be/1x8T_CHZemE?t=122)
       * Tom Seeley, Cornell - [The Five Habits of Highly Effective Hives](https://youtu.be/XgSbPkInTzs?t=1929)
+    * Evolution converges on these same decision making structures in many complex adaptive systems including the human brain.  
+      * Scientific American - [You Have A Hive Mind](https://www.scientificamerican.com/article/you-have-a-hive-mind/)
+      * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
+      * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
+      * Newsweek - [Bee Colonies Behave Like the Human Brain](https://www.newsweek.com/bee-colonies-behave-human-brain-study-finds-863576)
+      * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
+    * Given enough time, Cardano governance will likely evolve the same structure. 
+    * **By abstracting nature's results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
+  * Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
     * From the video we see that BReps dance for the delegators to communicate why their proposal is the best.
@@ -169,6 +177,7 @@ The Human Democracy structure enforces that politicians earn delegation once by 
 
 Most all these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Cardano governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Cardano governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.
 
+* Links Repeated from above
 * Scientific American - [You Have A Hive Mind](https://www.scientificamerican.com/article/you-have-a-hive-mind/)
 * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
 * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
