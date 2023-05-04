@@ -1,6 +1,8 @@
 # beemocracy
 Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
+Code implementation coming soon
+
 Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
