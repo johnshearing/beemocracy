@@ -1,15 +1,16 @@
 # beemocracy
 Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
-Problems addressed:  
-Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.  
+[GitHub Repository For Beemocracy](https://github.com/johnshearing/beemocracy)
+
+Problems addressed:
+Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 **Modeling Cardano Governance On Bee Democracy**  
-  * The notion that we are locked into any given voting system because of current blockchain structure is an illusion. Our community can build anything it wants if we believe we can  
-    * Cardano was built with sidechains and L2s like Hydra in mind from the very start just to handle special situations like governance.  
-    * By observing how evolution addresses democracy and abstracting the ideas into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we have the following:   
+   
   * Bee Democracy
     * Over millions of years, through the process of evolution, nature has already worked out the form of democracy which produces the most truth and best results for its citizens
+    * By abstracting those results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can save some time:
       * Overview - [Bee Democracy](https://youtu.be/NDnQ4pAjBUg?t=310)
       * Tom Seeley, Cornell - [Details of Bee Democracy](https://youtu.be/JnnjY823e-w?t=2309)
       * Tom Seeley, Cornell - [BReps vs DReps](https://youtu.be/1x8T_CHZemE?t=122)
