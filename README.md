@@ -122,7 +122,6 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
               * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
               * The proof always remains the same small size - about 22KB
-              * Mina is slow as of now but the tool stack is promising and worth a look
               * [Dr Vanishree Rao, formerly of Mina, is now Head of Applied Cryptography at IOG](https://www.bitcoininsider.org/article/192150/academic-who-led-mina-protocol-development-joins-cardano-builder-iog-head-applied)
                 * This tells me we should be looking at Mina to see what ZKP tool stack is likely to work with Cardano moving forward.
           * IOG has the following blog posts and papers on the related to voting and ZKPs: 
