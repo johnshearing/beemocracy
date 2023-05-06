@@ -1,9 +1,9 @@
 # beemocracy
 Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
-Code implementation coming soon
+Code implementation coming soon  
 
-Problems addressed:
+Problems addressed:  
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 **Modeling Cardano Governance On Bee Democracy**  
@@ -45,7 +45,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the solicitation abstain option. Then the weights of all solicitations for a proposal are summed to decide the election. This way if no one writes a solicitation to deny a proposal then there is still a way to delegate against the proposal. Or if there is only a solicitation against a proposal then someone can still delegate for the proposal by delegating against the solicitation. Probably it is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
       * Delegators may change their delegation at any time before the final tally
       * Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that. 
-      * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations.
+      * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
       * We will need an immutable website (perhaps on IPFS) that uses a forum format much like we have here to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
@@ -101,16 +101,39 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * Now the wallet broadcasts the transaction and receives a receipt which can be applied to a zero knowledge proof verifier so that the wallet owner can verify that their delegation was cast correctly. 
           * After the voting deadline is over. Constitutional Committee takes a snapshot of the blockchain to see how much ADA each wallet contains and then decrypts the zero knowledge proofs of how the wallets were delegated so as to see how much ADA was delegated (for | against | abstain) with respect to the proposal all without ever exposing which wallets were delegated to the solicitations. 
         * That this is possible with zero knowledge proofs seems like magic to me so I am working now to verify that this is indeed possible. If it is then everything else is just a matter of coding. It will not be an easy task but IOG has provided the tech stack and the learning tools so I am just going to do it a step at a time. Maybe others will want to help or perhaps will want to compete with their own implementation. The Cardano blockchain is permissionless so there is no limit to the amount of voting systems that can live and work on the Cardano blockchain. So we might as well try a lot of different ideas - it's all good for the community. I intend to build a voting system modeled on Bee Democracy.
-          * IOG has this blog post on the subject: 
-            * [Zk-SNARKs: updatable setups on the blockchain](https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/)
-          * That lead to this paper: 
+        * **The Tool Stack**
+          * [Voteaire](https://voteaire.io/) is a functioning voting system which runs on Cardano
+            * Congratulations to the Voteaire Team! 
+            * Your work is amazing! 
+            * I have much to learn from you!
+          * IOG is developing the following tools which relate to voting or use ZKPs
+            * [Mithril](https://mithril.network/doc/)
+              * Cardano's own Mithril project seems promising for exactly this type of voting [as seen in this video linked here](https://youtu.be/MlBipDc6GPU) presented by ADA North Pools
+                * It seems the function of Mithril is to allow multiple parties (scales to thousands) to sign a transaction anonymously in such a way that the amount of ADA they hold is weighted in the signature. That's exactly what is required in order to implement a voting system which weighs solicitations according to delegation while ensuring privacy.
+              * Mithril uses [Bulletproofs](https://github.com/sdiehl/bulletproofs) (zero knowledge proofs written in Haskell) as seen [in this video](https://youtu.be/MlBipDc6GPU) also presented by ADA North Pools.
+            * [IOG's Voting Tools - Rust](https://github.com/input-output-hk/voting-tools-rs)
+              * This tool generates voting power info from a db-sync instance.
+            * [Cardano Sidechains Tooling](https://github.com/input-output-hk/sidechains-tooling)
+            * [Atala Prism](https://atalaprism.io/)
+            * Midnight
+              * Cardano's privacy coin under development
+            * [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/)
+              * Cardano's privacy smart contracts under development
+            * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
+              * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
+              * The proof always remains the same small size - about 22KB
+              * Mina is slow as of now but the tool stack is promising and worth a look
+              * [Dr Vanishree Rao, formerly of Mina, is now Head of Applied Cryptography at IOG](https://www.bitcoininsider.org/article/192150/academic-who-led-mina-protocol-development-joins-cardano-builder-iog-head-applied)
+                * This tells me we should be looking at Mina to see what ZKP tool stack is likely to work with Cardano moving forward.
+          * IOG has the following blog posts and papers on the related to voting and ZKPs: 
+            * [Zk-SNARKs: updatable setups on the blockchain](https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/) 
             * [ATreasurySystemforCryptocurrencies: Enabling Better Collaborative Intelligence](https://eprint.iacr.org/2018/435.pdf)
-            * [Cardano's own Mithril project](https://mithril.network/doc/) seems promising for exactly this type of voting [as seen in this video linked here](https://youtu.be/MlBipDc6GPU) presented by ADA North Pools
-              * It seems the function of Mithril is to allow multiple parties (scales to thousands) to sign a transaction anonymously in such a way that the amount of ADA they hold is weighted in the signature. That's exactly what is required in order to implement a voting system which weighs solicitations according to delegation.
-            * Mithril uses [Bulletproofs](https://github.com/sdiehl/bulletproofs) (zero knowledge proofs written in Haskell) as seen [in this video](https://youtu.be/MlBipDc6GPU) also presented by ADA North Pools.
-            * It seems so far, Cardano's preferred tech stack for working with the ZKPs for anonymous voting is Mithril, [Atala Prism](https://atalaprism.io/), Midnight, [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/), and Bulletproofs. I will start my own search with these.
-            * Learning materials for working with ZKPs are [found at this link here](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
-              * Thanks to PREEB Pool for [information about the learning materials](https://cardano.stackexchange.com/questions/11083/preferred-library-for-working-with-zero-knowledge-proofs/11084#11084)
+            * [Mithril: Stake-based Threshold Multisignatures](https://iohk.io/en/research/library/papers/mithril-stake-based-threshold-multisignatures/)
+            * [Decentralised Update Selection with Semi-Strategic Experts](https://iohk.io/en/research/library/papers/decentralised-update-selection-with-semi-strategic-experts/)
+            * [Privacy Preserving Opinion Aggregation](https://iohk.io/en/research/library/papers/privacy-preserving-opinion-aggregation/)
+            * [Models for Generation of Proof Forest in ZK-SNARK Based Sidechains](https://iohk.io/en/research/library/papers/models-for-generation-of-proof-forest-in-zk-snark-based-sidechains/)
+          * Learning materials for working with ZKPs are [found at this link here](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+            * Thanks to PREEB Pool for [information about the learning materials](https://cardano.stackexchange.com/questions/11083/preferred-library-for-working-with-zero-knowledge-proofs/11084#11084)
 
 **Dealing With Low Delegator Participation Which Blocks Governance Action**  
   * It is essential for the security of the Cardano blockchain that delegators (the regular folks) participate in elections. Otherwise whales and exchanges will be winning all the governance actions and will manipulate Cardano government for their advantage with little or no consideration for the unbanked individuals that Cardano was built to serve. It is assumed that the big investors will always delegate their ADA to any solicitation which best advances their goals. Since it can be estimated how much ADA is held by big investors, a delegation threshold parameter is coded into the system to ensure that a significant amount of ADA (well above what the big investors hold) is delegated to the solicitations. This is the only way to know for sure that the little people are delegating too. If delegation to the solicitations does not meet the threshold when votes are tallied then the proposal is dismissed and no action is taken. So a mechanism which is meant to protect small investors will have the unintended consequence of blocking all governance if small investors are not interested enough to delegate their ADA in order to settle the matter. There is a way to proceed with governance if a proposal suffers from low delegator participation
