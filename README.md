@@ -3,7 +3,7 @@ Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee
 
 Code implementation coming soon  
 
-Problems addressed:  
+Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 **Modeling Cardano Governance On Bee Democracy**  
@@ -106,6 +106,13 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * Congratulations to the Voteaire Team! 
             * Your work is amazing! 
             * I have much to learn from you!
+          * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
+            * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
+            * The proof always remains the same small size - about 22KB
+            * [Dr Vanishree Rao, formerly of Mina, is now Head of Applied Cryptography at IOG](https://www.bitcoininsider.org/article/192150/academic-who-led-mina-protocol-development-joins-cardano-builder-iog-head-applied)
+              * This tells me we should be looking at Mina to see what ZKP tool stack is likely to work with Cardano moving forward.
+             * See Mina's blog post: [Zero-Knowledge Proofs for Voting](https://blog.o1labs.org/zero-knowledge-proofs-for-voting-3c6a6d5d89db)
+            * [Here we see](https://youtu.be/KVJWBk0wNSE?t=46) it is possible to experiment with Mina and later add our own ZK application layer to Cardano when we know more about what we need.
           * IOG is developing the following tools which relate to voting or use ZKPs
             * [Mithril](https://mithril.network/doc/)
               * Cardano's own Mithril project seems promising for exactly this type of voting [as seen in this video linked here](https://youtu.be/MlBipDc6GPU) presented by ADA North Pools
@@ -119,11 +126,6 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
               * Cardano's privacy coin under development
             * [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/)
               * Cardano's privacy smart contracts under development
-            * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
-              * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
-              * The proof always remains the same small size - about 22KB
-              * [Dr Vanishree Rao, formerly of Mina, is now Head of Applied Cryptography at IOG](https://www.bitcoininsider.org/article/192150/academic-who-led-mina-protocol-development-joins-cardano-builder-iog-head-applied)
-                * This tells me we should be looking at Mina to see what ZKP tool stack is likely to work with Cardano moving forward.
           * IOG has the following blog posts and papers on the related to voting and ZKPs: 
             * [Zk-SNARKs: updatable setups on the blockchain](https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/) 
             * [ATreasurySystemforCryptocurrencies: Enabling Better Collaborative Intelligence](https://eprint.iacr.org/2018/435.pdf)
