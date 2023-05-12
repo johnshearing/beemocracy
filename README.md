@@ -104,8 +104,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * #### **The Tool Stack**
           * [Voteaire](https://voteaire.io/) is a functioning voting system which runs on Cardano
             * Congratulations to the Voteaire Team! 
-            * Your work is amazing! 
-            * I have much to learn from you!
+            * The Voteaire Team has agreed to see what they can do to help with this project
           * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
             * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
             * The proof always remains the same small size - about 22KB
