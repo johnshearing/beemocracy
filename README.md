@@ -155,7 +155,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * **The community can take control from the BReps at any time simply by delegating**
         * Because all proposals go before the delegators (the regular folks) first before going to trial, delegators can take all power away from the BReps simply by turning out for delegation to the solicitations. If delegators reach the threshold for delegations then the BReps never get to vote on the proposal in a trial. Power to the people! That's incentive to delegate.
 
-**Constitutional Issues**
+### **Constitutional Issues**
   * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
     * **Constitutional Amendments Required:**
       * **The Free Market Will Determine The Price Of ADA**
