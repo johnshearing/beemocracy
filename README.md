@@ -6,7 +6,7 @@ Code implementation coming soon
 Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
-**Modeling Cardano Governance On Bee Democracy**  
+#### **Modeling Cardano Governance On Bee Democracy**  
    
   * Abstract
     * Over millions of years, through the process of evolution, nature has worked out the form of democracy which produces the most truth and best decisions for honey bee colonies.  
@@ -22,7 +22,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
     * Given enough time, Cardano governance will likely evolve the same structure. 
     * **By abstracting nature's results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
-  * Bee Democracy
+  * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
     * From the video we see that BReps dance for the delegators to communicate why their proposal is the best.
@@ -62,7 +62,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * Votes and delegations are bound to solicitations for or against a proposal as an audit trail of the election and proof that there has not been any election fraud.
         * BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.  
 
-**Prevent Buying and Selling of Delegation** 
+#### **Prevent Buying and Selling of Delegation** 
  * With regard to [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md), Treasury withdrawals come to mind but there could be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the [end of an epoch](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle) when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes. 
   * Delegation is linked to wallets in an obvious way so payment for delegation could be most easily made in ADA.  
   * In this market for delegation:  
@@ -101,7 +101,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * Now the wallet broadcasts the transaction and receives a receipt which can be applied to a zero knowledge proof verifier so that the wallet owner can verify that their delegation was cast correctly. 
           * After the voting deadline is over. Constitutional Committee takes a snapshot of the blockchain to see how much ADA each wallet contains and then decrypts the zero knowledge proofs of how the wallets were delegated so as to see how much ADA was delegated (for | against | abstain) with respect to the proposal all without ever exposing which wallets were delegated to the solicitations. 
         * That this is possible with zero knowledge proofs seems like magic to me so I am working now to verify that this is indeed possible. If it is then everything else is just a matter of coding. It will not be an easy task but IOG has provided the tech stack and the learning tools so I am just going to do it a step at a time. Maybe others will want to help or perhaps will want to compete with their own implementation. The Cardano blockchain is permissionless so there is no limit to the amount of voting systems that can live and work on the Cardano blockchain. So we might as well try a lot of different ideas - it's all good for the community. I intend to build a voting system modeled on Bee Democracy.
-        * **The Tool Stack**
+        * #### **The Tool Stack**
           * [Voteaire](https://voteaire.io/) is a functioning voting system which runs on Cardano
             * Congratulations to the Voteaire Team! 
             * Your work is amazing! 
@@ -136,7 +136,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * Learning materials for working with ZKPs are [found at this link here](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
             * Thanks to PREEB Pool for [information about the learning materials](https://cardano.stackexchange.com/questions/11083/preferred-library-for-working-with-zero-knowledge-proofs/11084#11084)
 
-**Dealing With Low Delegator Participation Which Blocks Governance Action**  
+#### **Dealing With Low Delegator Participation Which Blocks Governance Action**  
   * It is essential for the security of the Cardano blockchain that delegators (the regular folks) participate in elections. Otherwise whales and exchanges will be winning all the governance actions and will manipulate Cardano government for their advantage with little or no consideration for the unbanked individuals that Cardano was built to serve. It is assumed that the big investors will always delegate their ADA to any solicitation which best advances their goals. Since it can be estimated how much ADA is held by big investors, a delegation threshold parameter is coded into the system to ensure that a significant amount of ADA (well above what the big investors hold) is delegated to the solicitations. This is the only way to know for sure that the little people are delegating too. If delegation to the solicitations does not meet the threshold when votes are tallied then the proposal is dismissed and no action is taken. So a mechanism which is meant to protect small investors will have the unintended consequence of blocking all governance if small investors are not interested enough to delegate their ADA in order to settle the matter. There is a way to proceed with governance if a proposal suffers from low delegator participation
     * **Putting A Proposal On Trial**
       * If an election does not meet the threshold for delegator participation then the proposal goes to trial. 
@@ -155,7 +155,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * **The community can take control from the BReps at any time simply by delegating**
         * Because all proposals go before the delegators (the regular folks) first before going to trial, delegators can take all power away from the BReps simply by turning out for delegation to the solicitations. If delegators reach the threshold for delegations then the BReps never get to vote on the proposal in a trial. Power to the people! That's incentive to delegate.
 
-### **Constitutional Issues**
+#### **Constitutional Issues**
   * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
     * **Constitutional Amendments Required:**
       * **The Free Market Will Determine The Price Of ADA**
