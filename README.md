@@ -36,7 +36,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
-    * **Abstracting bee democracy functions and applying these to Cardano governance** 
+    * #### **Abstracting bee democracy functions and applying these to Cardano governance** 
       * Each BRep must solicit for delegation on each and every proposal using an online document (a solicitation) which explains their position and which also locks their vote. 
       * The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage
       * The BRep's vote is cast and embedded in the solicitation with their digital signature. 
