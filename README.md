@@ -87,7 +87,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * Allows proof that an election is not rigged  
         * Protects delegator from reprisal by current a regime  
         * This may necessitate voting on a sidechain which has the required properties
-      * **The voting mechanism is generally as follows:**
+      * #### **The voting mechanism is generally as follows:**
         * The functionality described can be built into any Cardano wallet to make the delegating experience quick and easy:
         * Using the browser embedded into the wallet, the delegator visits the Interplanetary File System (IPFS) website where Cardano proposals are hosted.
         * The delegator navigates to the desired proposal and reads it.
