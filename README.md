@@ -38,10 +38,12 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
     * #### **Abstracting bee democracy functions and applying these to Cardano governance** 
       * Each BRep must solicit for delegation on each and every proposal using an online document (a solicitation) which explains their position and which also locks their vote. 
-      * The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage
+      * The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage which contains the solicitation text.
+      * The URL for any webpage on the Interplanetary File System is the hash of the webpage text.
+        * So the on-chain transaction with the signed vote points to the solicitation text on the IPFS.  
       * The BRep's vote is cast and embedded in the solicitation with their digital signature. 
-      * The BRep's vote can not be changed once the solicitation has been published so delegators know what they are getting
-      * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly  
+      * The BRep's vote can not be changed once the solicitation has been published so delegators know what they are getting.
+      * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly.  
       * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the solicitation abstain option. Then the weights of all solicitations for a proposal are summed to decide the election. This way if no one writes a solicitation to deny a proposal then there is still a way to delegate against the proposal. Or if there is only a solicitation against a proposal then someone can still delegate for the proposal by delegating against the solicitation. Probably it is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
       * Delegators may change their delegation at any time before the final tally
       * Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that. 
