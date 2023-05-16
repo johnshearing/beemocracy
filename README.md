@@ -49,7 +49,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that. 
       * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
-      * We will need an immutable website (perhaps on IPFS) that uses a forum format much like we have here to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.
+      * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
         * This is to prevent trustless renting of ADA via smart contract for use as delegation in an election
