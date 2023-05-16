@@ -49,7 +49,14 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Delegators may not vote directly, rather Delegators may register as a BRep and then delegate ADA to their own solicitation if they wish and then vote on that. 
       * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
-      * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. The webpage for each governance proposal will aggregate the votes and delegations on the solicitations so as to provide an audit trail for every governance proposal election.
+      * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. After the election is over, the webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
+      * Actual voting and aggregation will be done using zero knowledge proofs with Mithril on the Midnight sidechain.
+        *  This is to:
+        *  Protect the anonymity of the voters
+        *  Provide each voter with mathematical proof that their vote was cast as desired.
+        *  Provide the community with mathematical proof that the aggregated results are correct.
+        *  Prevent information leakage of election results before voting is completed.
+          * This suppresses a market for votes and delegation and prevents early results from affecting the votes.  
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
         * This is to prevent trustless renting of ADA via smart contract for use as delegation in an election
