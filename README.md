@@ -63,13 +63,13 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions (For | Against |Abstain) and their associated votes.
               * Delegators can delegate to the original proposal (For | Against |Abstain) or they can delegate to any of the children solicitations (For | Against |Abstain)
-         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
-           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
-             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
-             * Another field which is the hash of the BReps solicitation for which they now wish to comment on.                  
-             * This establishes exactly what previous solicitation they are commenting on.
-             * This makes the retraction a child of the BRep's solicitation and vote.
-             * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
+        * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
+          * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
+            * This serves as the IPFS URL and makes it impossible to tamper with the text. 
+            * Another field which is the hash of the BReps solicitation for which they now wish to comment on.                  
+            * This establishes exactly what previous solicitation they are commenting on.
+            * This makes the retraction a child of the BRep's solicitation and vote.
+            * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
           * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
             * And just because the BRep has had a change of mind does not mean that the delegators will also.
             * This is one of the biggest differences between CIP-1694 and Beemocracy:
