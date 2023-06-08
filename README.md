@@ -37,16 +37,46 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
     * #### **Abstracting bee democracy functions and applying these to Cardano governance** 
-      * Each BRep must solicit for delegation on each and every proposal using an online document (a solicitation) which explains their position and which also locks their vote. 
-      * The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage which contains the solicitation text.
-      * The URL for any webpage on the Interplanetary File System is the hash of the webpage text.
-        * So the on-chain transaction with the signed vote points to the solicitation text on the IPFS.  
-      * The BRep's vote is cast and embedded in the solicitation with their digital signature. 
-      * The BRep's vote can not be changed once the solicitation has been published so delegators know what they are getting.
+      * Each BRep must solicit for delegation on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their vote. 
+      * The mechanism is an on-chain transaction with a signed vote and the hash of the solicitation text on an immutable webpage.
+      * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
+        * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS webpage.  
+      * The BRep's vote is cast and embedded in the solicitation text with their digital signature. 
+      * The BRep's vote can not be changed once the solicitation has been published, so delegators know what they are getting.
       * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly.  
-      * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the solicitation abstain option. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
+      * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the abstain option for the orginial proposal. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no other solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
       * Delegators may change their delegation at any time before the final tally
       * Delegators may not vote directly, rather delegators may register as a BRep and then delegate ADA to their own solicitation vote. 
+      * Voting System Structure In More Detail
+        * The original governance proposal is also the first solicitation for delegation.
+          * The hash of the solicitation text goes on chain along with the signed BRep vote in support of his/her proposal.
+          * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
+          * So the vote on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage.
+          * Delegators may delegate directly to this first solicitation: For | Against |Abstain.
+        * Other BReps may wish to comment and vote on the proposal and delegators may delegate to their ADA to the comments and signed vote of the BRep that makes sense to them.
+          * BReps will write solicitations of their own with respect to the original proposal asking for delegation to support their vote: For | Against |Abstain.
+          * The voting transaction is assembled as follows:
+            * The vote (For | Against |Abstain) is included in the transaction.
+            * The text of these solicitations are hashed and included in the voting transaction.
+              * Again, this hash is also the URL of the webpage that holds the solicitation text.
+            * The supporting solicitations also has another field in the on chain transaction which just the hash/URL of the original proposal.
+              * This establishes the new solicitations as children of the original proposal.
+              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions (For | Against |Abstain) and their associated votes.
+              * Delegators can delegate to the original proposal (For | Against |Abstain) or they can delegate to any of the children solicitations (For | Against |Abstain)
+         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
+           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
+             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
+             * Another field which is the hash of the BReps solicitation for which they now wish to comment on.                  
+             * This establishes exactly what previous solicitation they are commenting on.
+             * This makes the retraction a child of the BRep's solicitation and vote.
+             * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
+        * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
+          * And just because the BRep has had a change of mind does not mean that the delegators will also.
+          * This is one of the biggest differences between CIP-1694 and Beemocracy:
+          * With CIP-1694 delegation stays with the DRep no matter how they swing.
+          * With Beemocracy, delegation is linked to the reasoning in the BReps appeal for delegation to their vote.
+          * DReps are elected rulers.
+          * BReps are scouts which collect and share information so that the community can make good collective decisions.
       * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
       * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. After the election is over, the webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
