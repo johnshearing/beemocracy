@@ -67,10 +67,11 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
-            * Another field which is the hash of the BReps solicitation for which they now wish to comment on.                  
+            * Another field in the transaction is the hash of the BReps solicitation for which they now wish to comment on.                  
             * This establishes exactly what previous solicitation they are commenting on.
-            * This makes the retraction a child of the BRep's solicitation and vote.
+            * This makes the retraction a child of the BRep's solicitation and the solicitation is a child of the original proposal.
             * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
+            * The data structure of this voting system is immutable but otherwise is much like any online forum that we are used to.
           * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
             * And just because the BRep has had a change of mind does not mean that the delegators will also.
             * This is one of the biggest differences between CIP-1694 and Beemocracy:
