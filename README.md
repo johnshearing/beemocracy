@@ -61,8 +61,9 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
             * The supporting solicitations also have another field in the on chain transaction which just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
-              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions (For | Against | Abstain) and their associated votes.
-              * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations (For | Against | Abstain)
+              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions underneith.
+              * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations.
+              * All the ADA delegation (For | Against | Abstain) is summed to decide the election.
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
