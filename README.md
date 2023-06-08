@@ -53,7 +53,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
           * So the vote on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage.
           * Delegators may delegate directly to this first solicitation: For | Against |Abstain.
-        * Other BReps may wish to comment and vote on the proposal and delegators may delegate to their ADA to the comments and signed vote of the BRep that makes sense to them.
+        * Other BReps may wish to comment and vote on the proposal and delegators may delegate their ADA to the comment and signed vote of the BRep that makes sense to them.
           * BReps will write solicitations of their own with respect to the original proposal asking for delegation to support their vote: For | Against |Abstain.
           * The voting transaction is assembled as follows:
             * The vote (For | Against |Abstain) is included in the transaction.
