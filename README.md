@@ -58,9 +58,6 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         *  Prevent information leakage of election results before voting is completed.
           * This suppresses a market for votes and delegation and prevents early results from affecting the votes.  
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
-      * #### Code to enforce that delegation of ADA to a solicitation must come from a wallet and never from a smart contract
-        * This is to prevent trustless renting of ADA via smart contract for use as delegation in an election
-        * In other words to rent out ADA for use as delegation, the renter will be forced to give up custody
       * **The Bee Democracy Structure Ensures That:**  
         * Delegators have lots of good information to make their decisions  
         * Delegators are deliberately casting their delegation of ADA for a given proposal via solicitations
