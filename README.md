@@ -54,7 +54,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * So the vote on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage.
           * Delegators may delegate directly to this first solicitation: For | Against |Abstain.
         * Other BReps may wish to comment and vote on the proposal and delegators may delegate their ADA to the comment and signed vote of the BRep that makes sense to them.
-          * BReps will write solicitations of their own with respect to the original proposal asking for delegation to support their vote: For | Against |Abstain.
+          * BReps will write solicitations of their own with respect to the original proposal asking for delegation to support their vote: For | Against | Abstain.
           * The voting transaction is assembled as follows:
             * The vote (For | Against |Abstain) is included in the transaction.
             * The text of these solicitations are hashed and included in the voting transaction.
@@ -62,7 +62,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * The supporting solicitations also has another field in the on chain transaction which just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions (For | Against |Abstain) and their associated votes.
-              * Delegators can delegate to the original proposal (For | Against |Abstain) or they can delegate to any of the children solicitations (For | Against |Abstain)
+              * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations (For | Against | Abstain)
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
