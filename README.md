@@ -32,7 +32,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * BReps only receive delegation for the proposal they are currently soliciting for - Then delegation ends
         * This is key to a functioning democracy - DReps in the bee's world have to earn their delegation for each proposal
         * In human democracy the DReps only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
-      * BReps (the scouts) compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
+      * #### BReps (the scouts) compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
