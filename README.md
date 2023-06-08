@@ -70,13 +70,13 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
              * This establishes exactly what previous solicitation they are commenting on.
              * This makes the retraction a child of the BRep's solicitation and vote.
              * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
-        * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
-          * And just because the BRep has had a change of mind does not mean that the delegators will also.
-          * This is one of the biggest differences between CIP-1694 and Beemocracy:
-          * With CIP-1694 delegation stays with the DRep no matter how they swing.
-          * With Beemocracy, delegation is linked to the reasoning in the BReps appeal for delegation to their vote.
-          * DReps are elected rulers.
-          * BReps are scouts which collect and share information so that the community can make good collective decisions.
+          * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
+            * And just because the BRep has had a change of mind does not mean that the delegators will also.
+            * This is one of the biggest differences between CIP-1694 and Beemocracy:
+            * With CIP-1694 delegation stays with the DRep no matter how they swing.
+            * With Beemocracy, delegation is linked to the reasoning in the BReps appeal for delegation to their vote.
+            * DReps are elected rulers.
+            * BReps are scouts which collect and share information so that the community can make good collective decisions.
       * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
       * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. After the election is over, the webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
