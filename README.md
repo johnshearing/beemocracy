@@ -59,7 +59,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * The vote (For | Against | Abstain) is included in the transaction.
             * The text of these solicitations are hashed and included in the voting transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
-            * The supporting solicitations also has another field in the on chain transaction which just the hash/URL of the original proposal.
+            * The supporting solicitations also have another field in the on chain transaction which just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions (For | Against | Abstain) and their associated votes.
               * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations (For | Against | Abstain)
