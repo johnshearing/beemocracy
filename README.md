@@ -67,7 +67,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * BReps must explain their reasoning on every proposal
         * A body of literature remains (the solicitations) so future generations will understand how we came to our decisions and what they should consider before making changes
         * Votes and delegations are bound to solicitations for or against a proposal as an audit trail of the election and proof that there has not been any election fraud.
-        * BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.  
+        * #### BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.  
 
 #### **Prevent Buying and Selling of Delegation** 
  * With regard to [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md), Treasury withdrawals come to mind but there could be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the [end of an epoch](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md#lifecycle) when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes. 
