@@ -38,7 +38,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
     * #### **Abstracting bee democracy functions and applying these to Cardano governance** 
       * Each BRep must solicit for delegation on each and every proposal using an online document (a solicitation) which explains their position and which also locks their vote. 
-      * #### The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage which contains the solicitation text.
+      * The mechanism is an on-chain transaction with a signed vote and the hash of an immutable webpage which contains the solicitation text.
       * The URL for any webpage on the Interplanetary File System is the hash of the webpage text.
         * So the on-chain transaction with the signed vote points to the solicitation text on the IPFS.  
       * The BRep's vote is cast and embedded in the solicitation with their digital signature. 
