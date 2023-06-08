@@ -44,7 +44,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * The BRep's vote is cast and embedded in the solicitation text with their digital signature. 
       * The BRep's vote can not be changed once the solicitation has been published, so delegators know what they are getting.
       * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly.  
-      * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the abstain option for the orginial proposal. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no other solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
+      * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the abstain option for the original proposal. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no other solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
       * Delegators may change their delegation at any time before the final tally
       * Delegators may not vote directly, rather delegators may register as a BRep and then delegate ADA to their own solicitation vote. 
       * Voting System Structure In More Detail
@@ -59,9 +59,9 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * The vote (For | Against | Abstain) is included in the transaction.
             * The text of these solicitations are hashed and included in the voting transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
-            * The supporting solicitations also have another field in the on chain transaction which just the hash/URL of the original proposal.
+            * The supporting solicitations also have another field in the on chain transaction which is just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
-              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitaions underneith.
+              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
               * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations.
               * All the ADA delegation (For | Against | Abstain) is summed to decide the election.
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
