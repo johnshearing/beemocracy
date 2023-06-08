@@ -49,7 +49,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Delegators may not vote directly, rather delegators may register as a BRep and then delegate ADA to their own solicitation vote. 
       * Voting System Structure In More Detail
         * The original governance proposal is also the first solicitation for delegation.
-          * The hash of the solicitation text goes on chain along with the signed BRep vote in support of his/her proposal.
+          * The hash of the solicitation text goes on chain in a transaction along with the signed BRep vote in support of his/her proposal.
           * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
           * So the vote on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage.
           * Delegators may delegate directly to this first solicitation: For | Against |Abstain.
