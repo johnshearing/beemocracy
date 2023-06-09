@@ -84,7 +84,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * DReps are elected rulers.
             * BReps are scouts which collect and share information so that the community can make good collective decisions.
       * After each election is over, the forum webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
-        * We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
+        * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
         * #### Actual voting and aggregation will be done using zero knowledge proofs with Mithril on the Midnight sidechain.
           *  This is to:
