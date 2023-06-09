@@ -97,7 +97,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spaming the system.
-        * This ADA will be staked in a random stake pool and the staking rewards will go to the owner of the computer which hosts the proposal webpage periodically.
+        * This ADA will be staked in a random stake pool and the staking rewards will go to the owner of the computer which hosts the proposal webpage.
         * At random intervals, the webpage will be pinged.
         * If the webpage is not returned by the host then another host may be chosen by lottery to host the webpage.
         * In this way the proposal webpage and all associated solicitations will persist for all eternity in a decentralized manner.    
