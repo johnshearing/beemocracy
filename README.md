@@ -36,11 +36,16 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
-    * #### **Abstracting bee democracy functions and applying these to Cardano governance** 
+    * #### **Abstracting bee democracy functions and applying these to Cardano governance**
+      * The data structure of this voting system is much like any online forum that we are used to.  
+      * The governance is hosted on an immuntalbe online forum for:
+        *  Submitting and reading governance proposals 
+        *  Submitting and reading BRep opinions, debate and votes
+        *  Delegating ADA to the delegation options for the proposal (For | Against | Abstain)
       * Each BRep must solicit for delegation on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their vote. 
       * The mechanism is an on-chain transaction with a signed vote and the hash of the solicitation text on an immutable webpage.
       * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
-        * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS webpage.  
+        * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.  
       * The BRep's vote is cast and embedded in the solicitation text with their digital signature. 
       * The BRep's vote can not be changed once the solicitation has been published, so delegators know what they are getting.
       * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly.  
@@ -71,7 +76,6 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * This establishes exactly what previous solicitation they are commenting on.
             * This makes the retraction a child of the BRep's solicitation and the solicitation is a child of the original proposal.
             * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
-            * The data structure of this voting system is immutable but otherwise is much like any online forum that we are used to.
           * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
             * And just because the BRep has had a change of mind does not mean that the delegators will also.
             * This is one of the biggest differences between CIP-1694 and Beemocracy:
@@ -79,16 +83,18 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
             * With Beemocracy, delegation is linked to the reasoning in the BReps appeal for delegation to their vote.
             * DReps are elected rulers.
             * BReps are scouts which collect and share information so that the community can make good collective decisions.
-      * We will need filtering tools in our blockchain explorers to help delegators make sense of the volume of solicitations. 
+      * After each election is over, the forum webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
+        * We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
         * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
-      * We will need an immutable website (perhaps on IPFS) that uses a forum format to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. After the election is over, the webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
-      * Actual voting and aggregation will be done using zero knowledge proofs with Mithril on the Midnight sidechain.
-        *  This is to:
-        *  Protect the anonymity of the voters
-        *  Provide each voter with mathematical proof that their vote was cast as desired.
-        *  Provide the community with mathematical proof that the aggregated results are correct.
-        *  Prevent information leakage of election results before voting is completed.
-          * This suppresses a market for votes and delegation and prevents early results from affecting the votes.  
+        * Actual voting and aggregation will be done using zero knowledge proofs with Mithril on the Midnight sidechain.
+          *  This is to:
+          *  Protect the anonymity of the voters
+          *  Provide each voter with mathematical proof that their vote was cast as desired.
+          *  Provide the community with mathematical proof that the aggregated results are correct.
+          *  Prevent information leakage of election results before voting is completed.
+            * This suppresses a market for votes and delegation and prevents early results from affecting the votes. 
+      * Staking To Pay For the Immuntalbe Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
+        * We will need an immutable website using the IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal.  
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * **The Bee Democracy Structure Ensures That:**  
         * Delegators have lots of good information to make their decisions  
