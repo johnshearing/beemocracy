@@ -93,7 +93,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           *  Provide the community with mathematical proof that the aggregated results are correct.
           *  Prevent information leakage of election results before voting is completed.
             * This suppresses a market for votes and delegation and prevents early results from affecting the votes. 
-      * Staking To Pay For the Immuntalbe Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
+      * #### Staking To Pay For the Immuntalbe Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spaming the system.
