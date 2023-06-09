@@ -94,7 +94,13 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           *  Prevent information leakage of election results before voting is completed.
             * This suppresses a market for votes and delegation and prevents early results from affecting the votes. 
       * Staking To Pay For the Immuntalbe Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
-        * We will need an immutable website using the IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal.  
+        * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
+        * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
+        * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spaming the system.
+        * This ADA will be staked in a random stake pool and the staking rewards will go to the owner of the computer which hosts the proposal webpage periodically.
+        * At random intervals, the webpage will be pinged.
+        * If the webpage is not returned by the host then another host may be chosen by lottery to host the webpage.
+        * In this way the proposal webpage and all associated solicitations will persist for all eternity in a decentralized manner.    
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * **The Bee Democracy Structure Ensures That:**  
         * Delegators have lots of good information to make their decisions  
