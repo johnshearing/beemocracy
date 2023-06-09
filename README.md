@@ -213,6 +213,8 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * **No Oracles Will Be Used To Decide Any Governance Issues** 
         * Community members are responsible for determining what is true and expressing it with solicitations, debate, votes, and delegation
         * The free market will determine prices - not oracles
+      * #### Constitutional Committee members will be compensated with ADA and will agree to hold only ADA in their portfolio and no other assets of any kind.
+        * This helps ensure that the incentives of the Constitutional Committee are in alignment with their resposibility of adding utility and value to the protocol.
       * #### **ADA To Be The Only Form Of Currency Accepted Into The Treasury**
         * No receipt money shall be accepted into the treasury: 
           * Receipt money means you get a receipt for a commodity being held somewhere presumed to be safe
