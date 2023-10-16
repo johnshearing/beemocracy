@@ -99,9 +99,9 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spamming the system.
         * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages by lottery as follows.
           * Distributing the staking rewards by lottery allows market forces to promote redundant copies of all proposal webpages.
-          * At random intervals, one of the hosted webpages (selected by lottery) will be pinged and hashed to ensure the data is accessible and that the contents has not been altered.
-          * Hashing may not even be required to ensure data integrity because the IPFS address is the hash.
-          * If the proposal webpage is returned then the host is paid the staking rewards associated with that lottery slot
+          * At random intervals, one of the hosted webpages (selected by lottery) for a given proposal will be requested and hashed to ensure the data is accessible and that the contents has not been altered.
+          * The IPFS address and the document hash should be the same if the document has not been changed.
+          * If the proposal webpage is returned unaltered then the host is paid the staking rewards associated with that lottery slot
           * If the proposal webpage is not returned by the host computer then the host does not get paid the lottery reward and the lottery is repeated with another host for that proposal webpage selected at random.
           * If a host fails again to return the data the next time it wins the lottery then it is removed from the index of hosts for that governance proposal
           * So document hosts get paid by lottery in much the same way as Cardano stake pool operators get paid
