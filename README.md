@@ -96,10 +96,14 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * #### Staking To Pay For the immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
-        * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spaming the system.
-        * This ADA will be staked in a random stake pool and the staking rewards will go to the owner of the computer which hosts the proposal webpage.
-        * At random intervals, the webpage will be pinged.
-        * If the webpage is not returned by the host then another host may be chosen by lottery to host the webpage.
+        * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spamming the system.
+        * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages by lottery as follows.
+          * Distributing the staking rewards by lottery allows market forces to promote redundant copies of all proposal webpages.
+          * At random intervals, one of the hosted webpages (selected by lottery) will be pinged and hashed to ensure the data is accessible and that the contents has not been altered.
+          * Hashing may not even be required to ensure data integrity because the IPFS address is the hash.
+          * If the proposal webpage is returned then the host is paid the staking rewards associated with that lottery slot
+          * If the proposal webpage is not returned by the host computer then the host does not get paid the lottery reward and the lottery is repeated with another host for that proposal webpage selected at random.
+          * So document hosts get paid by lottery in much the same way as Cardano stake pool operators get paid
         * In this way the proposal webpage and all associated solicitations will persist for all eternity in a decentralized manner.    
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * **The Bee Democracy Structure Ensures That:**  
