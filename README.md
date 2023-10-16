@@ -103,6 +103,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
           * Hashing may not even be required to ensure data integrity because the IPFS address is the hash.
           * If the proposal webpage is returned then the host is paid the staking rewards associated with that lottery slot
           * If the proposal webpage is not returned by the host computer then the host does not get paid the lottery reward and the lottery is repeated with another host for that proposal webpage selected at random.
+          * If a host fails again to return the data the next time it wins the lottery then it is removed from the index of hosts for that governance proposal
           * So document hosts get paid by lottery in much the same way as Cardano stake pool operators get paid
         * In this way the proposal webpage and all associated solicitations will persist for all eternity in a decentralized manner.    
       * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
