@@ -271,7 +271,6 @@ Most all these ideas are abstracted from peer reviewed science on how bees imple
 * Scientific American - [You Have A Hive Mind](https://www.scientificamerican.com/article/you-have-a-hive-mind/)
 * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
 * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
-* Newsweek - [Bee Colonies Behave Like the Human Brain](https://www.newsweek.com/bee-colonies-behave-human-brain-study-finds-863576)
 * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
 
 The process of evolution has solved many engineering problems. Bees don’t use their DReps to make decisions for the group. Bees use DReps as scouts. Bees use DReps to collect information and broadcast it to the group. Then all of them decide together. 
