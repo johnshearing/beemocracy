@@ -18,7 +18,6 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Scientific American - [You Have A Hive Mind](https://www.scientificamerican.com/article/you-have-a-hive-mind/)
       * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
-      * Newsweek - [Bee Colonies Behave Like the Human Brain](https://www.newsweek.com/bee-colonies-behave-human-brain-study-finds-863576)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
     * Given enough time, Cardano governance will likely evolve the same structure. 
     * **By abstracting nature's results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
