@@ -20,7 +20,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
     * Given enough time, Cardano governance will likely evolve the same structure. 
-    * **By abstracting nature's results into [CIP-1694](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
+    * **By abstracting nature's results into [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
