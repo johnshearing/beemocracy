@@ -142,7 +142,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
         * Prevents a delegation market from forming because it would not be easy (cost effective) for BReps to know where to send ADA in exchange for delegation after the election  
         * Prevents automating a delegation market with smart contracts
         * Allows proof that an election is not rigged  
-        * Protects delegator from reprisal by current a regime  
+        * Protects delegator from reprisal by a current regime  
         * This may necessitate voting on a sidechain which has the required properties
       * #### **The voting mechanism is generally as follows:**
         * The functionality described can be built into any Cardano wallet to make the delegating experience quick and easy:
