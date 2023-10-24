@@ -1,7 +1,7 @@
 # beemocracy
 Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
-Code implementation coming soon  
+Code implementation is in the planning stages  
 
 Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
@@ -19,8 +19,17 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
-    * Given enough time, Cardano governance will likely evolve the same structure. 
-    * **By abstracting nature's results into [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time** 
+    * Given enough time, Cardano governance will likely evolve the same structure.
+    * As seen in the videos, the collective decision making process found in the honey bee colonies for new home selection is basically a race to consensus using the following steps:
+      * Scout bees look for suitable sites
+      * Scout bees return to the colony to report the direction and quality of a new home site with the intention of getting other scouts to examine the sight.
+      * If a certain number of scouts (from 20 to 40) find themselves at a new home site all at the same time it will trigger a "quorum reaction" in the scouts which causes all of them to return back to the old hive and lead most of the bees to the new home site.
+      * That many bees are returning to give reports on new home sites creates a race to get new scout bees to look at various sights in order to be the first to obtain a quorum reaction.
+      * What causes bees arrive at a quorum reaction at the most suitable new home site is:
+        1. The scouts always report longer and more enthusiastically when reporting better quality sites, so more scouts will go to those sites and then return to give their own reports.
+        2. No scouts will give any report without first visiting the site.
+      * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy enforces.
+    * **By abstracting nature's results into [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
