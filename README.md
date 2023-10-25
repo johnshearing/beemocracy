@@ -19,7 +19,7 @@ Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter tur
       * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
-    * Given enough time, Cardano governance will likely evolve the same structure.
+    * Given enough time, Cardano governance will likely evolve the same structure. We can help speed things along.
     * As seen in the videos, bees don't actually vote.
     * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus using the following steps:
       * About two thirds of all the bees swarm outside the hive
