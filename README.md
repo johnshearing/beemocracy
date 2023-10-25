@@ -46,10 +46,10 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The threshold for ADA delegation will rarely if ever be reached unless the proposal really really matters to the common folks who wish to prevent a decision at a jury trial and rather decide the proposal directly. The result is, proposals will rarely be decided by delegation and so ADA holders will learn they don't need to delegate their ADA in order to get good governance decisions. So there is no network traffic except to register a scout's solicitation for or against a proposal and to lock their vote.
     * When the ADA delegation threshold for a proposal is not reached before a set time (as expected) then the proposal will go before a jury of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew. Locked votes are only binding if the delegation threshold is reached in which case the matter has already been decided by the locked votes as weighted by delegation of ADA.
     * So the only reasons for putting an issue up for vote are to:
-    1.  Get a body of solicitations for or against the governance proposal that the BRep jury can use in deciding.
+    1.  Get a body of solicitations for or against the governance proposal that the scout jury can use in deciding.
       * Think scout bees examining various sites for their new hive.
       * Think scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
-    2.  Create a large educated jury pool of BReps who are invested by their anonymous reputation earned in the solicitation process.
+    2.  Create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
       * Think a guaranteed quorum of interested and invested decision makers with first hand information to work with.
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
