@@ -39,11 +39,11 @@ Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter tur
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
     * Beemocracy responds to all governance proposals by inviting anyone to scout the proposal and then write a solicitation to gather ADA delegation either for or against the proposal.
-    * The solicitation locks the scout's vote with a digital signature and explains in a detailed report why they voted they way they did.
+    * The solicitation locks the scout's vote with a digital signature and explains in a detailed report why they voted the way they did.
     * The scout may remain anonymous and be known only by their collection of solicitations and locked votes all having the same digital signature.
     * The threshold for ADA delegation to the solicitations must be reached before the votes for a proposal will be counted.
     * The threshold for ADA delegation must always be set very very high to ensure that everyone in the community is represented, not just the whales.
-    * The threshold for ADA delegation will rarely if ever be reached unless the proposal really really matters to the common folks who wish to prevent a decision at a jury trial and rather decide the proposal directly. The result is, proposals will rarely be decided by delegation and so ADA holders will learn they don't need to delegate their ADA in order to get good governance decisions. So there is no network traffic except to register a scout's solicitation for or against a proposal and to lock their vote.
+    * The threshold for ADA delegation will rarely if ever be reached unless the proposal really really matters to the common folks who wish to prevent a decision at a jury trial and rather decide the proposal directly. The result is, proposals will rarely if ever be decided by delegation and so ADA holders will learn they don't need to delegate their ADA in order to get good governance decisions. So there is no network traffic except to register a scout's solicitation for or against a proposal and to lock their vote.
     * When the ADA delegation threshold for a proposal is not reached before a set time (as expected) then the proposal will go before a jury of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew. Locked votes are only binding if the delegation threshold is reached in which case the matter has already been decided by the locked votes as weighted by delegation of ADA.
     * So the only reasons for putting an issue up for vote are to:
     1.  Get a body of solicitations for or against the governance proposal that the scout jury can use in deciding.
@@ -51,6 +51,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Think scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
     2.  Create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
       * Think a guaranteed quorum of interested and invested decision makers with first hand information to work with.
+      * So it might well be better to implement Beemocracy without a mechanism to delegate ADA and count scout votes because all proposals will ultimately be decided at jury trials.
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
