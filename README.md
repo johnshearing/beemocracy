@@ -4,7 +4,7 @@ Governance System For Cardano Modeled After The Democracy Which Evolved In Honey
 Code implementation is in the planning stages  
 
 Problems addressed:
-Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
+Network traffic, Volume of data, Whale control, Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 #### **Modeling Cardano Governance On Bee Democracy**  
    
