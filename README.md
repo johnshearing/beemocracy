@@ -23,7 +23,7 @@ Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter tur
     * As seen in the videos, bees don't actually vote.
     * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus using the following steps:
       * About two thirds of all the bees swarm outside the hive
-      * Scout bees leave the swarm to look for suitable sites
+      * Scout bees leave the swarm to look for suitable sites for a new hive
       * Scout bees return to the colony to report the direction and quality of a new home site with the intention of getting other scouts to examine the sight.
       * If a certain number of scouts find themselves at a new home site all at the same time (from 10 to 20 implying ≈ 150 had inspected the site) that will trigger a "quorum reaction" in the scouts which causes all of them to return back to the swarm and guide the bees to the new home site.
       * That many bees are returning to give reports on various new home sites creates a race to get new scout bees to look at the best sights in order to be the first to obtain a quorum reaction.
