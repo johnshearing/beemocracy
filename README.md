@@ -39,7 +39,7 @@ Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter tur
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
     * Beemocracy responds to all governance proposals by inviting anyone to scout the proposal and then write a solicitation to gather ADA delegation either for or against the proposal.
-    * The solicitation locks the scout's vote with a digital signature.
+    * The solicitation locks the scout's vote with a digital signature and explains in a detailed report why they voted they way they did.
     * The scout may remain anonymous and be known only by their collection of solicitations and locked votes all having the same digital signature.
     * The threshold for ADA delegation to the solicitations must be reached before the votes for a proposal will be counted.
     * The threshold for ADA delegation must always be set very very high to ensure that everyone in the community is represented, not just the whales.
