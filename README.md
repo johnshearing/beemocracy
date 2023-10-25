@@ -1,10 +1,10 @@
 # beemocracy
-Voting System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
+Governance System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
 
 Problems addressed:
-Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
+Network Traffic, Volume of Data, Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
 
 #### **Modeling Cardano Governance On Bee Democracy**  
    
@@ -20,16 +20,37 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
     * Given enough time, Cardano governance will likely evolve the same structure.
-    * As seen in the videos, the collective decision making process found in the honey bee colonies for new home selection is basically a race to consensus using the following steps:
-      * Scout bees look for suitable sites
+    * As seen in the videos, bees don't actually vote.
+    * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus using the following steps:
+      * About two thirds of all the bees swarm outside the hive
+      * Scout bees leave the swarm to look for suitable sites
       * Scout bees return to the colony to report the direction and quality of a new home site with the intention of getting other scouts to examine the sight.
-      * If a certain number of scouts (from 20 to 40) find themselves at a new home site all at the same time it will trigger a "quorum reaction" in the scouts which causes all of them to return back to the old hive and lead most of the bees to the new home site.
-      * That many bees are returning to give reports on new home sites creates a race to get new scout bees to look at various sights in order to be the first to obtain a quorum reaction.
-      * What causes bees arrive at a quorum reaction at the most suitable new home site is:
+      * If a certain number of scouts find themselves at a new home site all at the same time (from 10 to 20 implying ≈ 150 had inspected the site) that will trigger a "quorum reaction" in the scouts which causes all of them to return back to the swarm and guide the bees to the new home site.
+      * That many bees are returning to give reports on various new home sites creates a race to get new scout bees to look at the best sights in order to be the first to obtain a quorum reaction.
+      * What causes bees to arrive at a quorum reaction at the most suitable new home site is:
         1. The scouts always report longer and more enthusiastically when reporting better quality sites, so more scouts will go to those sites and then return to give their own reports.
-        2. No scouts will give any report without first visiting the site.
+        2. No scouts will give a report without first visiting the site for themselves.
       * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy enforces.
+      * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that Beemocracy abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
     * **By abstracting nature's results into [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
+    * A race to consensus by voting is not possible in Cardano democracy because too much network activity in a short amount of time will jam the system.
+    * So deciding governance proposals at jury trials will be used to ensure that all proposals are decided based on accurate first hand information only and without braking the network.
+    * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
+https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
+  * #### Process Overview
+    * Beemocracy responds to all governance proposals by inviting anyone to scout the proposal and then write a solicitation to gather ADA delegation either for or against the proposal.
+    * The solicitation locks the scout's vote with a digital signature.
+    * The scout may remain anonymous and be known only by their collection of solicitations and locked votes all having the same digital signature.
+    * The threshold for ADA delegation to the solicitations must be reached before the votes for a proposal will be counted.
+    * The threshold for ADA delegation must always be set very very high to ensure that everyone in the community is represented, not just the whales.
+    * The threshold for ADA delegation will rarely if ever be reached unless the proposal really really matters to the common folks who wish to prevent a decision at a jury trial and rather decide the proposal directly. The result is, proposals will rarely be decided by delegation and so ADA holders will learn they don't need to delegate their ADA in order to get good governance decisions. So there is no network traffic except to register a scout's solicitation for or against a proposal and to lock their vote.
+    * When the ADA delegation threshold for a proposal is not reached before a set time (as expected) then the proposal will go before a jury of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew. Locked votes are only binding if the delegation threshold is reached in which case the matter has already been decided by the locked votes as weighted by delegation of ADA.
+    * So the only reasons for putting an issue up for vote are to:
+    1.  Get a body of solicitations for or against the governance proposal that the BRep jury can use in deciding.
+      * Think scout bees examining various sites for their new hive.
+      * Think scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
+    2.  Create a large educated jury pool of BReps who are invested by their anonymous reputation earned in the solicitation process.
+      * Think a guaranteed quorum of interested and invested decision makers with first hand information to work with.
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
