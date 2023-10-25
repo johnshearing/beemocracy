@@ -66,7 +66,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
     * #### **Abstracting bee democracy functions and applying these to Cardano governance**
-      * The data structure of this voting system is much like any online forum that we are used to.  
+      * The data structure of this governance system is much like any online forum that we are used to.  
       * The governance is hosted on an immutable online forum for:
         *  Submitting and reading governance proposals 
         *  Submitting and reading BRep opinions, debate and votes
@@ -81,7 +81,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the abstain option for the original proposal. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no other solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
       * Delegators may change their delegation at any time before the final tally
       * Delegators may not vote directly, rather delegators may register as a BRep and then delegate ADA to their own solicitation vote. 
-      * Voting System Structure In More Detail
+      * Governance System Structure In More Detail
         * The original governance proposal is also the first solicitation for delegation.
           * The hash of the solicitation text goes on chain in a transaction along with the signed BRep vote in support of his/her proposal.
           * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
