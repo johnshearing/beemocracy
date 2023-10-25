@@ -51,7 +51,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Think scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
     2.  Create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
       * Think a guaranteed quorum of interested and invested decision makers with first hand information to work with.
-      * So it might well be better to implement Beemocracy without a mechanism to delegate ADA and count scout votes because all proposals will ultimately be decided at jury trials.
+    * Given the above, it might well be better to implement Beemocracy without a mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway.
+      * This will greatly simplify the implementation of Beemocracy and eliminate almost all of the network traffic and eliminate most of the data too.
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
