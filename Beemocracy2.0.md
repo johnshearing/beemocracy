@@ -1,3 +1,6 @@
+# Under Construction
+Beemocracy is being updated to reflect that all governance proposals will windup in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. This will greatly simplify the implementation of Beemocracy and eliminate almost all of the network traffic and eliminate most of the data too.
+
 # beemocracy
 Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
@@ -50,16 +53,15 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       2.  The solicitations are used to create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of interested and invested decision makers with first hand information to work with.
   * #### Bee Democracy
-    * Bee Democracy has DReps. Let's call them BReps. 
-    * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
-    * From the video we see that BReps dance for the delegators to communicate why their proposal is the best.
-    * Unlike our DReps...
-      * The Bee Democracy structure enforces that BReps must earn delegation through honest debate using information they verify for themselves. The result is good decisions.
-        * The Human Democracy structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
-      * BReps only receive delegation for the proposal they are currently soliciting for - Then delegation ends
-        * This is key to a functioning democracy - DReps in the bee's world have to earn their delegation for each proposal
-        * In human democracy the DReps only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
-      * #### BReps (the scouts) compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
+    * Cardano's CIP-1694 DReps (delegated representatives). Beemocracy has scouts. 
+    * Scouts investigate a governance proposal and provide information and a recommendation to a random jury.
+    * Unlike DReps in Cardano's CIP-1694...
+      * The Beemocracy structure enforces that scouts must earn support through honest debate using information they verify for themselves. The result is good decisions.
+        * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
+      * Scouts only receive consideration for the proposal they are currently soliciting for - Then consideration ends when after the jurors have decided.
+        * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal
+        * In humand democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
+      * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that
       * Bee democracy is structured like so because those structured differently were all selected out of existence
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
