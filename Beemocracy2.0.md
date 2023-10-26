@@ -53,9 +53,11 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       2.  The solicitations are used to create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of interested and invested decision makers with first hand information to work with.
   * #### Bee Democracy
-    * Cardano's CIP-1694 DReps (delegated representatives). Beemocracy has scouts. 
-    * Scouts investigate a governance proposal and provide information and a recommendation to a random jury.
-    * Unlike DReps in Cardano's CIP-1694...
+    * Typical human democracy such as Cardano's CIP-1694 has DReps (delegated representatives).
+      * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
+    * Beemocracy has scouts. 
+    * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation and a locked voting recommendation to a jury of randomly selected community members who have written a.
+    * Unlike the DReps in Cardano's CIP-1694...
       * The Beemocracy structure enforces that scouts must earn support through honest debate using information they verify for themselves. The result is good decisions.
         * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting for - Then consideration ends when after the jurors have decided.
