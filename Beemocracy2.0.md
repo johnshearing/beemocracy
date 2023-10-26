@@ -1,5 +1,5 @@
 # beemocracy
-Governance System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
+Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
 
@@ -38,21 +38,17 @@ Network traffic, Volume of data, Whale control, Privacy, Identity, Bootstrapping
     * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
-    * Beemocracy responds to all governance proposals by inviting anyone to scout the proposal and then write a solicitation to gather ADA delegation either for or against the proposal.
+    * Beemocracy responds to all governance proposals by inviting anyone to scout the proposal and then write a solicitation either for or against the proposal.
     * The solicitation locks the scout's vote with a digital signature and explains in a detailed report why they voted the way they did.
     * The scout may remain anonymous and be known only by their collection of solicitations and locked votes all having the same digital signature.
-    * The threshold for ADA delegation to the solicitations must be reached before the votes for a proposal will be counted.
-    * The threshold for ADA delegation must always be set very very high to ensure that everyone in the community is represented, not just the whales.
-    * The threshold for ADA delegation will rarely if ever be reached unless the proposal really really matters to the common folks who wish to prevent a decision at a jury trial and rather decide the proposal directly. The result is, proposals will rarely if ever be decided by delegation and so ADA holders will learn they don't need to delegate their ADA in order to get good governance decisions. So there is no network traffic except to register a scout's solicitation for or against a proposal and to lock their vote.
-    * When the ADA delegation threshold for a proposal is not reached before a set time (as expected) then the proposal will go before a jury of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew. Locked votes are only binding if the delegation threshold is reached in which case the matter has already been decided by the locked votes as weighted by delegation of ADA.
-    * So the only reasons for putting an issue up for vote are to:
-      1.  Get a body of solicitations for or against the governance proposal that the scout jury can use in deciding.
-        * Think scout bees examining various sites for their new hive.
-        * Think scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
-      2.  Create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
-        * Think a guaranteed quorum of interested and invested decision makers with first hand information to work with.
-    * Given the above, it might well be better to implement Beemocracy without a mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway.
-      * This will greatly simplify the implementation of Beemocracy and eliminate almost all of the network traffic and eliminate most of the data too.
+    * All governance proposals go before a jury to be decided so the scout's solicitations and locked votes are information and recomendations used to help the juries decide.
+    * The jury is comprised of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew.
+    * So the solicitations serve two functions:
+      1.  The solicitations are used to help inform juries as proposals are decided.
+          * Think - scout bees examining various sites for their new hive.
+          * Think - scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
+      2.  The solicitations are used to create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
+          * Think - a guaranteed quorum of interested and invested decision makers with first hand information to work with.
   * #### Bee Democracy
     * Bee Democracy has DReps. Let's call them BReps. 
     * These are the scouts which return to the hive with information about a particular proposal (A new location for the hive)
