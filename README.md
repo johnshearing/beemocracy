@@ -1,3 +1,4 @@
+# Depricated. Please see Beemocracy2.0.md
 # beemocracy
 Governance System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
