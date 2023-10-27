@@ -45,22 +45,23 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The solicitation locks the scout's vote with a digital signature and explains in a detailed report why they voted the way they did.
     * The scout may remain anonymous and be known only by their collection of solicitations and locked votes all having the same digital signature.
     * All governance proposals go before a jury to be decided so the scout's solicitations and locked votes are information and recomendations used to help the juries decide.
-    * The jury is comprised of randomly selected scouts who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew.
+    * The jury is comprised of randomly selected elite scouts - those who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew.
     * So the solicitations serve two functions:
       1.  The solicitations are used to help inform juries as proposals are decided.
           * Think - scout bees examining various sites for their new hive.
           * Think - scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
-      2.  The solicitations are used to create a large educated jury pool of scouts who are invested by their anonymous reputation earned in the solicitation process.
-          * Think - a guaranteed quorum of interested and invested decision makers with first hand information to work with.
+      2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
+          * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
   * #### Bee Democracy
     * Typical human democracy such as Cardano's CIP-1694 has DReps (delegated representatives).
       * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
     * Beemocracy has scouts. 
-    * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation and a locked voting recommendation to a jury of randomly selected community members who have written a.
+    * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation and a locked vote as a recommendation to a jury of randomly selected elite scouts
+    * Elite scouts are community members who have written at least 10 solicitations of thier own within the past 365 days.
     * Unlike the DReps in Cardano's CIP-1694...
       * The Beemocracy structure enforces that scouts must earn support through honest debate using information they verify for themselves. The result is good decisions.
         * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
-      * Scouts only receive consideration for the proposal they are currently soliciting for - Then consideration ends when after the jurors have decided.
+      * Scouts only receive consideration for the proposal they are currently soliciting for - Then consideration ends when after the jurors (Elite Scouts) have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal
         * In humand democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
       * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
