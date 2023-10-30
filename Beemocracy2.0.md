@@ -63,7 +63,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting for - Then consideration ends when after the jurors (Elite Scouts) have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal
-        * In humand democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
+        * In human democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers
       * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that
       * Bee democracy is structured like so because those structured differently were all selected out of existence
@@ -72,18 +72,15 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * The data structure of this governance system is much like any online forum that we are used to.  
       * The governance is hosted on an immutable online forum for:
         *  Submitting and reading governance proposals 
-        *  Submitting and reading BRep opinions, debate and votes
-        *  Delegating ADA to the delegation options for the proposal (For | Against | Abstain)
-      * Each BRep must solicit for delegation on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their vote. 
-      * The mechanism is an on-chain transaction with a signed vote and the hash of the solicitation text on an immutable webpage.
+        *  Submitting and reading scout opinions and their voting recommendations
+      * Each scout must solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended vote. 
+      * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
       * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
         * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.  
-      * The BRep's vote is cast and embedded in the solicitation text with their digital signature. 
-      * The BRep's vote can not be changed once the solicitation has been published, so delegators know what they are getting.
-      * Delegators delegate ADA to the BRep's solicitation rather than to the BRep directly.  
-      * Delegators choose: Delegation of their ADA either adds to the weight of a solicitation vote, reduces the weight of a solicitation vote, or adds to the weight of the abstain option for the original proposal. Then the weights of all solicitations for a proposal are summed to decide the election. It is best that delegators can also delegate directly to the proposal itself either for, against, or abstain. This way if no other solicitation is written then delegators can still delegate for or against the proposal. What that really means is that each proposal is actually a solicitation too - the proposal itself is also the first solicitation for delegation in support of the proposal.
-      * Delegators may change their delegation at any time before the final tally
-      * Delegators may not vote directly, rather delegators may register as a BRep and then delegate ADA to their own solicitation vote. 
+      * The scouts's voting recommendation is cast and embedded in the solicitation text with their digital signature. 
+      * The scout's voting recommendation can not be changed once the solicitation has been published.
+      * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
+      * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
       * Governance System Structure In More Detail
         * The original governance proposal is also the first solicitation for delegation.
           * The hash of the solicitation text goes on chain in a transaction along with the signed BRep vote in support of his/her proposal.
