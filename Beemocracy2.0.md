@@ -81,6 +81,31 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * The scout's voting recommendation can not be changed once the solicitation has been published.
       * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
       * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
+        * The reputation system will be tiered based on the following criteria with the higher tiered scouts serving on juries which decide cases that hold greater importance for the community:
+          * the amount of solicitations the scout has written for or against governance proposals within the last 365 days.
+          * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
+          * the range of subjects the scout writes about.
+          * the number of times an elite scout has served on a jury
+          * the types of proposals the scout has helped decide
+          * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
+          * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
+          * how often they add to or challenge other scout solicitations
+          * how well their work is judged by other scouts
+          * How many words on average are in the solicitations.
+          * and so on
+      * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
+        * These solicitations may be considered by the jurors. So everyone gets a voice.
+        * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the solicitations.
+      * Elite scouts, those who have written 10 or more solicitations within the past 365 days, may serve on juries.
+        * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve at jury until they start scouting again
+        * This is very much the same as in actual honey bee society.
+      * Scouts earn rank
+        * As scouts meet more and more of the criteria listed above they get to handle more and more types of cases and more and more important issues as they prove they are up to the tasks and ready to serve.
+        * Lower ranking scout juries may handle smaller requests for funding.
+        * Higher ranking scouts may serve on juries that decide higher value funding requests, parameter changes, constitutional issues, and emergency situations as they gain greater rank.
+        * All of the scout's rank and privileges are automatically tied to their history and reputation by the same digital signature they use to sign all their solicitations and jury decisions.
+        * All governance actions are automated and triggered by multisig transactions that checks the ranks of all the jurors.
+
       * Governance System Structure In More Detail
         * The original governance proposal is also the first solicitation for delegation.
           * The hash of the solicitation text goes on chain in a transaction along with the signed BRep vote in support of his/her proposal.
