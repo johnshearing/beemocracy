@@ -84,16 +84,16 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
     * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
       * The reputation system will be tiered based on the following criteria with the higher tiered scouts serving on juries which decide cases that hold greater importance for the community:
-        * the amount of solicitations the scout has written for or against governance proposals within the last 365 days.
+        * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
         * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
-        * the range of subjects the scout writes about.
+        * the range of subjects the scout writes about
         * the number of times an elite scout has served on a jury
         * the types of proposals the scout has helped decide
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
         * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
         * how often they add to or challenge other scout solicitations
         * how well their work is judged by other scouts
-        * How many words on average are in the solicitations.
+        * How many words on average are in the solicitations
         * and so on
       * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice.
@@ -101,54 +101,38 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Elite scouts, those who have written 10 or more solicitations within the past 365 days, may serve on juries.
         * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve at jury until they start scouting again
         * This is very much the same as in actual honey bee society.
-      * Scouts earn rank
+      * Scouts earn rank to decide proposals of greater importance to the community.
         * As scouts meet more and more of the criteria listed above they get to handle more and more types of cases and more and more important issues as they prove they are up to the tasks and ready to serve.
         * Lower ranking scout juries may handle smaller requests for funding.
         * Higher ranking scouts may serve on juries that decide higher value funding requests, parameter changes, constitutional issues, and emergency situations as they gain greater rank.
         * All of the scout's rank and privileges are automatically tied to their history and reputation by the same digital signature they use to sign all their solicitations and jury decisions.
-        * All governance actions are automated and triggered by multisig transactions that checks the ranks of all the jurors.
+        * All governance actions are automated and triggered by multisig transactions that check the ranks of all the jurors.
 
       * Governance System Structure In More Detail
-        * The original governance proposal is also the first solicitation for delegation.
-          * The hash of the solicitation text goes on chain in a transaction along with the signed BRep vote in support of his/her proposal.
+        * The original governance proposal is also the first solicitation for the proposal.
+          * The hash of the solicitation text and the scout's voting recommendation in support of their proposal goes on chain in a signed transaction.
           * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
-          * So the vote on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage.
-          * Delegators may delegate directly to this first solicitation: For | Against | Abstain.
-        * Other BReps may wish to comment and vote on the proposal and delegators may delegate their ADA to the comment and signed vote of the BRep that makes sense to them.
-          * BReps will write solicitations of their own with respect to the original proposal asking for delegation to support their vote: For | Against | Abstain.
+          * So the proposal/solicitation transaction on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage via the hash of the solicitation text.
+        * Other scouts will wish to comment on the proposal and make a voting recommendation.
+          * Scouts will write solicitations of their own with respect to the original proposal that gives a voting recommendation and explains their position.
           * The voting transaction is assembled as follows:
-            * The vote (For | Against | Abstain) is included in the transaction.
+            * The vote (For | Against) is included in the transaction.
             * The text of these solicitations are hashed and included in the voting transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
             * The supporting solicitations also have another field in the on chain transaction which is just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
-              * Delegators can delegate to the original proposal (For | Against | Abstain) or they can delegate to any of the children solicitations.
-              * All the ADA delegation (For | Against | Abstain) is summed to decide the election.
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
-            * Another field in the transaction is the hash of the BReps solicitation for which they now wish to comment on.                  
+            * Another field in the transaction is the hash of the scout's solicitation for which they now wish to comment on.                  
             * This establishes exactly what previous solicitation they are commenting on.
-            * This makes the retraction a child of the BRep's solicitation and the solicitation is a child of the original proposal.
-            * So now the retraction gets listed under their voting solicitation and delegators can see that the BRep now regrets the vote.
-          * It is important that the BReps not be able to change their vote because people agreed with the original reasoning in the solicitation and delegated accordingly.
-            * And just because the BRep has had a change of mind does not mean that the delegators will also.
-            * This is one of the biggest differences between CIP-1694 and Beemocracy:
-            * With CIP-1694 delegation stays with the DRep no matter how they swing.
-            * With Beemocracy, delegation is linked to the reasoning in the BReps appeal for delegation to their vote.
-            * DReps are elected rulers.
-            * BReps are scouts which collect and share information so that the community can make good collective decisions.
-      * After each election is over, the forum webpage for each governance proposal will show aggregated votes and delegations for the solicitations so as to provide an audit trail for every governance proposal election.  
-        * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
-        * [Voting Tools - RS](https://github.com/input-output-hk/voting-tools-rs) by IOG might be that tool.
-        * #### Actual voting and aggregation will be done using zero knowledge proofs with Mithril on the Midnight sidechain.
-          *  This is to:
-          *  Protect the anonymity of the voters
-          *  Provide each voter with mathematical proof that their vote was cast as desired.
-          *  Provide the community with mathematical proof that the aggregated results are correct.
-          *  Prevent information leakage of election results before voting is completed.
-            * This suppresses a market for votes and delegation and prevents early results from affecting the votes. 
+            * This makes the retraction a child of the scout's solicitation and the solicitation is a child of the original proposal.
+            * So now the retraction gets listed under their original solicitation and jurors can see that the scouot now regrets the vote.
+            * DReps in CIP-1694 are elected rulers.
+            * Scouts collect and share information so that the juries can make good collective decisions.
+      * After each election is over, the forum webpage will show how the jury decided.  
+      * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
       * #### Staking To Pay For the Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
