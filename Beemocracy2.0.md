@@ -132,7 +132,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
             * DReps in CIP-1694 are elected rulers.
             * Scouts collect and share information so that the juries can make good collective decisions.
         * Validation will ensure scouts can only publish one child solicitation to comment on a proposal.
-      * After each election is over, the forum webpage will show how the jury decided.  
+        * Trials for governance proposals end when each juror casts their vote and explains their reasoning with a binding solicitation signed with their digital signature. Then jurors sign a multi-sig transaction to end the trial. Smart contracts check the ranks of all the jurors to verify they have the permissions to decide the proposal and then the smart contracts automatically distribute funds, change parameters, or take some other governance action. The forum webpage will show how the jury decided.  
       * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
       * #### Staking To Pay For the Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
