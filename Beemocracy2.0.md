@@ -70,31 +70,31 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that.
       * Bee democracy is structured like so because those structured differently were all selected out of existence.
       * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
-    * #### **Abstracting bee democracy functions and applying these to Cardano governance**
-      * The data structure of this governance system is much like any online forum that we are used to.  
-      * The governance is hosted on an immutable online forum for:
-        *  Submitting and reading governance proposals 
-        *  Submitting and reading scout opinions and their voting recommendations
-      * Each scout must solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended vote. 
-      * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
-      * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
-        * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.  
-      * The scouts's voting recommendation is cast and embedded in the solicitation text with their digital signature. 
-      * The scout's voting recommendation can not be changed once the solicitation has been published.
-      * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
-      * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
-        * The reputation system will be tiered based on the following criteria with the higher tiered scouts serving on juries which decide cases that hold greater importance for the community:
-          * the amount of solicitations the scout has written for or against governance proposals within the last 365 days.
-          * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
-          * the range of subjects the scout writes about.
-          * the number of times an elite scout has served on a jury
-          * the types of proposals the scout has helped decide
-          * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
-          * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
-          * how often they add to or challenge other scout solicitations
-          * how well their work is judged by other scouts
-          * How many words on average are in the solicitations.
-          * and so on
+  * #### **Abstracting bee democracy functions and applying these to Cardano governance**
+    * The data structure of this governance system is much like any online forum that we are used to.  
+    * The governance is hosted on an immutable online forum for:
+      *  Submitting and reading governance proposals 
+      *  Submitting and reading scout opinions and their voting recommendations
+    * Each scout must solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended vote. 
+    * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
+    * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
+      * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.  
+    * The scouts's voting recommendation is cast and embedded in the solicitation text with their digital signature. 
+    * The scout's voting recommendation can not be changed once the solicitation has been published.
+    * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
+    * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
+      * The reputation system will be tiered based on the following criteria with the higher tiered scouts serving on juries which decide cases that hold greater importance for the community:
+        * the amount of solicitations the scout has written for or against governance proposals within the last 365 days.
+        * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
+        * the range of subjects the scout writes about.
+        * the number of times an elite scout has served on a jury
+        * the types of proposals the scout has helped decide
+        * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
+        * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
+        * how often they add to or challenge other scout solicitations
+        * how well their work is judged by other scouts
+        * How many words on average are in the solicitations.
+        * and so on
       * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice.
         * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the solicitations.
