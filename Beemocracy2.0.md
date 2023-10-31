@@ -114,8 +114,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * The hash of the solicitation text is also the URL of the document when posted using the IPFS protocol.
           * So the proposal/solicitation transaction on the Cardano blockchain is linked to the text of the proposal (1st solicitation) on the IPFS webpage via the hash of the solicitation text.
         * Other scouts will wish to comment on the proposal and make a voting recommendation.
-          * Scouts will write solicitations of their own with respect to the original proposal that gives a voting recommendation and explains their position.
-          * The voting transaction is assembled as follows:
+          * Scouts will write solicitations of their own which get linked to the original proposal.
+          * The solicitation transaction is assembled as follows:
             * The vote (For | Against) is included in the transaction.
             * The text of these solicitations are hashed and included in the voting transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
@@ -131,6 +131,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
             * So now the retraction gets listed under their original solicitation and jurors can see that the scouot now regrets the vote.
             * DReps in CIP-1694 are elected rulers.
             * Scouts collect and share information so that the juries can make good collective decisions.
+        * Validation will ensure scouts can only publish one child solicitation to comment on a proposal.
       * After each election is over, the forum webpage will show how the jury decided.  
       * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
       * #### Staking To Pay For the Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
