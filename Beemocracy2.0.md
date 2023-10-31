@@ -42,14 +42,17 @@ Network traffic, Volume of data, Whale control, Privacy, Identity, Bootstrapping
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
     * Beemocracy responds to all governance proposals by inviting any ADA holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
-    * Scouts register the solicitation on the Cardano blockchain which binds their report and recommended vote to their digital signature.
-    * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature.
+    * Scouts register their solicitation on the Cardano blockchain with their hardware wallet.
+      * This binds their report and recommended vote to their digital signature.
+    * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature associated with their hardware wallet.
+      * In this way, scouts (any ADA holder) gain history, reputation, and standing in the community without revealing their identity.
     * All governance proposals go before a jury to be decided, so the scout's solicitations are information and recomendations used to help the juries decide.
-    * The jury is comprised of randomly selected elite scouts - those who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the matter with an associated locked vote then the locked vote is not binding. The scout is free to listen to all arguments and decide anew.
+      * So every ADA holder gets a voice with respect to governance proposals.
+    * The jury is comprised of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation then the voting recommendation is not binding. The scout is free to listen to all arguments and decide anew.
     * So the solicitations serve two functions:
-      1.  The solicitations are used to help inform juries as proposals are decided.
+      1.  The solicitations are used to help inform juries when proposals are decided.
           * Think - scout bees examining various sites for their new hive.
-          * Think - scouts coming back to the hive for a waggle dance debate with **first hand information** to use in making a decision.
+          * Think - scouts coming back to the hive with **first hand information** to use in making a decision.
       2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
   * #### Bee Democracy vs Human Democracy
@@ -59,11 +62,11 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of thier own within the past 365 days.
     * Elite scouts are eligable to serve on juries which decide governance proposals.
-    * These jury trials ensure that all governace proposals are debated using information collected by scouts
+    * These jury trials ensure that all governace proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
     * Unlike the DReps in Cardano's CIP-1694...
-      * The Beemocracy structure enforces that scouts must earn support through honest debate using information they verify for themselves. The result is good decisions.
+      * The Beemocracy structure enforces that governance proposals must earn support through honest debate by randomly selected juries using information gathered by the community. The result is good decisions.
         * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
-      * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors (Elite Scouts) have decided.
+      * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
         * In human democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers.
       * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
