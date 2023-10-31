@@ -1,7 +1,7 @@
 # Under Construction
 Beemocracy is being updated to reflect that all governance proposals will windup in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. This will greatly simplify the implementation of Beemocracy and eliminate almost all of the network traffic and eliminate most of the data too.
 
-# beemocracy
+# Beemocracy
 Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
