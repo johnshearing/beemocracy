@@ -146,33 +146,35 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
             * DReps in CIP-1694 are elected rulers.
             * Scouts collect and share information so that the juries can make good collective decisions.
         * Trials for governance proposals end when each juror casts their vote and explains their decision with a solicitation signed with their digital signature. Then jurors sign a multi-sig transaction which binds all their decisions to end the trial. Smart contracts check the ranks of all the jurors to verify they have the permissions to decide the proposal and then the smart contracts automatically distribute funds, change parameters, or take some other governance action. The forum webpage will show how the jury decided.
-        * Validation will ensure each scout can publish one child solicitation only to comment on a governance proposal.
+        * Prevent Spamming The Blockchain With Solicitations
+          * Perhaps smart contract validation could ensure each scout can publish only one child solicitation to comment on a governance proposal.
+          * An alternative method of enforcement is reducing rank associated with a digital signature for spamming the blockchain with solicitations.
+          * A fee might also be charged for posting solicitations to reduce spamming and to cover the cost of maintaining that record.
       * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
       * #### Staking To Pay For the Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
-        * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all BRep solicitations for delegation, for or against the proposal. 
+        * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all scout solicitations, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spamming the system.
         * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages by lottery as follows.
           * Distributing the staking rewards by lottery allows market forces to promote redundant copies of all proposal webpages.
           * At random intervals, one of the hosted webpages (selected by lottery) for a given proposal will be requested and hashed to ensure the data is accessible and that the contents has not been altered.
           * The IPFS address and the document hash should be the same if the document has not been changed.
-          * If the proposal webpage is returned unaltered then the host is paid the staking rewards associated with that lottery slot
-          * If the proposal webpage is not returned by the host computer then the host does not get paid the lottery reward and the lottery is repeated with another host for that proposal webpage selected at random.
-          * If a host fails again to return the data the next time it wins the lottery then it is removed from the index of hosts for that governance proposal
-          * So document hosts get paid by lottery in much the same way as Cardano stake pool operators get paid
+          * If the proposal webpage is returned unaltered then the host is paid the staking rewards associated with that lottery slot.
+          * If the proposal webpage is not returned by the host computer then the host does not get paid the lottery reward, and the lottery is repeated with another host for that proposal webpage selected at random.
+          * If a host fails again to return the data the next time it wins the lottery then it is removed from the index of hosts for that governance proposal.
+          * So document hosts get paid by lottery in much the same way as Cardano stake pool operators get paid.
         * In this way the proposal webpage and all associated solicitations will persist for all eternity in a decentralized manner.
         * It may be that the cost of bandwidth and hashing power are too expensive to allow verification for proof of bandwidth and proof of storage. It is my understanding that currently the consumer/tester must request the entire document, and the host must provide it in a timely manner. Then the consumer/tester must hash the document to ensure that it matches the IPFS address of the document. This may be prohibitively expensive and is perhaps one reason that decentralized document storage has not caught on despite all the money which has been spent developing the idea. One compromise which proves the host at least has the document is to send the host a random number that is to be appended to the document. The host then hashes the document and sends back the hash to the consumer/tester. This requires much less bandwidth. Then the consumer/tester hashes the document along with the same appended random number. If the hash is the same then the consumer/tester knows that the host at least is in possession of the document. The problem with this approach is that the consumer/tester must also have the document in order to hash it, and the hashing computation is expensive and so is the bandwidth required to get the document from the host. I am no expert, in fact I am not even a novice, but it seems to me that recursive zero knowledge proofs, which will likely be available with the Midnight sidechain, solve this problem and so Cardano could be the first to market with an inexpensive way to prove a host at least is in possession of a document. Then reports from general consumers could be used to verify bandwidth and document availability.
-      * CC, BRep, and SPO votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
+      * Constitutional Committee, Elite Scouts, and Stake Pool Operator votes to remain transparent by virtue of the solicitation process which forces all to explain their votes and leave a body of information so that future generations will understand why those decisions were made
       * **The Bee Democracy Structure Ensures That:**  
-        * Delegators have lots of good information to make their decisions  
-        * Delegators are deliberately casting their delegation of ADA for a given proposal via solicitations
-        * Uninformed delegators don't delegate  
-        * Uninformed BReps don't vote
-        * Delegators know in advance, before delegation, how BReps voted and why
-        * BReps must explain their reasoning on every proposal
+        * Scouts are incentivized by investment in their own reputations to provide accurate information in their solicitations and voting recommendations.
+        * Jurors have lots of good information from solicitations to make their decisions 
+        * Jurors are incentivized by investment in their own reputations to make good decisions for the community
+        * Uninformed and uninvolved ADA holders don't serve on juries  
+        * Reputation, history, rank, and collection of previous solicitations help in jury selection from a randomized pool of potential jurors.
+        * Jurors must explain their reasoning on every vote for or against a proposal.
         * A body of literature remains (the solicitations) so future generations will understand how we came to our decisions and what they should consider before making changes
-        * Votes and delegations are bound to solicitations for or against a proposal as an audit trail of the election and proof that there has not been any election fraud.
-        * #### BReps can remain anonymous, building reputations only on their body of solicitations which all have the same signature.  
+        * Scouts can remain anonymous, building reputations only on their body of solicitations and public service which all have the same digital signature. No KYC required.
 
 #### **Prevent Buying and Selling of Delegation** 
  * With regard to [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694), Treasury withdrawals come to mind but there will be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the [end of an epoch](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694#lifecycle) when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.
