@@ -4,12 +4,12 @@ Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Hone
 Code implementation is in the planning stages  
 
 Problems addressed:
-Network traffic, Volume of data, Whale control, Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise.
+Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data.
 
 Changes from [Beemocracy1.0](https://github.com/johnshearing/beemocracy#readme)
 Beemocracy has being updated to reflect that all governance proposals will wind up in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. 
 Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. 
-This greatly simplifies the code implementation of Beemocracy and eliminates almost all of the network traffic and eliminates most of the on chaindata data required to run Cardano governance.
+This greatly simplifies the code implementation of Beemocracy and eliminates almost all of the network traffic and eliminates most of the on-chain data data required to run Cardano governance.
 
 #### **Modeling Cardano Governance On Bee Democracy**  
    
