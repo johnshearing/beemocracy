@@ -4,7 +4,7 @@ Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Hone
 Code implementation is in the planning stages  
 
 Problems addressed:
-Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data.
+Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data, Simplicity of code implementation.
 
 Changes from [Beemocracy1.0](https://github.com/johnshearing/beemocracy#readme)  
 Much simpler now yet still enforces those qualities that evolution selects for when addressing collective decision making:  
