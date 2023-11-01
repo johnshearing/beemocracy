@@ -81,12 +81,12 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * Each scout must solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended vote. 
     * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
     * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
-      * So the on-chain transaction with the signed vote and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.  
-    * The scouts's voting recommendation is cast and embedded in the solicitation text with their digital signature. 
-    * The scout's voting recommendation can not be changed once the solicitation has been published.
+      * **So the on-chain transaction with the signed voting recommendation and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.**  
+    * The scouts's voting recommendation is embedded in the solicitation text and signed using their hardware wallet.
+    * The scout's voting recommendation can not be changed once the solicitation has been published (Blockchain transactions are immutable).
     * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
     * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
-      * The reputation system will be tiered based on the following criteria with the higher tiered scouts serving on juries which decide cases that hold greater importance for the community:
+      * The reputation system will be tiered based on the following criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
         * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
         * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
         * the range of subjects the scout writes about
@@ -99,10 +99,21 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * How many words on average are in the solicitations
         * and so on
       * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
-        * These solicitations may be considered by the jurors. So everyone gets a voice.
-        * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the solicitations.
-      * Elite scouts, those who have written 10 or more solicitations within the past 365 days, may serve on juries.
-        * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve at jury until they start scouting again
+        * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
+      * Jurors can get a lot of information from the body of solicitations before reading them individually.
+        * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the individual solicitations.
+        * Jurors can also see who has recommend for or against a proposal.
+          * While scouts can choose to remain anonymous, they may also choose to reveal their identities.
+            * So if a juror sees that a solicitation with recommended vote is registered by Charles Hoskinson then they might give the proposal extra attention.
+          * But each solicitation is linked by a hardware wallet to a scout's anonymous reputation, history, rank, and all the other solicitations associated with a scout's wallet.
+            * This means that jurors can find out a lot of relevant information about a solicitation's author without knowing the scout's identity.
+            * This gives Cardano governance the benefits of KYC without the problems.
+        * The scout associated with a digital signature might be an individual, a group of people, and organizations such as an exchange, or even an artificial intelligence.
+          * Who or what is the actual identity behind a solicitation's signature is not as important as the information presented in the solicitation.
+          * This is because if it is determined that the solicitation misrepresents the facts then this will negatively impact the reputation invested in the digital signature.
+          * So no matter if the scout is an individual, an organization, or an AI, the incentive is to provide accurate information.
+      * Elite scouts, those ADA holders who have written 10 or more solicitations within the past 365 days, may serve on juries.
+        * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve at jury until they start scouting again.
         * This is very much the same as in actual honey bee society.
       * Scouts earn rank to decide proposals of greater importance to the community.
         * As scouts meet more and more of the criteria listed above they get to handle more and more types of cases and more and more important issues as they prove they are up to the tasks and ready to serve.
