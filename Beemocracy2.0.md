@@ -7,6 +7,8 @@ Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data.
 
 Changes from [Beemocracy1.0](https://github.com/johnshearing/beemocracy#readme)  
+Much simpler now yet still enforces those qualities that evolution selects for when addressing collective decision making:  
+   Honest decentralized debate and decision making using accurate first hand information.  
 Beemocracy has been updated to reflect that all governance proposals will wind up in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. 
 Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. 
 This greatly simplifies the code implementation of Beemocracy and eliminates almost all of the network traffic and eliminates most of the on-chain data required to run Cardano governance.
