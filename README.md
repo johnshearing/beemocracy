@@ -1,3 +1,9 @@
+# Depricated
+[Please see Beemocracy2.0 linked here.](https://github.com/johnshearing/beemocracy/blob/main/Beemocracy2.0.md)
+Beemocracy has being updated to reflect that all governance proposals will wind up in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. This greatly simplifies the code implementation of Beemocracy and eliminates almost all of the network traffic and eliminates most of the on-chain data data required to run Cardano governance.
+
+
+
 # beemocracy
 Governance System For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
