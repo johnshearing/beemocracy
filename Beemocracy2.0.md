@@ -96,6 +96,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
           * stake pool operator
+          * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralize manner.
           * creates educational material
           * respected youtubers
           * researchers
@@ -158,11 +159,12 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * An alternative method of enforcement is reducing rank associated with a digital signature for spamming the blockchain with solicitations.
           * A fee might also be charged for posting solicitations to reduce spamming and to cover the cost of maintaining that record.
       * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
-      * #### Staking To Pay For the Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Voting, And Delegation 
+      * #### Staking To Pay Library Pool Operator For the IPFS Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Jury Decisions 
         * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all scout solicitations, for or against the proposal. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spamming the system.
-        * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages by lottery as follows.
+        * Library Pool Operators
+          * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages on the IPFS by lottery as follows.
           * Distributing the staking rewards by lottery allows market forces to promote redundant copies of all proposal webpages.
           * At random intervals, one of the hosted webpages (selected by lottery) for a given proposal will be requested and hashed to ensure the data is accessible and that the contents has not been altered.
           * The IPFS address and the document hash should be the same if the document has not been changed.
