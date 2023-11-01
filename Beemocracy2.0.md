@@ -94,6 +94,13 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * the types of proposals the scout has helped decide
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
         * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
+        * the types of services they provide for the community
+          * stake pool operator
+          * creates educational material
+          * respected youtubers
+          * researchers
+          * activists
+          * Work at IOG, Cardano Foundation, Emurgo, government, partner corperations, DAOs
         * how often they add to or challenge other scout solicitations
         * how well their work is judged by other scouts
         * How many words on average are in the solicitations
@@ -175,99 +182,10 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * Jurors must explain their reasoning on every vote for or against a proposal.
         * A body of literature remains (the solicitations) so future generations will understand how we came to our decisions and what they should consider before making changes
         * Scouts can remain anonymous, building reputations only on their body of solicitations and public service which all have the same digital signature. No KYC required.
-
-#### **Prevent Buying and Selling of Delegation** 
- * With regard to [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694), Treasury withdrawals come to mind but there will be a market for delegation on most any governance action. It seems that in a close election where there is a lot of ADA waiting on the outcome, a market for delegation is created where delegation becomes much more valuable as we approach the [end of an epoch](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694#lifecycle) when votes are tallied. Payment for delegators could be in ADA or another currency. So there may be a perverse incentive for delegators to wait till the last minutes of an epoch before delegating in order to get the best price for their delegation. Aside from corrupting the election, it could also overload the system as votes come in at the last moments before an epoch closes.
-  * There is already an automated market for buying and selling delegation on Catalyst proposals [as seen in the video linked here](https://www.youtube.com/live/qhG2EiFJrRk?feature=share&t=1472) which is queued up to the spot where it is explained what they are doing. Many may be shocked to know that this is happening already and that there is no reason the same scheme cannot be perpetuated against governance in CIP-1694. The way I see it, only thing that will protect the community from having the treasury emptied or the parameters hijacked as CIP-1694 stands now is the constitutional committee.
-  * Delegation is linked to wallets in an obvious way so payment for delegation could be most easily made in ADA.  
-  * In this market for delegation:  
-    * Where it is known exactly how much delegation you still need in order to get the ADA for your project out of the treasury,  
-    * which makes possible to calculate with certainty the price for delegation which leaves you with your target profit margin intact,  
-    * and where you can broadcast an offer to purchase delegation,  
-    * and where you can see exactly which wallets are delegating to you in response to your offer...  
-    * Then you know exactly where to send the delegator's share of ADA after snatching it from the treasury.  
-    * Likely this fraud could be automated via smart contract in a trustless manner such that the price for  delegation is displayed and so that the dishonest delegators would not need to trust the dishonest DRep for payment.  
-    * This attack could also be carried out on a vote for parameter change or on any other governance action.  
-  * In bee democracy there is a race to consensus which prevents a market for delegation from emerging - Bees can't sell their delegation 
-    * A race to consensus is not possible in Cardano democracy because too many votes or delegations in a short amount of time will jam the system
-    * So other methods must be employed to make delegation of ADA more costly to buy then simply buying ADA at market rate.  
-      * Block the ability to read the total amount of ADA delegated to a BRep's solicitation while voting is in progress.  
-        * This makes it impossible to calculate the ADA tally until the election is over
-        * This will help prevent a delegation market from emerging during an election by making it difficult to determine how much ADA delegation is required to pass a proposal  
-        * This may necessitate voting on a sidechain which has the required properties 
-      * Block the ability of anyone except the delegator from seeing to which solicitation an individual has delegated   
-        * This will help prevent a delegation market from emerging during an election by making it difficult to determine the how much ADA is needed to pass a proposal
-        * Prevents a delegation market from forming because it would not be easy (cost effective) for BReps to know where to send ADA in exchange for delegation after the election  
-        * Prevents automating a delegation market with smart contracts
-        * Allows proof that an election is not rigged  
-        * Protects delegator from reprisal by a current regime  
-        * This may necessitate voting on a sidechain which has the required properties
-      * #### **The voting mechanism is generally as follows:**
-        * The functionality described can be built into any Cardano wallet to make the delegating experience quick and easy:
-        * Using the browser embedded into the wallet, the delegator visits the Interplanetary File System (IPFS) website where Cardano proposals are hosted.
-        * The delegator navigates to the desired proposal and reads it.
-        * The proposal is the first solicitation so if the delegator thinks they have enough information then they can delegate (for | against | abstain) by the method to be described shortly.
-        * If the delegator would like to know more before delegating then they can read the solicitations (for, against, abstain) written by BReps which are webpages  found by links below the proposal. 
-        * If any of these opinions resonate with the delegator then they can delegate to the solicitation (for | against | abstain) by the following method:
-          * The IPFS URL of the solicitation webpage is the hash of the webpage and the hash of the webpage is one of the fields in the Cardano transaction which registers the solicitation. So the wallet finds the solicitation transaction_ID on the Cardano blockchain using the webpage URL as the key.
-          * Now, using the wallet, the user chooses to delegate (for | against | abstain)
-          * Next the user pushes the sign the transaction button and a zero knowledge proof is generated. This proves that a user delegated their wallet to their selected solicitation with their selected (for | against | abstain) option but will not reveal any of this information at this time
-          * Then the wallet encrypts the signed transaction with a public key generated by the Constitutional Committee. This way, no one will be able to see the zero knowledge proof until it's time to count the votes. Hiding the delegation count until the election is over will help to suppress a market for selling delegation. Does Mithril have a use here?
-          * Now the wallet broadcasts the transaction and receives a receipt which can be applied to a zero knowledge proof verifier so that the wallet owner can verify that their delegation was cast correctly. 
-          * After the voting deadline is over. Constitutional Committee takes a snapshot of the blockchain to see how much ADA each wallet contains and then decrypts the zero knowledge proofs of how the wallets were delegated so as to see how much ADA was delegated (for | against | abstain) with respect to the proposal all without ever exposing which wallets were delegated to the solicitations. 
-        * That this is possible with zero knowledge proofs seems like magic to me so I am working now to verify that this is indeed possible. If it is then everything else is just a matter of coding. It will not be an easy task but IOG has provided the tech stack and the learning tools so I am just going to do it a step at a time. Maybe others will want to help or perhaps will want to compete with their own implementation. The Cardano blockchain is permissionless so there is no limit to the amount of governance systems that can live and work on the Cardano blockchain. So we might as well try a lot of different ideas - it's all good for the community. I intend to build a governance system modeled on Bee Democracy.
-        * #### **The Tool Stack**
-          * [Voteaire](https://voteaire.io/) is a functioning voting system which runs on Cardano
-            * Congratulations to the Voteaire Team! 
-            * The Voteaire Team has agreed to see what they can do to help with this project
-          * [Mina - A Zero Knowledge Proof Blockchain](https://minaprotocol.com/)
-            * Mina uses Cardano's Ouroboros consensus mechanism but replaces the blockchain with a recursive zero knowledge proof
-            * The proof always remains the same small size - about 22KB
-            * [Dr Vanishree Rao, formerly of Mina, is now Head of Applied Cryptography at IOG](https://www.bitcoininsider.org/article/192150/academic-who-led-mina-protocol-development-joins-cardano-builder-iog-head-applied)
-              * This tells me we should be looking at Mina to see what ZKP tool stack is likely to work with Cardano moving forward.
-             * See Mina's blog post: [Zero-Knowledge Proofs for Voting](https://blog.o1labs.org/zero-knowledge-proofs-for-voting-3c6a6d5d89db)
-            * [Here we see](https://youtu.be/KVJWBk0wNSE?t=46) it is possible to experiment with Mina and later add our own ZK application layer to Cardano when we know more about what we need.
-          * IOG is developing the following tools which relate to voting or use ZKPs
-            * [Mithril](https://mithril.network/doc/)
-              * Cardano's own Mithril project seems promising for exactly this type of voting [as seen in this video linked here](https://youtu.be/MlBipDc6GPU) presented by ADA North Pools
-                * It seems the function of Mithril is to allow multiple parties (scales to thousands) to sign a transaction anonymously in such a way that the amount of ADA they hold is weighted in the signature. That's exactly what is required in order to implement a voting system which weighs solicitations according to delegation while ensuring privacy.
-              * Mithril uses [Bulletproofs](https://github.com/sdiehl/bulletproofs) (zero knowledge proofs written in Haskell) as seen [in this video](https://youtu.be/MlBipDc6GPU) also presented by ADA North Pools.
-            * [IOG's Voting Tools - Rust](https://github.com/input-output-hk/voting-tools-rs)
-              * This tool generates voting power info from a db-sync instance.
-            * [Cardano Sidechains Tooling](https://github.com/input-output-hk/sidechains-tooling)
-            * [Atala Prism](https://atalaprism.io/)
-            * Midnight
-              * Cardano's privacy coin under development
-            * [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/)
-              * Cardano's privacy smart contracts under development
-          * IOG has the following blog posts and papers on the related to voting and ZKPs: 
-            * [Zk-SNARKs: updatable setups on the blockchain](https://iohk.io/en/blog/posts/2022/09/01/zk-snarks-updatable-setups-on-the-blockchain/) 
-            * [ATreasurySystemforCryptocurrencies: Enabling Better Collaborative Intelligence](https://eprint.iacr.org/2018/435.pdf)
-            * [Mithril: Stake-based Threshold Multisignatures](https://iohk.io/en/research/library/papers/mithril-stake-based-threshold-multisignatures/)
-            * [Decentralised Update Selection with Semi-Strategic Experts](https://iohk.io/en/research/library/papers/decentralised-update-selection-with-semi-strategic-experts/)
-            * [Privacy Preserving Opinion Aggregation](https://iohk.io/en/research/library/papers/privacy-preserving-opinion-aggregation/)
-            * [Models for Generation of Proof Forest in ZK-SNARK Based Sidechains](https://iohk.io/en/research/library/papers/models-for-generation-of-proof-forest-in-zk-snark-based-sidechains/)
-          * Learning materials for working with ZKPs are [found at this link here](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
-            * Thanks to PREEB Pool for [information about the learning materials](https://cardano.stackexchange.com/questions/11083/preferred-library-for-working-with-zero-knowledge-proofs/11084#11084)
-
-#### **Dealing With Low Delegator Participation Which Blocks Governance Action**  
-  * It is essential for the security of the Cardano blockchain that delegators (the regular folks) participate in elections. Otherwise whales and exchanges will be winning all the governance actions and will manipulate Cardano government for their advantage with little or no consideration for the unbanked individuals that Cardano was built to serve. It is assumed that the big investors will always delegate their ADA to any solicitation which best advances their goals. Since it can be estimated how much ADA is held by big investors, a delegation threshold parameter is coded into the system to ensure that a significant amount of ADA (well above what the big investors hold) is delegated to the solicitations. This is the only way to know for sure that the little people are delegating too. If delegation to the solicitations does not meet the threshold when votes are tallied then the proposal is dismissed and no action is taken. So a mechanism which is meant to protect small investors will have the unintended consequence of blocking all governance if small investors are not interested enough to delegate their ADA in order to settle the matter. There is a way to proceed with governance if a proposal suffers from low delegator participation
-    * #### **Putting A Proposal On Trial**
-      * If an election does not meet the threshold for delegator participation then the proposal goes to trial. 
-      * Jurors are randomly selected from the pool of BReps in an amount equal to the number of Constitutional committee members. Their identities are not required - they can remain anonymous. All that is required is that they have submitted perhaps 10 solicitations in the past 365 days. If they can provide the same signature that is on their past solicitations, that is all which is needed to establish them as community members and to judge their character and reputation.
-      * In an online meeting (audio only - no video), each juror is questioned by BReps from both sides of the proposal to determine that they are willing to examine both sides of the issue and have the time to do so.
-      * Jurors are then asked to read the solicitations. 
-      * The next day there is a group online discussion with BReps from both sides of the proposal presenting to the jurors
-      * Finally, the jurors vote on the proposal using the same signature they have been using to sign their past solicitations
-    * Advantages of the Trial Structure For Handling Low Delegator Turnout
-      * **Cardano Citizens remain anonymous and yet establish their BRep identity, reputation and right to vote in trials through their work creating solicitations**.
-        * This is a big deal. This is the closest we can get to establishing a one person one vote system without the need to know the identities of our citizens.
-        * This works because BRep identities are established by the digital signatures on their solicitations which are the same signatures they use to vote in trials.
-      * **Boot Strapping Problem is solved**.
-        * All citizens have the right to delegate their ADA to a BRep's solicitation and any citizen can become a BRep and write a solicitation that receives delegation. But only BReps that have created a body of 10 or more solicitations in the past 365 days are eligible to vote in a trial. So all governance actions are first presented as solicitations that the entire community votes on by virtue of their delegation to the solicitations. In the beginning, if delegator turn out is low then the proposal goes to trial and the Constitutional Committee will vote on the matter. But while these first 10 governance actions are being decided, BReps are establishing their anonymous identities, reputation, and right to vote in trials by writing their own solicitations. In only a short time, the community will have a very large pool of BReps that have earned the right to vote on proposals that go to trial. At this point the Constitutional Committee is no longer involved in proposal trials and decide only whether or not proposals are constitutional. By putting all proposals before the entire community first, we insure that many more citizens are continually writing BRep solicitations and earning their right to vote in trials.
-      * **The community gets first shot at handling all governance actions**
-      * **The community can take control from the BReps at any time simply by delegating**
-        * Because all proposals go before the delegators (the regular folks) first before going to trial, delegators can take all power away from the BReps simply by turning out for delegation to the solicitations. If delegators reach the threshold for delegations then the BReps never get to vote on the proposal in a trial. Power to the people! That's incentive to delegate.
+       
+#### Possible Exploits
+  * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
+    * The investment in becoming an elite scout and earning rank and privilage must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
 
 #### **Constitutional Issues**
   * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
