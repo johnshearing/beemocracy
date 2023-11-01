@@ -27,7 +27,7 @@ Network traffic, Volume of data, Whale control, Privacy, Identity, Bootstrapping
     * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus using the following steps:
       * About two thirds of all the bees swarm outside the hive
       * Scout bees leave the swarm to look for suitable sites for a new hive
-      * Scout bees return to the colony to report the direction and quality of a new home site with the intention of getting other scouts to examine the sight.
+      * Scout bees return to the colony to report the direction and quality of a new home site with the intention of getting other scouts to examine the site.
       * If a certain number of scouts find themselves at a new home site all at the same time (from 10 to 20 implying ≈ 150 had inspected the site) that will trigger a "quorum reaction" in the scouts which causes all of them to return back to the swarm and guide the bees to the new home site.
       * That many bees are returning to give reports on various new home sites creates a race to get new scout bees to look at the best sights in order to be the first to obtain a quorum reaction.
       * What causes bees to arrive at a quorum reaction at the most suitable new home site is:
@@ -60,15 +60,15 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
     * Beemocracy has scouts. 
     * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
-    * Elite scouts are community members who have written at least 10 solicitations of thier own within the past 365 days.
-    * Elite scouts are eligable to serve on juries which decide governance proposals.
-    * These jury trials ensure that all governace proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
+    * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
+    * Elite scouts are eligible to serve on juries which decide governance proposals.
+    * These jury trials ensure that all governance proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
     * Unlike the DReps in Cardano's CIP-1694...
       * The Beemocracy structure enforces that governance proposals must earn support through honest debate by randomly selected juries using information gathered by the community. The result is good decisions.
         * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
-        * In human democracy like Cardano's CIP-1694 the delegated representatives only their earn delegation once and then learn to exploit their power for personal gain during the rest of their careers.
+        * In human democracy like Cardano's CIP-1694 the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
       * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
         * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that.
       * Bee democracy is structured like so because those structured differently were all selected out of existence.
@@ -84,8 +84,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * **So the on-chain transaction with the signed voting recommendation and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.**  
     * The scouts's voting recommendation is embedded in the solicitation text and signed using their hardware wallet.
     * The scout's voting recommendation can not be changed once the solicitation has been published (Blockchain transactions are immutable).
-    * The scout's collection of digitally signed solicitations on governance proposials becomes a very important part of their reputation.
-    * A scout's reputation is used to determine their character, in jury selection and is also used to determine the types of governace proposals they can help decide.
+    * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation.
+    * A scout's reputation is used to determine their character in jury selection and is also used to determine the types of governance proposals they can help decide.
       * The reputation system will be tiered based on the following criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
         * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
         * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
@@ -93,15 +93,15 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * the number of times an elite scout has served on a jury
         * the types of proposals the scout has helped decide
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
-        * the types of cases they write about. Are they specialist in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
+        * the types of cases they write about. Are they specialists in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
           * stake pool operator
-          * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralize manner.
+          * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner.
           * creates educational material
           * respected youtubers
           * researchers
           * activists
-          * Work at IOG, Cardano Foundation, Emurgo, government, partner corperations, DAOs
+          * Work at IOG, Cardano Foundation, Emurgo, government, partner corporations, DAOs
         * how often they add to or challenge other scout solicitations
         * how well their work is judged by other scouts
         * How many words on average are in the solicitations
@@ -110,7 +110,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
       * Jurors can get a lot of information from the body of solicitations before reading them individually.
         * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the individual solicitations.
-        * Jurors can also see who has recommend for or against a proposal.
+        * Jurors can also see who has recommended for or against a proposal.
           * While scouts can choose to remain anonymous, they may also choose to reveal their identities.
             * So if a juror sees that a solicitation with recommended vote is registered by Charles Hoskinson then they might give the proposal extra attention.
           * But each solicitation is linked by a hardware wallet to a scout's anonymous reputation, history, rank, and all the other solicitations associated with a scout's wallet.
@@ -121,7 +121,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * This is because if it is determined that the solicitation misrepresents the facts then this will negatively impact the reputation invested in the digital signature.
           * So no matter if the scout is an individual, an organization, or an AI, the incentive is to provide accurate information.
       * Elite scouts, those ADA holders who have written 10 or more solicitations within the past 365 days, may serve on juries.
-        * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve at jury until they start scouting again.
+        * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve on a jury until they start scouting again.
         * This is very much the same as in actual honey bee society.
       * Scouts earn rank to decide proposals of greater importance to the community.
         * As scouts meet more and more of the criteria listed above they get to handle more and more types of cases and more and more important issues as they prove they are up to the tasks and ready to serve.
@@ -143,14 +143,14 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
             * The supporting solicitations also have another field in the on chain transaction which is just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
-              * So it is easy make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
+              * So it is easy to make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
         * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
             * Another field in the transaction is the hash of the scout's solicitation for which they now wish to comment on.                  
             * This establishes exactly what previous solicitation they are commenting on.
             * This makes the retraction a child of the scout's solicitation and the solicitation is a child of the original proposal.
-            * So now the retraction gets listed under their original solicitation and jurors can see that the scouot now regrets the vote.
+            * So now the retraction gets listed under their original solicitation and jurors can see that the scout now regrets the vote.
             * DReps in CIP-1694 are elected rulers.
             * Scouts collect and share information so that the juries can make good collective decisions.
         * Trials for governance proposals end when each juror casts their vote and explains their decision with a solicitation signed with their digital signature. Then jurors sign a multi-sig transaction which binds all their decisions to end the trial. Smart contracts check the ranks of all the jurors to verify they have the permissions to decide the proposal and then the smart contracts automatically distribute funds, change parameters, or take some other governance action. The forum webpage will show how the jury decided.
@@ -187,7 +187,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
        
 #### Possible Exploits
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
-    * The investment in becoming an elite scout and earning rank and privilage must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
+    * The investment in becoming an elite scout and earning rank and privilege must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
 
 #### **Constitutional Issues**
   * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
