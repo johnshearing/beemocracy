@@ -161,8 +161,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * An alternative method of enforcement is reducing rank associated with a digital signature for spamming the blockchain with solicitations.
           * A fee might also be charged for posting solicitations to reduce spamming and to cover the cost of maintaining that record.
       * #### We will need filtering tools in our blockchain explorers to help forum operators organize the volume of solicitations. 
-      * #### Staking To Pay Library Pool Operator For the IPFS Immutable Website Which Hosts the Online Forum For Governance Proposals, Solicitations, Debate, Jury Decisions 
-        * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all scout solicitations, for or against the proposal. 
+      * #### Staking To Pay Library Pool Operators For Hosting IPFS Immutable Webpages Which Host the Online Forum For Governance Proposals, Solicitations, Debate, Jury Decisions 
+        * We will need an immutable website using the decentralized IPFS protocol which presents a forum to contain the text and the hash for all governance proposals and all scout solicitations, for or against the proposals. 
         * Everything on the governance website must persist for all eternity so future generations will know why we made the decisions we made.
         * With every governance proposal and solicitation, there must be a payment in ADA to cover the cost of hosting the proposal and to prevent spamming the system.
         * Library Pool Operators
