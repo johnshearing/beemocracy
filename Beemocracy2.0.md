@@ -6,13 +6,6 @@ Code implementation is in the planning stages
 Problems addressed:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data, Simplicity of code implementation.
 
-Changes from [Beemocracy1.0](https://github.com/johnshearing/beemocracy#readme)  
-Much simpler now yet still enforces those qualities that evolution selects for when addressing collective decision making:  
-   Honest decentralized debate and decision making using accurate first hand information.  
-Beemocracy has been updated to reflect that all governance proposals will wind up in a jury trial anyway because of the enormously high ADA delegation threshold required for whale control. 
-Given the above, it became obvious that it makes sense to implement Beemocracy without any mechanism to delegate ADA or count the scout votes because all proposals will ultimately be decided at jury trials anyway. 
-This greatly simplifies the code implementation of Beemocracy and eliminates almost all of the network traffic and eliminates most of the on-chain data required to run Cardano governance.
-
 #### **Modeling Cardano Governance On Bee Democracy**  
    
   * Abstract
@@ -39,7 +32,7 @@ This greatly simplifies the code implementation of Beemocracy and eliminates alm
         2. No scouts will give a report without first visiting the site for themselves.
       * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy enforces.
       * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that Beemocracy abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
-    * **By abstracting nature's results into [CIP-1694](https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694) we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
+    * **By abstracting nature's results we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
     * A race to consensus by voting is not possible in Cardano democracy because too much network activity in a short amount of time will jam the system.
     * So deciding governance proposals at jury trials will be used to ensure that all proposals are decided based on accurate first hand information only and without breaking the network.
     * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
