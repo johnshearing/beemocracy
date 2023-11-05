@@ -93,7 +93,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * the types of cases they write about. Are they specialists in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
           * stake pool operator
-          * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner.
+          * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner. Discussed in detail later in this document
           * creates educational material
           * respected youtubers
           * researchers
