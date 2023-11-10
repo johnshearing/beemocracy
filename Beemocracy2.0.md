@@ -45,7 +45,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * In this way, scouts (any ADA holder) gain history, reputation, and standing in the community without revealing their identity.
     * All governance proposals go before a jury to be decided, so the scout's solicitations are information and recommendations used to help the juries decide.
       * So every ADA holder gets a voice with respect to governance proposals.
-    * The jury is composed of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked votes are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation then the voting recommendation is not binding. The scout is free to listen to all arguments and decide anew.
+    * The jury is composed of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked voting recommendations are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation then the voting recommendation is not binding. The scout is free to listen to all arguments and decide anew.
     * So the solicitations serve two functions:
       1.  The solicitations are used to help inform juries when proposals are decided.
           * Think - scout bees examining various sites for their new hive.
@@ -75,11 +75,12 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The governance is hosted on an immutable online forum for:
       *  Submitting and reading governance proposals 
       *  Submitting and reading scout opinions and their voting recommendations
-    * Each scout must solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended vote. 
+    *  Any ADA holder can be a scout.
+    * Scouts solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended votes. 
     * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
     * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
       * **So the on-chain transaction with the signed voting recommendation and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.**  
-    * The scouts's voting recommendation is embedded in the solicitation text and signed using their hardware wallet.
+    * The scouts's voting recommendation is appended to the solicitation text and signed using their hardware wallet when the transaction is sent to the blockchain.
     * The scout's voting recommendation can not be changed once the solicitation has been published (Blockchain transactions are immutable).
     * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation.
     * A scout's reputation is used to determine their character in jury selection and is also used to determine the types of governance proposals they can help decide.
@@ -105,7 +106,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * and so on
       * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
-      * Jurors can get a lot of information from the body of solicitations before reading them individually.
+      * Jurors can get a lot of information from the body of solicitations even before reading them individually.
         * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the individual solicitations.
         * Jurors can also see who has recommended for or against a proposal.
           * While scouts can choose to remain anonymous, they may also choose to reveal their identities.
