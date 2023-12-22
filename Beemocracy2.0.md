@@ -136,13 +136,13 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * Other scouts will wish to comment on the proposal and make a voting recommendation.
           * Scouts will write solicitations of their own which get linked to the original proposal.
           * The solicitation transaction is assembled as follows:
-            * The vote (For | Against) is included in the transaction.
-            * The text of these solicitations are hashed and included in the voting transaction.
+            * The voting rcommendation (For | Against) is included in the transaction.
+            * The text of these solicitations are hashed and included in the transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
-            * The supporting solicitations also have another field in the on chain transaction which is just the hash/URL of the original proposal.
+            * The solicitations (For | Against) also have another field in the on chain transaction which is just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy to make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
-        * Linking Comments Where BReps Can Show They Changed Their Mind Even If They Can't Change Their Vote.
+        * Linking Comments Where Scouts Can Show They Changed Their Mind Even If They Can't Change Their Vote.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
             * Another field in the transaction is the hash of the scout's solicitation for which they now wish to comment on.                  
