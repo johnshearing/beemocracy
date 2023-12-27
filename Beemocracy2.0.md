@@ -189,8 +189,23 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning rank and privilege must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
 
-#### **Constitutional Issues**
-  * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks.
+#### **Constitutional amendments: Protecting Cardano From Becoming Like The Central Banks Or From Being Enslaved By Them**
+  * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)
+So right from the very beginning we know that the purpose of blockchain is to offer humanity a decentralized alternative to central bank tyranny. 
+We need to ask, what is it the central banks do which is so harmful?
+The central banks take commodities and turn them into receipt money, then fractional money, and finally into fiat money.
+Then they can print as much money as they want which is the exact same thing as stealing because it devalues the citzen's money in the exact same amount.
+Then they use this money to destabilize the world because speculation is most gainful during times of hardship and fear. 
+  * With BlackRocks new Bitcoin ETF we are now seeing the conversion of Bitcoin from commodity to fiat.
+This video queued up at the relevant time shows one scenario of which the central banks have many.
+https://youtu.be/eIVKezt-syo?si=67ne2Cg-Mo4PdNKi&t=609
+You can see in the video that BlackRock maintains the option to choose which fork of Bitcoin they will honor.  
+Basically, BlackRock maintains custody of customers Bitcoin - Now Bitcoin is receipt money not a commodity.
+Now BlackRock can take in more Bitcoin investment than it holds and lend it out - Now Bitcoin is fractional money.
+Finally, BlackRock starts a panic by making investors aware that there is not enough Bitcoin to cover all investors.
+Blackrock saves the day by forking Bitcoin with some changes that allow Blackrock to print more Bitcoin. - Now Bitcoin is Fiat money.
+Extra surprise! Bitcoin is now a CBCD.
+  * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks Or From Being Enslaved By Them.
     * **Constitutional Amendments Required:**
       * **The Free Market Will Determine The Price Of ADA**
         * The price of ADA will not be set in relation to any other commodity nor any other currency by any authority. 
