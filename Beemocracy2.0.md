@@ -164,6 +164,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * Library Pool Operators
           * This ADA will be staked in a random stake pool, and automatically, the staking rewards will be distributed to the owners of the computers which host the proposal webpages on the IPFS by lottery as follows.
           * Distributing the staking rewards by lottery allows market forces to promote redundant copies of all proposal webpages.
+          * The rarest documentation will receive more rewards than documentation which is highly redundant throughout the system to incentivize even distribution.
+          * There might be a small fee for serving each document paid by the consumer to prevent DOS attacks and to pay for bandwidth.
           * At random intervals, one of the hosted webpages (selected by lottery) for a given proposal will be requested and hashed to ensure the data is accessible and that the contents has not been altered.
           * The IPFS address and the document hash should be the same if the document has not been changed.
           * If the proposal webpage is returned unaltered then the host is paid the staking rewards associated with that lottery slot.
