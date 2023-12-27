@@ -189,7 +189,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning rank and privilege must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
 
-#### **Constitutional amendments: Protecting Cardano From Becoming Like The Central Banks Or From Being Enslaved By Them**
+#### **Constitutional Amendments: Protecting Cardano From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)
 So right from the very beginning we know that the purpose of blockchain is to offer humanity a decentralized alternative to central bank tyranny. 
 We need to ask, what is it the central banks do which is so harmful?
