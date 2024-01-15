@@ -1,5 +1,5 @@
 # Beemocracy2.0
-Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
+Decentralize Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
 
@@ -52,7 +52,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Think - scouts coming back to the hive with **first hand information** to use in making a decision.
       2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
-  * #### Bee Democracy2.0 (Governance By Decentralized Jury) vs CIP-1694 (Governance by Centralized Jury Pretending To Be A Representative Democracy  
+  * #### CIP-1694 - Governance by Centralized Jury Pretending To Be A Representative Democracy
     * Typical representative democracy such as Cardano's CIP-1694 has delegated representatives (DReps).
       * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
       * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves.
@@ -64,6 +64,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * But a fixed jury appointed by IOG is not decentralized, and decentralized governance was the whole point of CIP-1694.
       * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
       * Beemocracy2.0 is that solution
+ * #### Beemocracy2.0 - Governance By Decentralized Jury
     * Beemocracy2.0 has scouts (any ADA holder). 
     * Scouts can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
