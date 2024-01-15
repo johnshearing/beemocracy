@@ -291,8 +291,8 @@ The Cardano protocol was built on peer reviewed science. Our community should lo
 
 
 #### **P.S.**
-Ultimately, CIP-1694 is governance by jury because the Constitutional Committee must agree before govenrnance issues are passed.  
-And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it throught the Constitutional Committee.
+Ultimately, CIP-1694 is governance by jury because the Constitutional Committee must agree before governance issues are passed.  
+And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through the Constitutional Committee.
 
 I don't think the designers of CIP-1694 intended to create a governance by jury system.
 Rather I think they were just guided by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. This is the same conclusion the bees arrived at although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the type of collective decision making that nature selects for.
@@ -303,7 +303,7 @@ Not every honey bee gets to vote. Only those bees (the scouts) active in collect
 
 It quickly became clear to me that large ADA holders will have complete control of governance and that they would be incentivized to destroy the protocol for short term gains. So Beemocracy2.0 was imagined where decentralized and randomized juries would be selected based on the anonymous reputation gained through community service and tracked on chain by digital signatures. So I bumbled onto governance by jury just like the bees did. I certainly didn't design it - rather I just followed the constraints of the problem with guidance from the bees.
 
-What just dawned on me through conversation with the community is that IOG bumbled on to governance by jury as well. The only difference is that their version has no random component and is centralized. The implication for me is that natural selection is already at work in Cardano governance and if the protocol survives long enough then it will adopt a random, centralized version governance by jury.
+What just dawned on me through conversation with the community is that IOG bumbled on to governance by jury as well. The only difference is that their version has no random component and is centralized. The implication for me is that natural selection is already at work in Cardano governance and if the protocol survives long enough then it will adopt a random, centralized version of governance by jury.
 
 Does anyone else see this unfolding?
 Is CIP-1694 ultimately governance by jury or not?
