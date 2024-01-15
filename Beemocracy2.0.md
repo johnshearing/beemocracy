@@ -305,6 +305,6 @@ It quickly became clear to me that large ADA holders will have complete control 
 
 What just dawned on me through conversation with the community is that IOG bumbled on to governance by jury as well. The only difference is that their version has no random component and is centralized. The implication for me is that natural selection is already at work in Cardano governance and if the protocol survives long enough then it will adopt a random, centralized version of governance by jury.
 
-Does anyone else see this unfolding?
-Is CIP-1694 ultimately governance by jury or not?
-If so, is there anything we can do to help decentralize the jury?
+Does anyone else see this unfolding?  
+Is CIP-1694 ultimately governance by jury or not?  
+If so, is there anything we can do to help decentralize the jury?  
