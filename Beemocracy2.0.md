@@ -30,39 +30,47 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * What causes bees to arrive at a quorum reaction at the most suitable new home site is:
         1. The scouts always report longer and more enthusiastically when reporting better quality sites, so more scouts will go to those sites and then return to give their own reports.
         2. No scouts will give a report without first visiting the site for themselves.
-      * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy enforces.
-      * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that Beemocracy abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
+      * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy2.0 enforces.
+      * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that Beemocracy2.0 abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
     * **By abstracting nature's results we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
     * A race to consensus by voting is not possible in Cardano democracy because too much network activity in a short amount of time will jam the system.
     * So deciding governance proposals at jury trials will be used to ensure that all proposals are decided based on accurate first hand information only and without breaking the network.
     * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
-    * Beemocracy responds to all governance proposals by inviting any ADA holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
+    * Beemocracy2.0 responds to all governance proposals by inviting any ADA holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
     * Scouts register their solicitation on the Cardano blockchain with their hardware wallet.
       * This binds their report and recommended vote to their digital signature.
     * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature associated with their hardware wallet.
       * In this way, scouts (any ADA holder) gain history, reputation, and standing in the community without revealing their identity.
-    * All governance proposals go before a jury to be decided, so the scout's solicitations are information and recommendations used to help the juries decide.
-      * So every ADA holder gets a voice with respect to governance proposals.
-    * The jury is composed of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked voting recommendations are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation then the voting recommendation is not binding. The scout is free to listen to all arguments and decide anew.
+    * All governance proposals go before a jury to be decided. So a scout's solicitations are information and recommendations used to help the juries decide.
+      * This means every ADA holder gets a voice with respect to governance proposals.
+    * The jury is composed of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked voting recommendations are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation, then the voting recommendation is not binding. The scout/juror is free to listen to all arguments and decide anew.
     * So the solicitations serve two functions:
       1.  The solicitations are used to help inform juries when proposals are decided.
           * Think - scout bees examining various sites for their new hive.
           * Think - scouts coming back to the hive with **first hand information** to use in making a decision.
       2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
-  * #### Bee Democracy vs Human Democracy
-    * Typical human democracy such as Cardano's CIP-1694 has DReps (delegated representatives).
+  * #### Bee Democracy2.0 (Governance By Decentralized Jury) vs CIP-1694 (Governance by Centralized Jury Pretending To Be A Representative Democracy  
+    * Typical representative democracy such as Cardano's CIP-1694 has delegated representatives (DReps).
       * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
-    * Beemocracy has scouts. 
-    * Scouts (any ADA holder) can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
+      * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves.
+      * The results of representative democracy are always echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions for the community.
+      * It is well understood that representative democracy always converges on corruption.
+      * This is why IOG will appoint a jury of well informed highly respected community members (The Constitutional Committee) which shall have final say on governance issues.
+      * So despite all the pretence of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed jury.
+      * This is because juries of informed citizens typically make good decisions.
+      * But a fixed jury appointed by IOG is not decentralized, and decentralized governance was the whole point of CIP-1694.
+      * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
+      * Beemocracy2.0 is that solution
+    * Beemocracy2.0 has scouts (any ADA holder). 
+    * Scouts can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
     * Elite scouts are eligible to serve on juries which decide governance proposals.
     * These jury trials ensure that all governance proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
     * Unlike the DReps in Cardano's CIP-1694...
-      * The Beemocracy structure enforces that governance proposals must earn support through honest debate by randomly selected juries using information gathered by the community. The result is good decisions.
-        * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves. The result is echo chambers, information bubbles, ignorance, hysteria, cronyism, and ultimately very bad decisions.
+      * The Beemocracy2.0 structure enforces that governance proposals must earn support through honest debate by randomly selected juries using information gathered by the community. The result is good decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
         * In human democracy like Cardano's CIP-1694 the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
