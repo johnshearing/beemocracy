@@ -49,9 +49,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * So the solicitations serve two functions:
       1.  The solicitations are used to help inform juries when proposals are decided.
           * Think - scout bees examining various sites for their new hive.
-          * Think - scouts coming back to the hive with **first hand information** to use in making a decision.
-      2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
-          * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
+          * Think - scouts coming back to the old hive with **first hand information** to use in making their decision.
+      2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation (voting power) earned in the solicitation process.
+          * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with and incentivized to tell the truth.
   * #### CIP-1694 - From Representative Democracy To Governance by Centralized Jury And Evolving Toward Governance By Decentralized Jury
     * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want on all proposals with the delegated voting power.
     * A preselected jury known as the Constitutional Committee (CC) has final say whether any proposal passes for the following reasons: 
