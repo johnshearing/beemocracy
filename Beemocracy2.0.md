@@ -54,9 +54,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
   * #### CIP-1694 - Governance by Centralized Jury Pretending To Be A Representative Democracy
     * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
-    * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure they make decisions based on information they have verified for themselves.
+    * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves.
     * Eventually, representative democracy always converges to echo chambers, information bubbles, ignorance, hysteria, cronyism, corruption and ultimately very bad decisions.
-    * To make matters worse, this is effectively a one ADA one vote system so the whales get too make all the decisions.
+    * To make matters worse, CIP-1694 is effectively a one ADA one vote system, so the whales get to make all the decisions unless something is done to keep them in check.
     * This is why IOG will appoint a jury of well informed highly respected community members (The Constitutional Committee) which shall have final say on governance issues.
     * So despite all the pretence of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed jury.
     * This is not such a bad thing because juries of informed citizens typically make good decisions.
@@ -294,11 +294,11 @@ Ultimately, CIP-1694 is governance by jury because the Constitutional Committee 
 And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through the Constitutional Committee.
 
 I don't think the designers of CIP-1694 intended to create a governance by jury system.
-Rather I think they were just guided by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. This is the same conclusion the bees arrived at although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the type of collective decision making that nature selects for.
+Rather I think they were just guided by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. This is the same conclusion the bees arrived at although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the type of collective decision making that nature selects for.
 
 The reason I think this is the case is because that is exactly what happened to me when trying to apply what I learned about bee governance to CIP-1694
 
-Not every honey bee gets to vote. Only those bees (the scouts) active in collecting first hand information get the opportunity to form a quorum. This is what I was trying to apply to the representative democracy as presented in CIP-1694. Beemocracy1.0 was trying to change CIP-1694 such that ADA holders would be required to delegate on each and every governance issue that they cared about and that delegators would be able to see clearly which DReps knew the most about the governance issue and presented an onchain locked vote to receive the ADA delegation.
+Not every honey bee gets to vote. Only those bees (the scouts) active in collecting first hand information get the opportunity to form a quorum. This is what I was trying to apply to the "representative democracy" as presented in CIP-1694. Beemocracy1.0 was trying to change CIP-1694 such that ADA holders would be required to delegate on each and every governance issue that they cared about and that delegators would be able to see clearly which DReps knew the most about the governance issue and presented an onchain locked vote to receive the ADA delegation.
 
 It quickly became clear to me that large ADA holders will have complete control of governance and that they would be incentivized to destroy the protocol for short term gains. So Beemocracy2.0 was imagined where decentralized and randomized juries would be selected based on the anonymous reputation gained through community service and tracked on chain by digital signatures. So I bumbled onto governance by jury just like the bees did. I certainly didn't design it - rather I just followed the constraints of the problem with guidance from the bees.
 
