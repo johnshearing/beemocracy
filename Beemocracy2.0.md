@@ -52,15 +52,19 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Think - scouts coming back to the hive with **first hand information** to use in making a decision.
       2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation earned in the solicitation process.
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with.
-  * #### CIP-1694 - Governance by Centralized Jury Pretending To Be A Representative Democracy
-    * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want with the delegated voting power.
-    * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves.
-    * Eventually, representative democracy always converges to echo chambers, information bubbles, ignorance, hysteria, cronyism, corruption and ultimately very bad decisions.
-    * To make matters worse, CIP-1694 is effectively a one ADA one vote system, so the whales get to make all the decisions unless something is done to keep them in check.
+  * #### CIP-1694 - From Representative Democracy To Governance by Centralized Jury And Evolving Toward Governance By Decentralized Jury
+    * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want on all proposals with the delegated voting power.
+    * A preselected jury known as the Constitutional Committee (CC) has final say whether any proposal passes for the following reasons: 
+      * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves.
+      * Eventually, representative democracy always converges to echo chambers, information bubbles, ignorance, hysteria, cronyism, corruption and ultimately very bad decisions.
+      * To make matters worse, CIP-1694 is effectively a one ADA one vote system, so the whales get to make all the decisions unless something is done to keep them in check.
     * This is why IOG will appoint a jury of well informed highly respected community members (The Constitutional Committee) which shall have final say on governance issues.
-    * So despite all the pretence of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed jury.
+    * Ultimately, CIP-1694 is governance by centralized jury because the Constitutional Committee must agree before governance issues are passed.
+    * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through their Constitutional Committee.
+    * So despite the appearance of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed centralized jury.
     * This is not such a bad thing because juries of informed citizens typically make good decisions.
     * But a fixed jury appointed by IOG is not decentralized, and decentralized governance was the whole point of CIP-1694.
+    * I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. Isn't this how natural selection works? This is the same conclusion the bees arrived at through natural selection although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the most robust and effective type of collective decision making that nature selects for. We can help the Cardano complete the transition to a randomized decentralized governance by jury.
     * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
     * Beemocracy2.0 is that solution
  * #### Beemocracy2.0 - Governance By Decentralized Jury
