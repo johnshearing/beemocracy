@@ -1,5 +1,5 @@
 # Beemocracy2.0
-Decentralize Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
+Decentralized Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
 
@@ -64,7 +64,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * So despite the appearance of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed centralized jury.
     * This is not such a bad thing because juries of informed citizens typically make good decisions.
     * But a fixed jury appointed by IOG is not decentralized, and decentralized governance was the whole point of CIP-1694.
-    * I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. Isn't this how natural selection works? This is the same conclusion the bees arrived at through natural selection although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the most robust and effective type of collective decision making that nature selects for. We can help the Cardano complete the transition to a randomized decentralized governance by jury.
+    * I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. Isn't this how natural selection works? This is the same conclusion the bees arrived at through natural selection although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the most robust and effective type of collective decision making that nature selects for. We can help the Cardano community complete the transition to a randomized decentralized governance by jury.
     * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
     * Beemocracy2.0 is that solution
  * #### Beemocracy2.0 - Governance By Decentralized Jury
