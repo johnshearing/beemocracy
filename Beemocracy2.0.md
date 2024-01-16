@@ -60,7 +60,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### CIP-1694 - From Representative Democracy To Governance by Centralized Jury And Evolving Toward Governance By Decentralized Jury
     * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want on all proposals with the delegated voting power.
     * A preselected jury known as the Constitutional Committee (CC) has final say whether proposals pass for the following reasons: 
-      * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves.
+      * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves rather than simply voting by affiliation.
       * Eventually, representative democracy always converges to echo chambers, information bubbles, ignorance, hysteria, cronyism, corruption and ultimately very bad decisions.
       * To make matters worse, CIP-1694 is effectively a one ADA one vote system, so the whales get to make all the decisions unless something is done to keep them in check.
     * This is why IOG will appoint a jury of well informed highly respected community members (The Constitutional Committee) which shall have final say on governance issues.
