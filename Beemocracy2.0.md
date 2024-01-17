@@ -73,20 +73,21 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
     * Beemocracy2.0 is that solution
  * #### Beemocracy2.0 - Governance By Decentralized Jury
+    * Not every honey bee in the colony gets to vote. Only those bees (the scouts) active in collecting first hand information get the opportunity to form a quorum. 
     * Beemocracy2.0 has scouts (any ADA holder). 
     * Scouts can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
     * Elite scouts are eligible to serve on juries which decide governance proposals.
     * These jury trials ensure that all governance proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
     * Unlike the DReps in Cardano's CIP-1694...
-      * The Beemocracy2.0 structure enforces that governance proposals must earn support through honest debate by randomly selected juries using information gathered by the community. The result is good decisions.
+      * The Beemocracy2.0 structure enforces that governance proposals must earn support through honest debate by randomly selected informed juries using information gathered by the community. The result is good decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
-        * In human democracy like Cardano's CIP-1694 the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
-      * #### Scouts compete for delegation with no reward except for the survival and prosperity of their hive which includes their own survival and prosperity
-        * If paying scouts for their work produced more truth than simply working for their own survival and prosperity then evolution would have selected for that.
+        * In Cardano's CIP-1694, the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
       * Bee democracy is structured like so because those structured differently were all selected out of existence.
-      * Cardano Democracy cannot be modeled on Human Democracy without becoming a selfish monster that self-destructs over time just like all the others. But if IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow. Evolution already did the research. All we need to do is look at what the bees are doing. We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years  
+      * If IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow.
+      * Evolution already did the research. All we need to do is look at what the bees are doing.
+      * We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years.  
   * #### **Abstracting bee democracy functions and applying these to Cardano governance**
     * The data structure of this governance system is much like any online forum that we are used to.  
     * The governance is hosted on an immutable online forum for:
