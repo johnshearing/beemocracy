@@ -101,7 +101,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The scout's voting recommendation can not be changed once the solicitation has been published (Blockchain transactions are immutable).
     * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation.
     * A scout's reputation is used to determine their character in jury selection and is also used to determine the types of governance proposals they can help decide.
-      * The reputation system will be tiered based on the following criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
+      * The reputation system will be tiered based on the following on-chain criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
         * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
         * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
         * the range of subjects the scout writes about
@@ -299,20 +299,10 @@ The Cardano protocol was built on peer reviewed science. Our community should lo
 
 
 #### **P.S.**
-Ultimately, CIP-1694 is governance by jury because the Constitutional Committee must agree before governance issues are passed.  
+Ultimately, CIP-1694 is governance by jury because the Constitutional Committee (CC) must agree before governance issues are passed.  
 And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through the Constitutional Committee.
 
-I don't think the designers of CIP-1694 intended to create a governance by jury system.
-Rather I think they were just guided by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. This is the same conclusion the bees arrived at although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the type of collective decision making that nature selects for.
+I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. That's how natural selection works. So of course this is the same conclusion the bees arrived at although the CC is centralized while the bees have worked out a decentralized and randomized method of selecting an informed jury which evolved over millions of years. The problem is that IOG thinks they are engineering governance and have not yet grasped that the forces of evolution are at work selecting for the very same qualities that appear everywhere in nature where collective decision making is required. These qualities are most easily observed and studied in honey bee colonies but they are at work everywhere including in the humans where good collective decisions must be coordinated between various parts of the brain. If IOG becomes aware of the evolutionary forces at work and understands that following them will lead to the most stable, resilient, governance that nature is able to produce then we will arrive more quickly which reduces the risk of collapse under bad governance and increases the claim on decentralized governance.
 
-The reason I think this is the case is because that is exactly what happened to me when trying to apply what I learned about bee governance to CIP-1694
-
-Not every honey bee gets to vote. Only those bees (the scouts) active in collecting first hand information get the opportunity to form a quorum. This is what I was trying to apply to the "representative democracy" as presented in CIP-1694. Beemocracy1.0 was trying to change CIP-1694 such that ADA holders would be required to delegate on each and every governance issue that they cared about and that delegators would be able to see clearly which DReps knew the most about the governance issue and presented an onchain locked vote to receive the ADA delegation.
-
-It quickly became clear to me that large ADA holders will have complete control of governance and that they would be incentivized to destroy the protocol for short term gains. So Beemocracy2.0 was imagined where decentralized and randomized juries would be selected based on the anonymous reputation gained through community service and tracked on chain by digital signatures. So I bumbled onto governance by jury just like the bees did. I certainly didn't design it - rather I just followed the constraints of the problem with guidance from the bees.
-
-What just dawned on me through conversation with the community is that IOG bumbled on to governance by jury as well. The only difference is that their version has no random component and is centralized. The implication for me is that natural selection is already at work in Cardano governance and if the protocol survives long enough then it will adopt a random, decentralized version of governance by jury.
-
-Does anyone else see this unfolding?  
-Is CIP-1694 ultimately governance by jury or not?  
-If so, is there anything we can do to help decentralize the jury?  
+So why not get rid of the part that isn’t being used (the DReps) and focus on decentralizing the part that actually works (the Constitutional Committee)? 
+This is the purpose of Beemocracy2.0
