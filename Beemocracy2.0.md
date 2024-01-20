@@ -214,7 +214,7 @@ Now we need to ask, what is it the central banks do which is so harmful?
 The central banks take commodities and turn them into receipt money, then fractional money, and finally into fiat money.  
 Then they print as much money as they want which is the exact same thing as stealing because it devalues the citzen's money in the exact same amount as they print.   
 Then they use this money to destabilize the world because speculation is most gainful during times of hardship and fear.  
-[The article "All Wars Are Banker's Wars" is linked here.](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars)   
+[The article "All Wars Are Banker's Wars" is linked here.](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)   
 [The video presentation of the same article is linked here.](https://youtu.be/BrKf9nYeXT0?si=uD4I5R0J1mMQ_XQi)   
 
   * With BlackRocks new Bitcoin ETF we are now seeing the conversion of Bitcoin from commodity to fiat.  
