@@ -161,13 +161,13 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
             * The solicitations (For | Against) also have another field in the on chain transaction which is just the hash/URL of the original proposal.
               * This establishes the new solicitations as children of the original proposal.
               * So it is easy to make a webpage that links the original proposal/solicitation with all the children solicitations underneath.
-        * Linking Comments Where Scouts Can Show They Changed Their Mind Even If They Can't Change Their Vote.
+        * Linking Comments Where Scouts Can Show They Changed Their Mind Even If They Can't Change Their Voting Recommendation.
           * These would be a signed on chain transaction with the hash of the retraction text, or hash of additional comment.
             * This serves as the IPFS URL and makes it impossible to tamper with the text. 
             * Another field in the transaction is the hash of the scout's solicitation for which they now wish to comment on.                  
             * This establishes exactly what previous solicitation they are commenting on.
             * This makes the retraction a child of the scout's solicitation and the solicitation is a child of the original proposal.
-            * So now the retraction gets listed under their original solicitation and jurors can see that the scout now regrets the vote.
+            * So now the retraction gets listed under their original solicitation and jurors can see that the scout now regrets the voting recommendation.
             * DReps in CIP-1694 are elected rulers.
             * Scouts collect and share information so that the juries can make good collective decisions.
         * Trials for governance proposals end when each juror casts their vote and explains their decision with a solicitation signed with their digital signature. Then jurors sign a multi-sig transaction which binds all their decisions to end the trial. Smart contracts check the ranks of all the jurors to verify they have the permissions to decide the proposal and then the smart contracts automatically distribute funds, change parameters, or take some other governance action. The forum webpage will show how the jury decided.
