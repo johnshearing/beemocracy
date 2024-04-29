@@ -111,6 +111,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
         * the types of cases they write about. Are they specialists in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
+          * Github pull requests and contributions to Cardano codebase and associated projects.
           * stake pool operator
           * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner. Discussed in detail later in this document
           * creates educational material
