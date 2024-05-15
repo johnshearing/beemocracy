@@ -1,3 +1,5 @@
+<a href="https://johnshearing.github.io/">Main list of projects</a>  
+
 # Beemocracy2.0
 Decentralized Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
 
