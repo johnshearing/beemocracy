@@ -275,11 +275,12 @@ Lets protect the Cardano nation from both becoming the prey or becoming the pred
 
 ---
 ## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)
-      * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi Or Stable Coins
+      * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi
+      * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
       * #### The Treasury Will Never Be Used To Manipulate or Affect Any Markets Or Market Prices
-      * #### The Treasury Will Only To Seek To Increase The Value Of The ADA Token By Increasing The Use And Utility Of The Protocol
+      * #### The Treasury Will Only To Seek To Increase The Value Of The ADA Token By Increasing The Use And Utility Of The Cardano Protocol
       * #### The Treasury Will Only Be Used To Fund Projects Which Increase Use And Utility Of The Cardano Protocol Itself
-      * #### The Treasury Will Not Be Used To Fund Projects Use The Cardano Protocol
+      * #### The Treasury Will Not Be Used To Fund Projects That Use The Cardano Protocol But Rather Only The Protocol Itself
       * #### The Treasury Will Only Fund Open Source, Patent Free Projects
 ---
 
