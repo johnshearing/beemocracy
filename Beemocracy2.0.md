@@ -297,9 +297,25 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
         * The purpose of the treasurey is not to make the treasury bigger but rather to make the Cardano protocol more useful and therefore more valuable.
         * Treasury funds will only be used to purchase services or make donations which increase use, utility and value of the ADA token and/or which support the mission of Cardano to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
       * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi
-        * 
+        * The purpose of government is to provide common infrasture and regulatory oversight (by consensus) for free market enterprise.
+        * Once government participates in free market enterprise we no longer have free market enterprise but rather fascism.
+        * Fascism promotes a close alliance between industry, government, and central banks.
+        * Typically, the central banks have wielded power over governments, rather than being subjugated by them.
+        * Some key aspects of the fascist perspective on the relationship between Government, Industry, and Central Banks include:
+          * Corporatism - Rather than having completely nationalized industries as does communism, fascism envisions a corporatist system where companies and sectors remain privately owned/operated but are organized into regulated associations that cooperate with the state.
+          * Crony capitalism - Fascist regimes provide preferential treatment, subsidies, and business opportunities to companies and industrialists who are politically connected and support the fascist agenda.
+          * Directing investment and credit: The central bank's control over money supply and credit creation would be used to favor industries, businesses, and economic activities that are priorities for the fascist state. Preferential lending and easy credit would flow to these sectors.
+          * Currency policy as a weapon: Fascist regimes may use currency devaluations and foreign exchange controls as both domestic and international economic weapons to disrupt markets, punish enemies, and gain trade advantages for nationally important industries.
+          * State capitalism funding: The central bank could help facilitate the financing of state-owned enterprises, public-private partnerships, and government-led investment in sectors the fascist regime deems strategic.
+          * Suspending financial rules: Normal central bank prudential rules and oversight could be overridden in service of the fascist agenda, such as requiring banks to fund politically prioritized corporate projects.
+          * The Bank of England historically operated with a large degree of independence from the British government and was a powerful private institution that could constrain state policies.
+          * The legacy of powerful central banking families like the Rothschilds, who built financial empires that transcended national boundaries and exerted sway over multiple governments.
+          * The influence of the U.S. Federal Reserve, while not officially independent until later reforms, still acted as a check on presidential administrations through its monetary policy powers.
+          * The conditionalities imposed by the International Monetary Fund on nations requiring bailouts, which effected transferred some sovereignty to an unelected central banking institution.
+          * Rather than being merely pawns of fascist or authoritarian states, major central banks have often acted as "the masters" - using their control of money supply, credit, and capital flows as powerful tools to shape government policies in line with financial interests, sometimes even across borders. Their concentrated private wealth and monetary powers allowed them to accrue structural power over democratic or totalitarian regimes.
+          * Keeping Cardano Governance and Treasury separate from the industries and financial institutions which run on the Cardano protocol will prevent both fascism and capture by the central banks.
       * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
-        *
+        * The goal is to make Cardano the commodity on which all fiat currency is pegged - not the otherway around.
       * #### The Treasury Will Never Fund Closed Source or Patented Projects
         * The all projects to be funded will commit to being open source and patent free 
       * #### The treasury will be guided by the mission to make purchases or donations which directly increase use, utility and value of the ADA token and/or which support Cardano's mission to provide humanity with individual self-sovereign decentralized control over money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
