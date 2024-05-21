@@ -258,30 +258,48 @@ Extra surprise! Bitcoin is now a CBCD.
           * So the only money left standing is ADA, NFTs and perhaps Midnight when that arrives.
 ADA is preferable to Midnight because ADA is completely transparent which is very good for governance.
           * History has shown that when a treasury holds more than one commodity (gold and silver) in the treasury it was difficult to establish a fixed price ratio between the two metals. This problem is known as the bimetallic standard problem. The problem arose because the relative values of gold and silver fluctuated over time, depending on supply and demand factors. The problem with the bimetallic standard was eventually resolved with the adoption of the gold standard, which established gold as the sole standard for currency. This made it easier to maintain a stable value for the currency and reduced the risk of currency fluctuations. We should remember this lesson from history and only accept ADA into the treasury - not NFTs nor anything else except ADA.
-        * There are times when Cardano governance will need to handle currencies other than ADA. For instance, we are required by law to accept fiat money like US dollars. But all currencies must be converted to ADA immediately upon receipt before going into the treasury. If spending requires using anything other than ADA then the exchange must occur at the point of sale. The whole point of ADA is to end slavery to the central banks. We must not give the banks a backdoor into our economy. We must not allow any form of money into the Cardano treasury except ADA. 
+        * There are times when Cardano governance will need to handle currencies other than ADA. For instance, we are required by law to accept fiat money like US dollars. But all currencies must be converted to ADA immediately upon receipt before going into the treasury. If spending requires using anything other than ADA then the exchange must occur at the point of sale. The whole point of ADA is to end slavery to the central banks. We must not give the banks a backdoor into our economy. We must not allow any form of money into the Cardano treasury except ADA.  
         * Why so explicit on only allowing ADA into the treasury:
-If we are not explicit that only ADA is to be accepted into the treasury and if we don't explain why then future generations who have forgotten the horrors caused by other forms of money will allow them into the Cardano treasury.
+          * If we are not explicit that only ADA is to be accepted into the treasury and if we don't explain why then future generations who have forgotten the horrors caused by other forms of money will allow them into the Cardano treasury.
       * #### Treasury Will Never Engage In Borrowing Or Lending Of Any Kind
-        * No lending using promissory notes. This should be impossible if payments and donations are only made in ADA but should be explicitly stated so there is never a temptation to lend with promissory notes. Same as saying no double spending but banks make their money by double spending (Fractional Reserve Banking).
         * The treasury shall only receive ADA from protocol services such as staking fees and transactions fees. It will never borrow.
-        * The treasury will only disperse ADA to make donations or to purchase services for the community in transactions which are ratified in governance elections.
-        * Why Prohibit Cardano Governance From Borrowing and Lending:
-Big Bank engages in predatory lending at the nation state level.
-This is how they enslave poor countries and poor people.
-Lets protect the Cardano nation from both becoming the prey or becoming the predator:
+        * The treasury will only disperse ADA to make donations or to purchase services using transactions which are voted for in governance elections and ratified by the Constitutional Committee.  
+        * Why Prohibit Cardano Governance From Borrowing:
+          * Borrowing exposes Cardano Governance to capture by the central banks.
+          * Central Banks engage in predatory lending at the nation state level.
+          * This is how they enslave poor countries and poor people.
+          * Even the United States and most all countries in the world are enslaved by debt to the central banks.
+          * Cardano Governance will never borrow.  
+        * Why Prohibit Cardano Governance From Lending:
+          * Central Banks engage in predatory lending at the nation state level.
+          * Lets protect the Cardano nation from both becoming like the central banks.
+          * Cardano Governance shall never engage in lending.  
         * Why so explicit about never engaging in borrowing and lending?
           * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited fiat money. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government does it anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
           * So it is not enough to not grant a power - some powers must be explicitly revoked.
-
+         
 ---
-## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)
+## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)  
+      * #### Treasury Funds Will Never Be Used As An Invenstment Vehicle Where A Return Of Funds Is Expected From The Investment.  
+        * Investing the treasury's ADA in some other market is betting that the other market will out perform ADA. Don't bet against your own team.
+        * Investing the treasury's ADA in some other market
+        * The purpose of the treasurey is not to make the treasury bigger.
+        * Treasury funds will only be used to purchase services or make donations which increase use, utility and value of the ADA token and/or which support the mission of Cardano to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
+
+        
+      * #### The Treasury Will Never Be Used To Make, Manipulate, or Affect Any Markets Or Market Prices
+        * 
       * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi
+        * 
       * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
-      * #### The Treasury Will Never Be Used To Manipulate or Affect Any Markets Or Market Prices
+        *
       * #### The Treasury Will Only To Seek To Increase The Value Of The ADA Token By Increasing The Use And Utility Of The Cardano Protocol
       * #### The Treasury Will Only Be Used To Fund Projects Which Increase Use And Utility Of The Cardano Protocol Itself
       * #### The Treasury Will Not Be Used To Fund Projects That Use The Cardano Protocol But Rather Only The Protocol Itself
       * #### The Treasury Will Only Fund Open Source, Patent Free Projects
+      * #### The treasury will only be used to make purchases or donations which directly increase use, utility and value of the ADA token and which support Cardano's mission to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
+
+      
 ---
 
       * #### Explicitly recognize in the constitution that governments are complex adaptive systems that will learn to create the very problems they were instantiated to solve if money or benefits dispersed are allowed to feedback into the government agencies from which these originate.
