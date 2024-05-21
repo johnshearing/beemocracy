@@ -272,7 +272,7 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
           * No borrowing using promissory notes.  
             * Why so explicit about never borrowing with promissory notes?
               * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed by out of thin air by the central banks and then loaned to the U.S. government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
-              * So it is not enough to not grant a power - some powers must be explicitly revoked.
+              * So a constitution which only grants powers is not enough protection - some powers must be explicitly revoked.
       * #### Treasury Will Never Engage In Lending Of Any Kind
         * The treasury will never lend, it will only disperse ADA to make donations or to purchase services using transactions which are voted for in governance elections and ratified by the Constitutional Committee.
         * Why Prohibit Cardano Governance From Lending:
@@ -285,12 +285,13 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
             * Same as saying no double spending but banks make their money by double spending (Fractional Reserve Banking). 
             * Why so explicit about never lending by use of promissory notes?
               * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed by out of thin air by the central banks and loaned to the U.S. government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
-              * So it is not enough to not grant a power - some powers must be explicitly revoked so we do not become like the central banks.
+              * So a constitution which only grants powers is not enough protection - some powers must be explicitly revoked.
         * So while the Cardano protocol welcomes and supports DeFi banking platforms, Cardano governance will never engage in banking and will never use the treasury for borrowing or lending. 
       * #### Treasury Funds Will Never Be Used As An Invenstment Vehicle Where A Return Of Funds Is Expected From The Investment.  
         * Investing the treasury's ADA in some other market is betting that the other market will out perform ADA. Don't bet against your own team.
         * Investing the treasury's ADA in some other market is setting prices in other markets.
-        * The purpose of the treasurey is not to make the treasury bigger but rather to make the Cardano protocol more useful.
+        * Investing the treasury's ADA in some other market takes resources away from efforts to increase the usefulness and value of the Cardano protocol.
+        * The purpose of the treasurey is not to make the treasury bigger but rather to make the Cardano protocol more useful and therefore more valuable.
         * Treasury funds will only be used to purchase services or make donations which increase use, utility and value of the ADA token and/or which support the mission of Cardano to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
 
 ---
