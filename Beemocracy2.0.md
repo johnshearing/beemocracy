@@ -261,32 +261,35 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
         * There are times when Cardano governance will need to handle currencies other than ADA. For instance, we are required by law to accept fiat money like US dollars. But all currencies must be converted to ADA immediately upon receipt before going into the treasury. If spending requires using anything other than ADA then the exchange must occur at the point of sale. The whole point of ADA is to end slavery to the central banks. We must not give the banks a backdoor into our economy. We must not allow any form of money into the Cardano treasury except ADA.  
         * Why so explicit on only allowing ADA into the treasury:
           * If we are not explicit that only ADA is to be accepted into the treasury and if we don't explain why then future generations who have forgotten the horrors caused by other forms of money will allow them into the Cardano treasury.
-      * #### Treasury Will Never Engage In Borrowing Or Lending Of Any Kind
+      * #### Treasury Will Never Engage In Borrowing Of Any Kind
         * The treasury shall only receive ADA from protocol services such as staking fees and transactions fees. It will never borrow.
-        * The treasury will only disperse ADA to make donations or to purchase services using transactions which are voted for in governance elections and ratified by the Constitutional Committee.  
         * Why Prohibit Cardano Governance From Borrowing:
           * Borrowing exposes Cardano Governance to capture by the central banks.
           * Central Banks engage in predatory lending at the nation state level.
           * This is how they enslave poor countries and poor people.
           * Even the United States and most all countries in the world are enslaved by debt to the central banks.
-          * Cardano Governance will never borrow.  
+          * Cardano Governance will never borrow so as to avoid capture by the central banks.
+      * #### Treasury Will Never Engage In Lending Of Any Kind
+        * The treasury will never lend, it will only disperse ADA to make donations or to purchase services using transactions which are voted for in governance elections and ratified by the Constitutional Committee.
         * Why Prohibit Cardano Governance From Lending:
           * Central Banks engage in predatory lending at the nation state level.
           * Lets protect the Cardano nation from becoming like the central banks.
-          * Cardano Governance shall never engage in lending.  
-        * Why so explicit about never engaging in borrowing and lending?
-          * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited fiat money. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government does it anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
-          * So it is not enough to not grant a power - some powers must be explicitly revoked.
-         
----
-## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)  
+          * Cardano Governance shall never engage in lending.   
+          * No lending using promissory notes.
+            * This should be impossible if payments and donations are only made in ADA but should be explicitly stated so there is never a temptation to lend with promissory notes.
+            * Same as saying no double spending but banks make their money by double spending (Fractional Reserve Banking). 
+            * Why so explicit about never engaging lending?
+              * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited fiat money. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government does it anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
+              * So it is not enough to not grant a power - some powers must be explicitly revoked.
+        * So while the Cardano protocol welcomes and supports DeFi banking platforms, Cardano governance will never engage in banking and will never use the treasury for borrowing or lending. 
       * #### Treasury Funds Will Never Be Used As An Invenstment Vehicle Where A Return Of Funds Is Expected From The Investment.  
         * Investing the treasury's ADA in some other market is betting that the other market will out perform ADA. Don't bet against your own team.
-        * Investing the treasury's ADA in some other market
-        * The purpose of the treasurey is not to make the treasury bigger.
+        * Investing the treasury's ADA in some other market is setting prices in other markets.
+        * The purpose of the treasurey is not to make the treasury bigger but rather to make the Cardano protocol more useful.
         * Treasury funds will only be used to purchase services or make donations which increase use, utility and value of the ADA token and/or which support the mission of Cardano to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
 
-        
+---
+## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)          
       * #### The Treasury Will Never Be Used To Make, Manipulate, or Affect Any Markets Or Market Prices
         * 
       * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi
