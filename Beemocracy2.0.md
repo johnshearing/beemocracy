@@ -268,20 +268,24 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
           * Central Banks engage in predatory lending at the nation state level.
           * This is how they enslave poor countries and poor people.
           * Even the United States and most all countries in the world are enslaved by debt to the central banks.
-          * Cardano Governance will never borrow so as to avoid capture by the central banks.
+          * In order to avoid capture by the central banks Cardano Governance will never borrow.  
+          * No borrowing using promissory notes.  
+            * Why so explicit about never borrowing with promissory notes?
+              * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed by out of thin air by the central banks and then loaned to the U.S. government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
+              * So it is not enough to not grant a power - some powers must be explicitly revoked.
       * #### Treasury Will Never Engage In Lending Of Any Kind
         * The treasury will never lend, it will only disperse ADA to make donations or to purchase services using transactions which are voted for in governance elections and ratified by the Constitutional Committee.
         * Why Prohibit Cardano Governance From Lending:
           * Lending opens the door for more government regulations and we have seen that the central banks are using government regulators (SEC) in an attempt to kill the crypto industry (Chokepoint 2.0)
           * Central Banks engage in predatory lending at the nation state level.
           * Lets protect the Cardano nation from becoming like the central banks.
-          * Cardano Governance shall never engage in lending.   
+          * Cardano Governance shall never engage in lending.
           * No lending using promissory notes.
             * This should be impossible if payments and donations are only made in ADA but should be explicitly stated so there is never a temptation to lend with promissory notes.
             * Same as saying no double spending but banks make their money by double spending (Fractional Reserve Banking). 
-            * Why so explicit about never engaging lending?
-              * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed by out of thin air by the central banks and loaned to the government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
-              * So it is not enough to not grant a power - some powers must be explicitly revoked.
+            * Why so explicit about never lending by use of promissory notes?
+              * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed by out of thin air by the central banks and loaned to the U.S. government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
+              * So it is not enough to not grant a power - some powers must be explicitly revoked so we do not become like the central banks.
         * So while the Cardano protocol welcomes and supports DeFi banking platforms, Cardano governance will never engage in banking and will never use the treasury for borrowing or lending. 
       * #### Treasury Funds Will Never Be Used As An Invenstment Vehicle Where A Return Of Funds Is Expected From The Investment.  
         * Investing the treasury's ADA in some other market is betting that the other market will out perform ADA. Don't bet against your own team.
