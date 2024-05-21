@@ -272,7 +272,7 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
           * Cardano Governance will never borrow.  
         * Why Prohibit Cardano Governance From Lending:
           * Central Banks engage in predatory lending at the nation state level.
-          * Lets protect the Cardano nation from both becoming like the central banks.
+          * Lets protect the Cardano nation from becoming like the central banks.
           * Cardano Governance shall never engage in lending.  
         * Why so explicit about never engaging in borrowing and lending?
           * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited fiat money. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government does it anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
