@@ -231,10 +231,13 @@ Blackrock saves the day by forking Bitcoin with some changes that allow Blackroc
 Extra surprise! Bitcoin is now a CBCD.  
   * Decentralization Alone Can't Stop Cardano Governance From Becoming Like The Central Banks Or From Being Enslaved By Them.
     * **Constitutional Amendments Required:**
-      * **The Free Market Will Determine The Price Of ADA**
-        * The price of ADA will not be set in relation to any other commodity nor any other currency by any authority. 
+      * #### The Free Market Will Determine The Price Of ADA
+        * The price of ADA will not be set in relation to any other commodity nor any other currency by any authority.
+      * #### The Treasury Will Never Be Used To Make, Manipulate, or Affect Any Markets Or Market Prices
+        * Of course the treasury will be used to increase the value of ADA but only by increasing the utility of the Cardano Protocol and associated protocols like Midnight from which the Cardano protocol will benefit.
+        * But the treasury will never attempt to increase the price of ADA by manipulating the market.
       * **No Oracles Will Be Used To Decide Any Governance Issues** 
-        * Community members are responsible for determining what is true and expressing it with solicitations, debate, votes, and delegation
+        * Community members are responsible for determining what is true and expressing it with solicitations, debate, votes, and delegation.
         * The free market will determine prices - not oracles
       * #### Constitutional Committee members will be compensated with ADA and will agree to hold only ADA in their portfolio and no other assets of any kind.
         * This to ensure the incentives of the Constitutional Committee are in alignment with their responsibility of adding utility and value to the protocol.
@@ -293,23 +296,12 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
         * Investing the treasury's ADA in some other market takes resources away from efforts to increase the usefulness and value of the Cardano protocol.
         * The purpose of the treasurey is not to make the treasury bigger but rather to make the Cardano protocol more useful and therefore more valuable.
         * Treasury funds will only be used to purchase services or make donations which increase use, utility and value of the ADA token and/or which support the mission of Cardano to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
-
----
-## Still thinking through the following constitutional provisions which came up in [the conversation linked here](https://forum.cardano.org/t/what-would-you-put-into-a-cardano-constitution/111771/39?u=johnshearing)          
-      * #### The Treasury Will Never Be Used To Make, Manipulate, or Affect Any Markets Or Market Prices
-        * 
       * #### The Treasury Will Never Be Used To Provide Liquidity For DeFi
         * 
       * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
         *
-      * #### The Treasury Will Only To Seek To Increase The Value Of The ADA Token By Increasing The Use And Utility Of The Cardano Protocol
-      * #### The Treasury Will Only Be Used To Fund Projects Which Increase Use And Utility Of The Cardano Protocol Itself
-      * #### The Treasury Will Not Be Used To Fund Projects That Use The Cardano Protocol But Rather Only The Protocol Itself
-      * #### The Treasury Will Only Fund Open Source, Patent Free Projects
-      * #### The treasury will only be used to make purchases or donations which directly increase use, utility and value of the ADA token and which support Cardano's mission to provide humanity with individual self-sovereign decentralized control of money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
-
-      
----
+      * #### The Treasury Will Only Fund Open Source, Patent Free Projects        
+      * #### The treasury will only be guided by the mission to make purchases or donations which directly increase use, utility and value of the ADA token and/or which support Cardano's mission to provide humanity with individual self-sovereign decentralized control over money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
 
       * #### Explicitly recognize in the constitution that governments are complex adaptive systems that will learn to create the very problems they were instantiated to solve if money or benefits dispersed are allowed to feedback into the government agencies from which these originate.
         * This is discussed in detail on our own Cardano governance forum [at this link here](https://forum.cardano.org/t/cardano-constitution-could-be-the-first-in-human-history-to-manage-government-as-a-complex-adaptive-system-an-intelligent-living-thing/116058?u=johnshearing).
