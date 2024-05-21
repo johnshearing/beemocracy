@@ -300,8 +300,9 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
         * 
       * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
         *
-      * #### The Treasury Will Only Fund Open Source, Patent Free Projects        
-      * #### The treasury will only be guided by the mission to make purchases or donations which directly increase use, utility and value of the ADA token and/or which support Cardano's mission to provide humanity with individual self-sovereign decentralized control over money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
+      * #### The Treasury Will Never Fund Closed Source or Patented Projects
+        * The all projects to be funded will commit to being open source and patent free 
+      * #### The treasury will be guided by the mission to make purchases or donations which directly increase use, utility and value of the ADA token and/or which support Cardano's mission to provide humanity with individual self-sovereign decentralized control over money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
 
       * #### Explicitly recognize in the constitution that governments are complex adaptive systems that will learn to create the very problems they were instantiated to solve if money or benefits dispersed are allowed to feedback into the government agencies from which these originate.
         * This is discussed in detail on our own Cardano governance forum [at this link here](https://forum.cardano.org/t/cardano-constitution-could-be-the-first-in-human-history-to-manage-government-as-a-complex-adaptive-system-an-intelligent-living-thing/116058?u=johnshearing).
