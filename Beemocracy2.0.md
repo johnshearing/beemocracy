@@ -314,10 +314,11 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
           * The conditionalities imposed by the International Monetary Fund on nations requiring bailouts, which effected transferred some sovereignty to an unelected central banking institution.
           * Rather than being merely pawns of fascist or authoritarian states, major central banks have often acted as "the masters" - using their control of money supply, credit, and capital flows as powerful tools to shape government policies in line with financial interests, sometimes even across borders. Their concentrated private wealth and monetary powers allowed them to accrue structural power over democratic or totalitarian regimes.
           * Keeping Cardano Governance and Treasury separate from the industries and financial institutions which run on the Cardano protocol will prevent both fascism and capture by the central banks.
-      * #### The Treasury Will Never Be Used To Provide Liquidity Stable Coins      
-        * The goal is to make Cardano the commodity on which all fiat currency is pegged - not the otherway around.
+      * #### The Treasury Will Never Be Used To Provide Liquidity For Stable Coins      
+        * The goal is to make ADA the commodity on which all fiat currency is pegged - not the otherway around.
       * #### The Treasury Will Never Fund Closed Source or Patented Projects
-        * The all projects to be funded will commit to being open source and patent free 
+        * The all projects to be funded will commit to being open source and patent free
+        * Closed source or patented projects are not decentralized.
       * #### The treasury will be guided by the mission to make purchases or donations which directly increase use, utility and value of the ADA token and/or which support Cardano's mission to provide humanity with individual self-sovereign decentralized control over money, identity, information, and governance. Or to say it another way: to provide an alternative to central bank control over humanity.
 
       * #### Explicitly recognize in the constitution that governments are complex adaptive systems that will learn to create the very problems they were instantiated to solve if money or benefits dispersed are allowed to feedback into the government agencies from which these originate.
