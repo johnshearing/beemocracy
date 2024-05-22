@@ -236,7 +236,7 @@ Extra surprise! Bitcoin is now a CBCD.
       * #### The Treasury Will Never Be Used To Make, Manipulate, or Affect Any Markets Or Market Prices
         * Of course the treasury will be used to increase the value of ADA but only by increasing the utility of the Cardano Protocol and associated protocols like Midnight from which the Cardano protocol will benefit.
         * But the treasury will never attempt to increase the price of ADA by manipulating the market.
-      * **No Oracles Will Be Used To Decide Any Governance Issues** 
+      * #### No Oracles Will Be Used To Decide Any Governance Issues 
         * Community members are responsible for determining what is true and expressing it with solicitations, debate, votes, and delegation.
         * The free market will determine prices - not oracles
       * #### Constitutional Committee members will be compensated with ADA and will agree to hold only ADA in their portfolio and no other assets of any kind.
