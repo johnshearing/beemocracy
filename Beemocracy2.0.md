@@ -241,6 +241,8 @@ Extra surprise! Bitcoin is now a CBCD.
         * The free market will determine prices - not oracles
       * #### Constitutional Committee members will be compensated with ADA and will agree to hold only ADA in their portfolio and no other assets of any kind.
         * This to ensure the incentives of the Constitutional Committee are in alignment with their responsibility of adding utility and value to the protocol.
+        * CC members will be dismissed if found to be holding assets other than ADA.
+        * Some allowance must be made for cash in their local currency for and personal property. 
         * Many in our community would love the opportunity to join with 11 other honorable community members to be well compensated in ADA and with the opportunity to grow the value of their tokens (and grow everyone else’s too) by virtue of their unique positions as Constitutional Committee members. I am sure all of them would see the enormous value created by aligned incentives when all CC members agree to hold only ADA and would gladly agree to the condition of expulsion from the CC if discovered to be cheating as this would be the glue that holds their incentives in alignment for the mutual benefit of all.  
       * #### **ADA To Be The Only Form Of Currency Accepted Into The Treasury**
         * No receipt money shall be accepted into the treasury: 
