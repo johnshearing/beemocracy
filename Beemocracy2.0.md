@@ -301,8 +301,7 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
         * Once government participates in free market enterprise we no longer have free market enterprise but rather fascism.
         * Fascism promotes a close alliance between industry, government, and central banks.
         * Typically, the central banks have wielded power over governments, rather than being subjugated by them.
-        * Some key aspects of the fascist perspective on the relationship between Government, Industry, and Central Banks include:
-          * Corporatism - Rather than having completely nationalized industries as does communism, fascism envisions a corporatist system where companies and sectors remain privately owned/operated but are organized into regulated associations that cooperate with the state.
+        * Some key aspects of fascism with relation Government, Industry, and Central Banks include:
           * Crony capitalism - Fascist regimes provide preferential treatment, subsidies, and business opportunities to companies and industrialists who are politically connected and support the fascist agenda.
           * Directing investment and credit: The central bank's control over money supply and credit creation would be used to favor industries, businesses, and economic activities that are priorities for the fascist state. Preferential lending and easy credit would flow to these sectors.
           * Currency policy as a weapon: Fascist regimes may use currency devaluations and foreign exchange controls as both domestic and international economic weapons to disrupt markets, punish enemies, and gain trade advantages for nationally important industries.
@@ -314,7 +313,8 @@ ADA is preferable to Midnight because ADA is completely transparent which is ver
           * The conditionalities imposed by the International Monetary Fund on nations requiring bailouts, which effected transferred some sovereignty to an unelected central banking institution.
           * Rather than being merely pawns of fascist or authoritarian states, major central banks have often acted as "the masters" - using their control of money supply, credit, and capital flows as powerful tools to shape government policies in line with financial interests, sometimes even across borders. Their concentrated private wealth and monetary powers allowed them to accrue structural power over democratic or totalitarian regimes.
           * Keeping Cardano Governance and Treasury separate from the industries and financial institutions which run on the Cardano protocol will prevent both fascism and capture by the central banks.
-      * #### The Treasury Will Never Be Used To Provide Liquidity For Stable Coins      
+      * #### The Treasury Will Never Be Used To Provide Liquidity For Stable Coins
+        * All the arguments for not providing liquidity for DeFi apply here too. 
         * The goal is to make ADA the commodity on which all fiat currency is pegged - not the otherway around.
       * #### The Treasury Will Never Fund Closed Source or Patented Projects
         * The all projects to be funded will commit to being open source and patent free
