@@ -1,6 +1,6 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# Beemocracy2.0
+# Beemocracy For Mina
 Decentralized Governance By Jury For Mina Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
@@ -21,7 +21,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
-    * Given enough time, Mian governance will likely evolve the same structure.
+    * Given enough time, Mina governance will likely evolve the same structure.
       * We can help guide the process and help speed things along.
     * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus (a quorum) using the following steps:
       * About two thirds of all the bees swarm outside the hive
@@ -36,18 +36,22 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that BeemocracyMina abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
     * **By abstracting nature's results we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
     * Deciding governance proposals at jury trials are used to ensure that all proposals are decided based on accurate first hand information only and without overloading the network.
-      * Learning from Cardano Governance:
-        * Cardano's CIP-1694 governance already accomplishes this by installing a Constitutional Committee (a fixed centrally appointed jury) to ratify governance proposals after they have been voted upon by the community.
-        * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through their Constitutional Committee.
-        * This effectively bypasses the delegated representatives making the voting process irrelevant.
-        * This is not a bad thing when you consider the delegated representative voting process is 1 ADA 1 vote which resolves to total domination of governance by large ADA holders.
-        * Beemocracy2.0 for Cardano seeks transition from the centralized Constitutional Committee (CC) to governance by decentralized juries selected randomly through anonymous reputation linked to community service via digital signature.
-        * Mina uses a modified Ouroboros consensus mechanism 
+      * What Mina can learn from Cardano Governance:
+        * Mina uses a modified version of Cardano's Ouroboros consensus mechanism so it follows that governance will develope same structure and the same problems if there is no intervention.
+        * Cardano's governance has three branches: stakepool operators, delegated representatives, constitutional committee.
+        * This document is sees that the delegated representative model of 1 ADA 1 vote is a plutocracy which is thankfully bypassed by the constitutional committee as follows.
+        * Cardano's CIP-1694 accomplishes governance by jury by installing a Constitutional Committee to ratify governance proposals after they have been voted upon by the delegated representatives.
+        * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the delegated representative voting process before passing it through the Constitutional Committee.
+        * This effectively bypasses the delegated representatives making the voting process largely irrelevant.
+        * This is a good thing when you consider the delegated representative voting process is 1 ADA 1 vote which resolves to total domination of governance by large ADA holders (a plutocracy).
+        * [Beemocracy2.0 for Cardano](https://github.com/johnshearing/beemocracy/blob/main/Beemocracy2.0.md) seeks transition from the bypassed delegated reprsentative model to governance by juries of domain experts selected randomly through anonymous reputation linked to community service via digital signature.
+        * This document hopes to convince the Mina community to replace the bypassed delegated representative model of governance with governance by a jury of randomly selected domain experts.
+        * [Mina's opening document on the governance conversation](https://minaprotocol.com/blog/next-steps-mina-protocol-governance) seems to already lean in the direction of governance by jury and this document presents one possible version. 
     * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
-    * Beemocracy2.0 responds to all governance proposals by inviting any ADA holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
-    * Scouts register their solicitation on the Cardano blockchain with their hardware wallet.
+    * BeemocracyMina responds to all governance proposals by inviting any Mina holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
+    * Scouts register proof of their solicitation on the Mina blockchain with their hardware wallet.
       * This binds their report and recommended vote to their digital signature.
     * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature associated with their hardware wallet.
       * In this way, scouts (any ADA holder) gain history, reputation, and standing in the community without revealing their identity.
