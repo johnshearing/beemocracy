@@ -1,14 +1,14 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # Beemocracy2.0
-Decentralized Governance By Jury For Cardano Modeled After The Democracy Which Evolved In Honey Bee Society  
+Decentralized Governance By Jury For Mina Modeled After The Democracy Which Evolved In Honey Bee Society  
 
 Code implementation is in the planning stages  
 
 Problems addressed:
-Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, DRep Corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data, Simplicity of code implementation.
+Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, Delegated representative corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data, Simplicity of code implementation.
 
-#### **Modeling Cardano Governance On Bee Democracy**  
+#### **Modeling Mina Governance On Bee Democracy**  
    
   * Abstract
     * Over millions of years, through the process of evolution, nature has worked out the form of democracy which produces the most truth and best decisions for honey bee colonies.  
@@ -21,8 +21,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * National Institute for Health - [Cross Inhibition in Collective Decision Making](https://pubmed.ncbi.nlm.nih.gov/22157081/)
       * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
       * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
-    * Given enough time, Cardano governance will likely evolve the same structure.
-      * We are seeing this evolution happening already as shown further on in this document.
+    * Given enough time, Mian governance will likely evolve the same structure.
       * We can help guide the process and help speed things along.
     * The collective decision making process found in honey bee colonies for new home selection is basically a race to consensus (a quorum) using the following steps:
       * About two thirds of all the bees swarm outside the hive
@@ -33,15 +32,17 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * What causes bees to arrive at a quorum reaction at the most suitable new home site is:
         1. The scouts always report longer and more enthusiastically when reporting better quality sites, so more scouts will go to those sites and then return to give their own reports.
         2. No scouts will give a report without first visiting the site for themselves.
-      * So honest reporting when gathering consensus using only accurate first hand information is what the structure of Beemocracy2.0 enforces.
-      * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that Beemocracy2.0 abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
+      * So honest reporting when gathering consensus using only accurate first hand information is what the structure of BeemocracyMina enforces.
+      * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that BeemocracyMina abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
     * **By abstracting nature's results we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time**
     * Deciding governance proposals at jury trials are used to ensure that all proposals are decided based on accurate first hand information only and without overloading the network.
-      * Cardano's CIP-1694 governance already accomplishes this by installing a Constitutional Committee (a fixed centrally appointed jury) to ratify governance proposals after they have been voted upon by the community.
-      * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through their Constitutional Committee.
-      * This effectively bypasses the delegated representatives making the voting process irrelevant.
-      * This is not a bad thing when you consider the DRep voting process is 1 ADA 1 vote which resolves to total domination of governance by large ADA holders.
-      * Beemocracy2.0 seeks transition from the centralized Constitutional Committee (CC) to governance by decentralized juries selected randomly through anonymous reputation linked to community service via digital signature
+      * Learning from Cardano Governance:
+        * Cardano's CIP-1694 governance already accomplishes this by installing a Constitutional Committee (a fixed centrally appointed jury) to ratify governance proposals after they have been voted upon by the community.
+        * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through their Constitutional Committee.
+        * This effectively bypasses the delegated representatives making the voting process irrelevant.
+        * This is not a bad thing when you consider the delegated representative voting process is 1 ADA 1 vote which resolves to total domination of governance by large ADA holders.
+        * Beemocracy2.0 for Cardano seeks transition from the centralized Constitutional Committee (CC) to governance by decentralized juries selected randomly through anonymous reputation linked to community service via digital signature.
+        * Mina uses a modified Ouroboros consensus mechanism 
     * In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries to deliberate on and recommend good governance practice with respect to administration of health data during a pandemic. The result was definitely not the government narrative. Developed by the Jefferson Centre in the 1970s, citizens’ juries are a type of structured deliberation with members of the public, sometimes referred to as a ‘mini public’. During facilitated workshops, participants –‘the jurors’ – are given balanced information and expert presentations about a chosen issue, before deliberating on that issue and reaching a conclusion of some kind. The issue usually addresses an area of public policy, and the conclusions generated often take the form of recommendations for policymakers. That the Ada Lovelace Institute at the University of Edinburgh is experimenting with governance by jury is encouraging to me.
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
