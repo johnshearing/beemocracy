@@ -5,7 +5,7 @@ Decentralized Governance By Jury For Mina Modeled After The Democracy Which Evol
 
 Code implementation is in the planning stages  
 
-Problems addressed:
+Problems Solved:
 Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and votes, Delegated representative corruption, Lack of domain expertise, Whale control, Network traffic, Volume of on-chain data, Simplicity of code implementation.
 
 #### **Modeling Mina Governance On Bee Democracy**  
@@ -56,10 +56,10 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
     * BeemocracyMina responds to all governance proposals by inviting any Mina holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
-    * The report is stored on the Interplanetery File System where the hash of the document always the URL of the document.
+    * The report is stored on the Interplanetary File System where the hash of the document is always the URL of the document.
     * Scouts register proof of their solicitation on the Mina blockchain with their hardware wallet.
       * This binds the report and recommended vote to the scouts digital signature.
-      * The transaction includes the hash of the document which serves both to show where the document can be found on the IPFS and also serves as a document finger print so we know that the document has not been altered.
+      * The transaction includes the hash of the document which serves both to show where the document can be found on the IPFS and also serves as a document fingerprint so we know that the document has not been altered.
     * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature associated with their hardware wallet.
       * In this way, scouts (any Mina holder) gain history, reputation, and standing in the community without revealing their identity.
     * All governance proposals go before a jury to be decided. So a scout's solicitations are information and recommendations used to help the juries decide.
@@ -82,7 +82,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * The BeemocracyMina structure enforces that governance proposals must earn support through honest debate by randomly selected, informed juries using information gathered by the community. The result will be good decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
-        * In typical governace, the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
+        * In typical governance, the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
       * Bee democracy is structured like so because those structured differently were all selected out of existence.
       * If the Mina community abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to governance then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow.
       * Evolution already did the research. All we need to do is look at what the bees are doing.
@@ -132,7 +132,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * But each solicitation is linked by a hardware wallet to a scout's anonymous reputation, history, rank, and all the other solicitations associated with a scout's wallet.
             * This means that jurors can find out a lot of relevant information about a solicitation's author without knowing the scout's identity.
             * This gives Mina governance the benefits of KYC without the problems.
-        * The scout associated with a digital signature might be an individual, a group of people, an organizations such as an exchange, or even an artificial intelligence - there is no way to know.
+        * The scout associated with a digital signature might be an individual, a group of people, an organization such as an exchange, or even an artificial intelligence - there is no way to know.
           * Who or what is the actual identity behind a solicitation's signature is not as important as the information presented in the solicitation.
           * This is because if it is determined that the solicitation misrepresents the facts then this will negatively impact the reputation invested in the digital signature.
           * So no matter if the scout is an individual, an organization, or an AI, the incentive is to provide accurate information.
@@ -154,7 +154,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * Other scouts will wish to comment on the proposal and make a voting recommendation.
           * Scouts will write solicitations of their own which get linked to the original proposal.
           * The solicitation transaction is assembled as follows:
-            * The voting rcommendation (For | Against) is included in the transaction.
+            * The voting recommendation (For | Against) is included in the transaction.
             * The text of these solicitations are hashed and the hash is included in the transaction.
               * Again, this hash is also the URL of the webpage that holds the solicitation text.
             * The solicitations (For | Against) also have another field in the on chain transaction which is just the hash/URL of the original proposal.
@@ -239,11 +239,11 @@ Extra surprise! Bitcoin is now a CBCD.
       * #### No a.i. Will Be Used To Decide Any Governance Issues
         * a.i. models are points of centralized control which say whatever the builders train them to say.
         * a.i. models must never sit on a jury.
-        * a.i. models must never substitute for human do diligence and first hand knowledge.
+        * a.i. models must never substitute for human due diligence and first hand knowledge.
       * #### Constitutional Committee members will be compensated with Mina and will agree to hold only Mina in their portfolio and no other assets of any kind.
         * This to ensure the incentives of the Constitutional Committee are in alignment with their responsibility of adding utility and value to the protocol.
         * CC members will be dismissed if found to be holding assets other than Mina.
-        * Some allowance must be made for cash in their local currency for and personal property. 
+        * Some allowance must be made for cash in their local currency and for personal property. 
         * Many in our community would love the opportunity to join with 11 other honorable community members to be well compensated in Mina and with the opportunity to grow the value of their tokens (and grow everyone else’s too) by virtue of their unique positions as Constitutional Committee members. I am sure all of them would see the enormous value created by aligned incentives when all CC members agree to hold only Mina and would gladly agree to the condition of expulsion from the CC if discovered to be cheating as this would be the glue that holds their incentives in alignment for the mutual benefit of all.
       * #### All Mina Moving In And Out Of The Treasury Must Be Moved Transparently
         * Public variables must be used on all treasury transactions sufficient to understand where the funds come from or where funds are going. 
@@ -344,7 +344,7 @@ Most all these ideas are abstracted from peer reviewed science on how bees imple
 * Science - [Inhibition in Collective Decision-Making](https://www.science.org/doi/10.1126/science.1210361)
 * Nature - [Psychophysical Laws and the Superorganism](https://www.nature.com/articles/s41598-018-22616-y)
 
-The process of evolution has solved many engineering problems. Bees don’t use their politicians to make decisions based on affiliation. Bees use their politicians as scouts. Bees use their politicians to collect information. Finally, when enough bees with solid first hand information are gathered together, quarum is reached and a decision is made. 
+The process of evolution has solved many engineering problems. Bees don’t use their politicians to make decisions based on affiliation. Bees use their politicians as scouts. Bees use their politicians to collect information. Finally, when enough bees with solid first hand information are gathered together, quorum is reached and a decision is made. 
 
 Our community should look at peer reviewed science on how decision making has evolved in nature and apply what we can to Mina governance.
 
