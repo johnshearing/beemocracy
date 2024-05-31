@@ -110,7 +110,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
         * the types of cases they write about. Are they specialists in a particular area such as blockchain parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
-          * Github pull requests and contributions to Cardano codebase and associated projects.
+          * Github pull requests and contributions to the Mina codebase and associated projects.
           * block producer or snark worker
           * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner. Discussed in detail later in this document
           * creates educational material
@@ -282,7 +282,7 @@ Extra surprise! Bitcoin is now a CBCD.
               * So a constitution which only grants powers is not enough protection - some powers must be explicitly revoked.
       * #### Treasury Will Never Engage In Lending Of Any Kind
         * The treasury will never lend, it will only disperse Mina to make donations or to purchase services using transactions which are voted for by juries and ratified by the Constitutional Committee.
-        * Why Prohibit Cardano Governance From Lending:
+        * Why Prohibit Mina Governance From Lending:
           * Lending opens the door for more government regulations and we have seen that the central banks are using government regulators (SEC) in an attempt to kill the crypto industry (Chokepoint 2.0)
           * Central Banks engage in predatory lending at the nation state level.
           * Let's protect the Mina nation from becoming like the central banks.
@@ -293,7 +293,7 @@ Extra surprise! Bitcoin is now a CBCD.
             * Why so explicit about never lending by use of promissory notes?
               * The power to print fiat money was never explicitly granted to the federal government in the Constitution. In fact the authors voted against granting that power. Sadly they never specifically prohibited using fiat money which is now printed out of thin air by the central banks and loaned to the U.S. government at interest. So the power to print fiat money was reserved for the states or the people by the Tenth amendment. But of course the federal government uses fiat money anyway. The back door was Article I, Section 8, Clause 2 which reads as follows: *"The Congress shall have Power To... borrow Money on the credit of the United States."* Because you have to issue a note to acknowledge the debt, this opened the door for fiat money. The courts have upheld this interpretation. 
               * So a constitution which only grants powers is not enough protection - some powers must be explicitly revoked.
-        * So while the Cardano protocol welcomes and supports DeFi banking platforms, Cardano governance will never engage in banking and will never use the treasury for borrowing or lending. 
+        * So while the Mina protocol welcomes and supports DeFi banking platforms, Mina governance will never engage in banking and will never use the treasury for borrowing or lending. 
       * #### Treasury Funds Will Never Be Used As An Investment Vehicle Where A Return Of Funds Is Expected From The Investment.  
         * Investing the treasury's Mina in some other market is betting that the other market will outperform Mina. Don't bet against your own team.
         * Investing the treasury's Mina in some other market is setting prices in other markets.
@@ -336,7 +336,7 @@ Human delegated representative democracy, on the other hand enforces, that polit
 
 #### **Conclusion:** 
 
-Most all these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Cardano governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Mina governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.
+Most all these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Mina governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Mina governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.
 
 * Links Repeated from above
 * Scientific American - [You Have A Hive Mind](https://www.scientificamerican.com/article/you-have-a-hive-mind/)
@@ -346,21 +346,11 @@ Most all these ideas are abstracted from peer reviewed science on how bees imple
 
 The process of evolution has solved many engineering problems. Bees don’t use their politicians to make decisions based on affiliation. Bees use their politicians as scouts. Bees use their politicians to collect information. Finally, when enough bees with solid first hand information are gathered together, quarum is reached and a decision is made. 
 
-The Cardano protocol was built on peer reviewed science. Our community should look at peer reviewed science on how decision making has evolved in nature and apply what we can to Cardano governance.
+Our community should look at peer reviewed science on how decision making has evolved in nature and apply what we can to Mina governance.
 
 * Links Repeated from above
 * Overview - [Bee Democracy](https://youtu.be/NDnQ4pAjBUg?t=310)
 * Tom Seeley, Cornell - [Details of Bee Democracy](https://youtu.be/JnnjY823e-w?t=2309)
 * Tom Seeley, Cornell - [BReps vs DReps](https://youtu.be/1x8T_CHZemE?t=122)
 * Tom Seeley, Cornell - [The Five Habits of Highly Effective Hives](https://youtu.be/XgSbPkInTzs?t=1929)
-* 
-
-
-#### **P.S.**
-Ultimately, CIP-1694 is governance by jury because the Constitutional Committee (CC) must agree before governance issues are passed.  
-And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through the Constitutional Committee.
-
-I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. That's how natural selection works. So of course this is the same conclusion the bees arrived at although the CC is centralized while the bees have worked out a decentralized and randomized method of selecting an informed jury which evolved over millions of years. The problem is that IOG thinks they are engineering governance and have not yet grasped that the forces of evolution are at work selecting for the very same qualities that appear everywhere in nature where collective decision making is required. These qualities are most easily observed and studied in honey bee colonies but they are at work everywhere including in the humans where good collective decisions must be coordinated between various parts of the brain. If IOG becomes aware of the evolutionary forces at work and understands that following them will lead to the most stable, resilient, governance that nature is able to produce then we will arrive more quickly which reduces the risk of collapse under bad governance and increases the claim on decentralized governance.
-
-So why not get rid of the part that isn’t being used (the DReps) and focus on decentralizing the part that actually works (the Constitutional Committee)? 
-This is the purpose of Beemocracy2.0
+  
