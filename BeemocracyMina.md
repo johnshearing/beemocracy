@@ -203,6 +203,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * A body of literature remains (the solicitations) so future generations will understand how we came to our decisions and what they should consider before making changes
         * Scouts can remain anonymous, building reputations only on their body of solicitations and public service which all have the same digital signature. No KYC required.
        
+#### Bootstrapping Governance
+  * The Constitutional Committee will serve as the jury for all governance issues until a pool of jurors has grown through the solicitation process.
+      
 #### Possible Exploits
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
