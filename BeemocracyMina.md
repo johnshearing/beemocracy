@@ -56,13 +56,15 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
 https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * #### Process Overview
     * BeemocracyMina responds to all governance proposals by inviting any Mina holder to scout the proposal and then write a solicitation (a report) recommending how jurors should vote.
+    * The report is stored on the Interplanetery File System where the hash of the document always the URL of the document.
     * Scouts register proof of their solicitation on the Mina blockchain with their hardware wallet.
-      * This binds their report and recommended vote to their digital signature.
+      * This binds the report and recommended vote to the scouts digital signature.
+      * The transaction includes the hash of the document which serves both to show where the document can be found on the IPFS and also serves as a document finger print so we know that the document has not been altered.
     * The scout may remain anonymous and be known only by their collection of solicitations all having the same digital signature associated with their hardware wallet.
-      * In this way, scouts (any ADA holder) gain history, reputation, and standing in the community without revealing their identity.
+      * In this way, scouts (any Mina holder) gain history, reputation, and standing in the community without revealing their identity.
     * All governance proposals go before a jury to be decided. So a scout's solicitations are information and recommendations used to help the juries decide.
       * This means every ADA holder gets a voice with respect to governance proposals.
-    * The jury is composed of randomly selected elite scouts - those ADA holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked voting recommendations are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation, then the voting recommendation is not binding. The scout/juror is free to listen to all arguments and decide anew.
+    * The jury is composed of randomly selected elite scouts - those Mina holders who have submitted at least 10 solicitations within the past 365 days. These 10 digitally signed solicitations with locked voting recommendations are used by the prosecution and the defense to evaluate the character of the scouts during jury selection. Prosecution and defense will alternate selections from a random pool of eligible scouts based on previous solicitations and some standard questions asked by the judge. If a scout is selected to serve on the jury and has written a solicitation on the current matter with an associated voting recommendation, then the voting recommendation is not binding. The scout/juror is free to listen to all arguments and decide anew.
     * So the solicitations serve two functions:
       1.  The solicitations are used to help inform juries when proposals are decided.
           * Think - scout bees examining various sites for their new hive.
