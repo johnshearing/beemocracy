@@ -71,37 +71,22 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Think - scouts coming back to the old hive with **first hand information** to use in making their decision.
       2.  The solicitations are used to create a large educated jury pool of elite scouts who are invested by their anonymous reputation (voting power) earned in the solicitation process.
           * Think - a guaranteed quorum of active, interested, and invested decision makers with first hand information to work with and incentivized to tell the truth.
-  * #### CIP-1694 - From Representative Democracy To Governance by Centralized Jury And Evolving Toward Governance By Decentralized Jury
-    * Community members delegate the voting power of their ADA to the DReps and the DReps vote however they want on all proposals with the delegated voting power.
-    * A preselected jury known as the Constitutional Committee (CC) has final say whether proposals pass for the following reasons: 
-      * The DRep structure has no means to enforce that DReps debate nor is there any means to ensure the DReps make decisions based on information they have verified for themselves rather than simply voting by affiliation.
-      * Eventually, representative democracy always converges to echo chambers, information bubbles, ignorance, hysteria, cronyism, corruption and ultimately very bad decisions.
-      * To make matters worse, CIP-1694 is effectively a one ADA one vote system, so the whales get to make all the decisions unless something is done to keep them in check.
-    * This is why IOG will appoint a jury of well informed highly respected community members (The Constitutional Committee) which shall have final say on governance issues.
-    * Ultimately, CIP-1694 is governance by centralized jury because the Constitutional Committee must agree before governance issues are passed.
-    * And if IOG sponsors a proposal then they certainly have enough ADA to get it past the DRep process before passing it through their Constitutional Committee.
-    * So despite the appearance of a representative democracy, governance issues in the Cardano community are ultimately decided by a fixed centralized jury.
-    * This is not such a bad thing because juries of informed citizens typically make good decisions.
-    * But a fixed jury appointed by IOG is not decentralized, and decentralized governance was the whole point of CIP-1694.
-    * I don't think the designers of CIP-1694 intended to create a governance by jury system. Rather I think they were just corralled by the constraints as they worked through the problems and arrived at governance by jury (the CC) without ever intending to do it. Isn't this how natural selection works? This is the same conclusion the bees arrived at through natural selection although the CC is centralized while the bees have a decentralized and randomized method of selecting the jury which evolved over millions of years. I think we are already seeing natural selection at work in Cardano governance and it is already evolving towards the most robust and effective type of collective decision making that nature selects for. We can help the Cardano community complete the transition to a randomized decentralized governance by jury.
-    * Solution: If we accept that the Constitutional Committee is just a jury, then we can see a way to transition to decentralized juries selected by anonymous reputation linked to community service via digital signature.
-    * Beemocracy2.0 is that solution
- * #### Beemocracy2.0 - Governance By Decentralized Jury
+ * #### BeemocracyMina - Governance By Decentralized Jury
     * Not every honey bee in the colony gets to vote. Only those bees (the scouts) active in collecting first hand information get the opportunity to form a quorum. 
-    * Beemocracy2.0 has scouts (any ADA holder). 
+    * BeemocracyMina has scouts (any Mina holder). 
     * Scouts can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
     * Elite scouts are eligible to serve on juries which decide governance proposals.
     * These jury trials ensure that all governance proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
-    * Unlike the DReps in Cardano's CIP-1694...
-      * The Beemocracy2.0 structure enforces that governance proposals must earn support through honest debate by randomly selected informed juries using information gathered by the community. The result is good decisions.
+    * Unlike the delegated representative democracy...
+      * The BeemocracyMina structure enforces that governance proposals must earn support through honest debate by randomly selected informed juries using information gathered by the community. The result is good decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
         * This is key to a functioning democracy - Scouts in the bee's world have to earn support for each proposal.
-        * In Cardano's CIP-1694, the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
+        * In typical governace, the delegated representatives only earn their delegation once and then learn to exploit their power for personal gain during the rest of their careers.
       * Bee democracy is structured like so because those structured differently were all selected out of existence.
-      * If IOG abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to Cardano Democracy then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow.
+      * If the Mina community abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to governance then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow.
       * Evolution already did the research. All we need to do is look at what the bees are doing.
-      * We should model Cardano governance on Bee Democracy -  the one which nature has perfected over the course of millions of years.  
+      * We should model Mina governance on Bee Democracy -  the one which nature has perfected over the course of millions of years.  
   * #### **Abstracting bee democracy functions and applying these to Cardano governance**
     * The data structure of this governance system is much like any online forum that we are used to.  
     * The governance is hosted on an immutable online forum for:
