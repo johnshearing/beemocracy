@@ -205,7 +205,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
        
 #### Possible Exploits
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
-    * The investment in becoming an elite scout and earning rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a jury with digital signatures controlled by a special interest will be prohibitively expensive.
+    * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
