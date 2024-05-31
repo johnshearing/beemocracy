@@ -77,7 +77,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * Scouts can investigate a governance proposal and provide a solicitation (a report with a voting recommendation) to a jury of randomly selected elite scouts.
     * Elite scouts are community members who have written at least 10 solicitations of their own within the past 365 days.
     * Elite scouts are eligible to serve on juries which decide governance proposals.
-    * These jury trials ensure that all governance proposals are debated using information collected by any ADA holder that has taken the time to prepare a solicitation.
+    * These jury trials ensure that all governance proposals are debated using information collected by any Mina holder that has taken the time to prepare a solicitation.
     * Unlike governance by delegated representatives...
       * The BeemocracyMina structure enforces that governance proposals must earn support through honest debate by randomly selected, informed juries using information gathered by the community. The result will be good decisions.
       * Scouts only receive consideration for the proposal they are currently soliciting (for or against) - Then consideration ends after the jurors have decided.
@@ -87,19 +87,19 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * If the Mina community abstracts the structure and feedback mechanisms found in Bee Democracy and applies these to governance then we will have governance that does not learn to create the very problems it was built to solve in order to feed and grow.
       * Evolution already did the research. All we need to do is look at what the bees are doing.
       * We should model Mina governance on Bee Democracy -  the one which nature has perfected over the course of millions of years.  
-  * #### **Abstracting bee democracy functions and applying these to Cardano governance**
+  * #### **Abstracting bee democracy functions and applying these to Mina governance**
     * The data structure of this governance system is much like any online forum that we are used to.  
     * The governance is hosted on an immutable online forum for:
       *  Submitting and reading governance proposals 
       *  Submitting and reading scout opinions and their voting recommendations
-    *  Any ADA holder can be a scout.
+    *  Any Mina holder can be a scout.
     * Scouts solicit for jury votes on each and every proposal they wish to weigh in on using an online document (a solicitation) which explains their position and which also locks their recommended votes. 
     * The mechanism is an on-chain transaction with a signed voting recommendation and the hash of the solicitation text on an immutable webpage.
     * The URL for any webpage on the Interplanetary File System (IPFS) is the hash of the webpage text.
       * **So the on-chain transaction with the signed voting recommendation and hash of the solicitation text points to the solicitation text on the IPFS forum webpage.**  
     * The scouts's voting recommendation is appended to the solicitation text and signed using their hardware wallet when the transaction is sent to the blockchain.
-    * The scout's voting recommendation can not be changed once the solicitation has been published (Blockchain transactions are immutable).
-    * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation.
+    * The scout's voting recommendation can not be changed once the solicitation has been published.
+    * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation (their voting power).
     * A scout's reputation is used to determine their character in jury selection and is also used to determine the types of governance proposals they can help decide.
       * The reputation system will be tiered based on the following on-chain criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
         * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
@@ -108,35 +108,35 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * the number of times an elite scout has served on a jury
         * the types of proposals the scout has helped decide
         * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
-        * the types of cases they write about. Are they specialists in a particular area such as stake pool parameters, smart contracts, finance, ethics...?
+        * the types of cases they write about. Are they specialists in a particular area such as blockchain parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
           * Github pull requests and contributions to Cardano codebase and associated projects.
-          * stake pool operator
+          * block producer or snark worker
           * library pool operator - helps store solicitations and governance documentation using IPFS protocol in a decentralized manner. Discussed in detail later in this document
           * creates educational material
           * respected youtubers
           * researchers
           * activists
-          * Work at IOG, Cardano Foundation, Emurgo, government, partner corporations, DAOs
+          * Work at o1labs, partner corporations, DAOs
         * how often they add to or challenge other scout solicitations
         * how well their work is judged by other scouts
         * How many words on average are in the solicitations
         * and so on
-      * All ADA holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
+      * All Mina holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
       * Jurors can get a lot of information from the body of solicitations even before reading them individually.
         * Solicitations will be aggregated by various categories so that jurors can get a sense of how the community feels even before reading the individual solicitations.
         * Jurors can also see who has recommended for or against a proposal.
           * While scouts can choose to remain anonymous, they may also choose to reveal their identities.
-            * So if a juror sees that a solicitation with recommended vote is registered by Charles Hoskinson then they might give the proposal extra attention.
+            * So if a juror sees that a solicitation with recommended vote is registered by prominent community member then they might give the proposal extra attention.
           * But each solicitation is linked by a hardware wallet to a scout's anonymous reputation, history, rank, and all the other solicitations associated with a scout's wallet.
             * This means that jurors can find out a lot of relevant information about a solicitation's author without knowing the scout's identity.
-            * This gives Cardano governance the benefits of KYC without the problems.
-        * The scout associated with a digital signature might be an individual, a group of people, and organizations such as an exchange, or even an artificial intelligence.
+            * This gives Mina governance the benefits of KYC without the problems.
+        * The scout associated with a digital signature might be an individual, a group of people, an organizations such as an exchange, or even an artificial intelligence - there is no way to know.
           * Who or what is the actual identity behind a solicitation's signature is not as important as the information presented in the solicitation.
           * This is because if it is determined that the solicitation misrepresents the facts then this will negatively impact the reputation invested in the digital signature.
           * So no matter if the scout is an individual, an organization, or an AI, the incentive is to provide accurate information.
-      * Elite scouts, those ADA holders who have written 10 or more solicitations within the past 365 days, may serve on juries.
+      * Elite scouts, those Mina holders who have written 10 or more solicitations within the past 365 days, may serve on juries.
         * Notice that as the scout stops writing, it is assumed that the scout has lost touch with the issues and may no longer serve on a jury until they start scouting again.
         * This is very much the same as in actual honey bee society.
       * Scouts earn rank to decide proposals of greater importance to the community.
