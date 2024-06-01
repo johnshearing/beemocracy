@@ -245,12 +245,12 @@ Extra surprise! Bitcoin is now a CBCD.
           * Some biases are deliberately built into the models by the creators.
           * Some biases remain unknown, even to the creators, until the model is used to answer questions or aggregate data.
           * Humans also have biases.
-          * The difference is that you can address and correct for human bias by talking with the human or by taking a large sampling of humans whereas a model must be retrained, which can only be done by the creators of the model and have little incentive to respond.
+          * The difference is that you can address and correct for human bias by talking with the human or by taking a large sampling of humans whereas a model must be retrained, which can only be done by the creators of the model and they have little incentive to respond.
         * a.i. models must never sit on a jury.
         * a.i. models must never substitute for human due diligence and first hand knowledge.
         * a.i. models must never be used to aggregate public opinion.
         * Lets keep humans in control of human governance:
-          * Human interaction by public forums, elections, referendums, juries, surveys, and petitions better represent human dignity and our humanity's right to self-determination.
+        * Human interaction by public forums, elections, referendums, juries, surveys, and petitions better represent human dignity and humanity's right to decentralization and self-determination.
       * #### Constitutional Committee members will be compensated with Mina and will agree to hold only Mina in their portfolio and no other assets of any kind.
         * This to ensure the incentives of the Constitutional Committee are in alignment with their responsibility of adding utility and value to the protocol.
         * CC members will be dismissed if found to be holding assets other than Mina.
