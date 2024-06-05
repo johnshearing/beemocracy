@@ -218,6 +218,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * In front of a witness, but without showing the words as they are entered, the human inputs the 24 word passphrase for the Mina account associated with the anonymous reputation identity.
       * In front of a witness, the human loads the Mina application onto the Ledger hardware wallet.
       * In front of a witness, the human then signs a message with Ledger hardware wallet to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
+      * This proves the anonymous reputation is controlled by a human without revealing who the human is.
+      * There is a lot of human effort in this proof which can be considered part of the cost which prevents spaming governance with anonymous reputations.
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
