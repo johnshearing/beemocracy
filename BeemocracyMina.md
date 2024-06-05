@@ -209,6 +209,14 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
 #### Possible Exploits
   * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
+    * Consider a refundable deposit for each active anonymous reputation identity (for each scout).
+      * Once the deposit is refunded, the reputation is nullified and can not ever be used again.
+    * Consider requiring a zero knowledge demonstration of human memory recall for the 24 word pass phrase of the hardware wallet which identifies the Mina account for the anonymous reputation identity.
+      * The human demonstrates they have memorized the 24 word pass phrase on their Ledger hardware wallet without revealing it.
+      * This can be done using the [Ledger Recovery Check application](https://youtu.be/c-bb3Sq5v18?si=V4Vx3LPskFY1KksH&t=42)
+      * The human inputs all 24 words into the Recovery Check app in front of a witness without showing the words as they are entered.
+      * The human shows the success message "Phrase is correct" which appears on the Ledger device after all 24 words have been entered correctly.
+      * The human then signs a messsage with Ledger hardware wallet to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
