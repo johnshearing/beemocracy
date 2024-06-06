@@ -209,7 +209,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
 #### Possible Exploits
   * Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
-    * Some raking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
+    * Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
     * Consider also a refundable deposit for each anonymous reputation identity (for each elite scout wallet) that wishes to be included in the jury pool.
       * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
       * This deposit must be large enough to deter the creation of multiple anonymous reputation identities.
@@ -221,7 +221,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * In front of a reliable witness, the human loads the Mina application onto the Ledger hardware wallet.
       * In front of a reliable witness, the human then signs a random message dictated by the witness with the Ledger hardware wallet to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
       * This proves the anonymous reputation is controlled by a human without revealing who the human is and without revealing the 24 words that control the wallet.
-      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with mulitple anonymous reputations belonging to special interests. The scout's time, effort, and Mina would be much better spent in honest campaining by writing well thought out solicitations and responses to debate the solicitions of other scouts
+      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with multiple anonymous reputations belonging to special interests. The scout's time, effort, and Mina would be much better spent in honest campaigning by writing well thought out solicitations and responses to debate the solicitions of other scouts
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
