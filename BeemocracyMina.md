@@ -206,7 +206,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
 #### Bootstrapping Governance
   * The Constitutional Committee will serve as the jury for all governance issues until a pool of jurors has grown through the solicitation process.
       
-#### Possible Exploits
+#### Possible Exploits and Counter Measures
   * Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
     * Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
