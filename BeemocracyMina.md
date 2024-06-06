@@ -101,13 +101,13 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * The scout's voting recommendation can not be changed once the solicitation has been published.
     * The scout's collection of digitally signed solicitations on governance proposals becomes a very important part of their reputation (their voting power).
     * A scout's reputation is used to determine their character in jury selection and is also used to determine the types of governance proposals they can help decide.
-      * The reputation system will be tiered based on the following on-chain criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
+      * #### The reputation system will be tiered based on the following on-chain criteria with the higher ranked scouts serving on juries which decide cases that hold greater importance for the community:
         * the amount of solicitations the scout has written for or against governance proposals within the last 365 days
         * the amount of solicitations the scout has written for or against governance proposals since the scout has been active
         * the range of subjects the scout writes about
         * the number of times an elite scout has served on a jury
         * the types of proposals the scout has helped decide
-        * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases
+        * how many times the scout's solicitations are cited by other scouts and by scout jurors when they decide cases.
         * the types of cases they write about. Are they specialists in a particular area such as blockchain parameters, smart contracts, finance, ethics...?
         * the types of services they provide for the community
           * Github pull requests and contributions to the Mina codebase and associated projects.
@@ -207,10 +207,12 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * The Constitutional Committee will serve as the jury for all governance issues until a pool of jurors has grown through the solicitation process.
       
 #### Possible Exploits
-  * Loading the Random Jury Pool With Elite Scouts Under The Control Of A Special Interest
+  * Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
-    * Consider a refundable deposit for each active anonymous reputation identity (for each scout).
-      * Once the deposit is refunded, the reputation is nullified and can not ever be used again.
+    * Some raking qualifications were discussed above.
+    * Consider a refundable deposit for each anonymous reputation identity (for each scout) that wishes to be included in the jury pool.
+      * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
+      * This deposit must be large enough to deter the creation of multiple anonymous reputation identities.
     * Consider a zero knowledge demonstration of human memory recall for the 24 word passphrase of the hardware wallet which identifies the Mina account for the anonymous reputation identity.
       * The human demonstrates they have memorized the 24 word passphrase on their Ledger hardware wallet without revealing it.
       * In front of a witness, the human resets their Ledger hardware wallet by entering the pin incorrectly three times.
