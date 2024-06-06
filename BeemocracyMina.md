@@ -241,7 +241,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
     * Jurors selling their wallet keys (Their entire anonymous reputation):
       * No hard answers but throwing out ideas:
       * I am wondering about some kind of one time signature or zero knowledge proof that demonstrates that the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
-      * Also wondering if biometrics can be taken from the wallet holder but not attached to any type of KYC: voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish uniqueness).
+      * Also wondering if biometrics can be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory recall such as voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish uniqueness).
+      * What exists to prove against? The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification. That leaves some preregistered biometrics, recall of previous conversations in public forums, match voice in previous public conversations with current voice.
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
