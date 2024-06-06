@@ -222,28 +222,26 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * In front of a reliable witness, the human then signs a random message with the Ledger hardware wallet, as dictated by the witness, to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
       * This proves the anonymous reputation is controlled by a human without revealing who the human is and without revealing the 24 words that control the wallet.
       * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with multiple anonymous reputations belonging to special interests. The scout's time, effort, and Mina would be much better spent in honest campaigning by writing well thought out proposals and responses to debate the solicitions of other scouts
+    * Smart contract which pays out to jurors as incentive if governance proposal is passed.
+      * This is a tough one because anyone can create this type of smart contract, not just the proposal beneficiaries.
+      * And the jurors benefit even if they never agree to participate.
+      * This exploit can only be shut down if the jurors are never revealed and no juror has a way to prove to the smart contract that they were on the jury.
     * Jurors selling their vote during a jury trial:
-      * No answers but throwing out ideas:
-        * Sting operation where beneficiaries of governance proposals forced to expose jurors who solicit for bribes.
-          * Procedure as follows
-          * Jurors should remain anonymous during a trial.
-          * Governance will pose as a juror and solicit for bribes.
-          * If this is not reported the proposal is dismissed.
-          * No one knows who the jurors are during a trial, so:
-            * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation.
-            * If proposal beneficiaries can identify a juror then this indicates possible bribe request because the jurors are supposed to be anonymous.
-    * Jurors selling their wallet keys (Their anonymous reputation):
-      * No answers but throwing out ideas:
+      * No hard answers but throwing out ideas:
+        * What if a jury is made up of say 100 members but only 10 jury votes (selected at random and in secret using verifiable zkp) were counted to create a verdict?
+          * This would require bribing 10 times the number of jurors to steal a trial.
+        * Sting operation where beneficiaries of governance proposals are forced to expose jurors who solicit for bribes.
+          * Procedure as follows:
+            * Jurors should remain anonymous during a trial.
+            * Governance will pose as a juror and solicit for bribes.
+            * If this is not reported the proposal is dismissed.
+            * No one knows who the jurors are during a trial, so:
+              * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation and which is from a juror.
+              * If proposal beneficiaries can identify a juror then this indicates possible bribe request because the jurors are supposed to be anonymous.
+    * Jurors selling their wallet keys (Their entire anonymous reputation):
+      * No hard answers but throwing out ideas:
       * I am wondering about some kind of one time signature or zero knowledge proof that demonstrates that the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
       * Also wondering if biometrics can be taken from the wallet holder but not attached to any type of KYC: voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish uniqueness).
-      * 
-    * Smart contract which pays out to jurors as incentive if governance proposal is passed.
-      * No answers but throwing out ideas:
-      * This is a tough one because anyone can create this type of smart contract, not just the proposal beneficiaries.
-      * And te jurors benefit even if they never agree to participate.
-      * This exploit can only be shut down if the jurors are never revealed and no juror has a way to prove they were on the jury.
-      
-
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
