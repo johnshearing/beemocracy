@@ -223,18 +223,19 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * This proves the anonymous reputation is controlled by a human without revealing who the human is and without revealing the 24 words that control the wallet.
       * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with multiple anonymous reputations belonging to special interests. The scout's time, effort, and Mina would be much better spent in honest campaigning by writing well thought out proposals and responses to debate the solicitions of other scouts
     * Jurors selling their vote during a jury trial:
-      * Sting operation: Benificiaries of governance proposals forced to expose jurors who solicit for bribes. Proceedure as follows
-        * Jurors should remain anonymous during a trial.
-        * Governance will pose as a juror and solicit for bribes.
-        * If this is not reported the proposal is dismissed.
-        * No one knows who the jurors are during a trial, so:
-          * Proposal beneficiaries must report all bribe requests.
-          * if proposer can identify a juror then this idicates possible bribe request.
+      * No answers but throwing out ideas:
+        * Sting operation where benificiaries of governance proposals forced to expose jurors who solicit for bribes.
+          * Proceedure as follows
+          * Jurors should remain anonymous during a trial.
+          * Governance will pose as a juror and solicit for bribes.
+          * If this is not reported the proposal is dismissed.
+          * No one knows who the jurors are during a trial, so:
+            * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation.
+            * If proposal beneficiaries can identify a juror then this idicates possible bribe request because the jurors are supposed to be anonymous.
     * Jurors selling their wallet keys (Their anonymous reputation):
-      * I don't have an answer for this one yet but throwing out ideas. I am wondering about some kind of one time signature or zero knowledge proof that demonstrates that the person who completed the zero knowledge ceremony of human memory is the same person responding to a challenge of wallet ownership. Also wondering if biometrics can be taken from the wallet holder but not attached to any type of KYC: voice, photos of hand, foot, elbow (areas not normally collected by KYC athorities but enough to establish uniqueness).
-
-
-
+      * No answers but throwing out ideas:
+      * I am wondering about some kind of one time signature or zero knowledge proof that demonstrates that the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
+      * Also wondering if biometrics can be taken from the wallet holder but not attached to any type of KYC: voice, photos of hand, foot, elbow (areas not normally collected by KYC athorities but enough to establish uniqueness).
 
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
