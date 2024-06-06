@@ -214,7 +214,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
       * This deposit must be large enough to deter the creation of multiple anonymous reputation identities.
     * Consider a zero knowledge ceremony and demonstration of human memory recall for the 24 word passphrase of the hardware wallet which identifies the Mina account for the anonymous reputation identity.
-      * The human demonstrates in front of a reliable witness they have memorized the 24 word passphrase on their Ledger hardware wallet without revealing it.
+      * The human demonstrates in front of a reliable witness they have memorized the 24 word passphrase on their Ledger hardware wallet without revealing it. The process is described below.
       * In front of a reliable witness, the human resets their Ledger hardware wallet by entering the pin incorrectly three times.
       * Now it's like a brand new device with no passphrase and no applications.
       * In front of a reliable witness, but without showing the words as they are entered, the human inputs the 24 word passphrase from human memory for the Mina account associated with the anonymous reputation identity.
