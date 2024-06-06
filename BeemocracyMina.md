@@ -219,9 +219,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * Now it's like a brand new device with no passphrase and no applications.
       * In front of a reliable witness, but without showing the words as they are entered, the human inputs the 24 word passphrase from human memory for the Mina account associated with the anonymous reputation identity.
       * In front of a reliable witness, the human loads the Mina application onto the Ledger hardware wallet.
-      * In front of a reliable witness, the human then signs a message with the Ledger hardware wallet to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
-      * This proves the anonymous reputation is controlled by a human without revealing who the human is.
-      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with mulitple anonymous reputations belonging to special interests.
+      * In front of a reliable witness, the human then signs a random message dictated by the witness with the Ledger hardware wallet to prove that the device does indeed control the Mina account associated with the anonymous reputation identity.
+      * This proves the anonymous reputation is controlled by a human without revealing who the human is and without revealing the 24 words that control the wallet.
+      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with mulitple anonymous reputations belonging to special interests. The scout's time, effort, and Mina would be much better spent in honest campaining by writing well thought out solicitations and responses to debate the solicitions of other scouts
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
