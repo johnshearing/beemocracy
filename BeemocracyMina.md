@@ -237,8 +237,11 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * I am wondering about some kind of one time signature or zero knowledge proof that demonstrates that the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
       * Also wondering if biometrics can be taken from the wallet holder but not attached to any type of KYC: voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish uniqueness).
       * 
-    * Smart contract which pays out to jurors if governance proposal is passed.
+    * Smart contract which pays out to jurors as incentive if governance proposal is passed.
       * No answers but throwing out ideas:
+      * This is a tough one because anyone can create this type of smart contract, not just the proposal beneficiaries.
+      * And te jurors benefit even if they never agree to participate.
+      * This exploit can only be shut down if the jurors are never revealed and no juror has a way to prove they were on the jury.
       
 
 
