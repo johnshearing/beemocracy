@@ -240,8 +240,13 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
               * If proposal beneficiaries can identify a juror then this indicates possible bribe request because the jurors are supposed to be anonymous.
     * Jurors selling their wallet keys (Their entire anonymous reputation):
       * No hard answers but throwing out ideas:
+      * Jurors may share their private keys for a price but could never sell them because there is no way to prove that the all copies of the 24 words are destroyed and that the original owner doesn't remember the 24 words.
+        * This makes buying the wallet less attractive.
       * I am wondering about some kind of one time signature or zero knowledge proof that demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
       * Also wondering if biometrics can be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory recall such as voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish uniqueness).
+      * Might be interesting to have a hardware wallet that requires a 25th word which is taken from a fingerprint reader.
+        * The fingerprint reader would be built into the hardware wallet in such a way that trying to get at the signal wires to read the extra 25th word would destroy the entire device.
+        * So hardware wallets would be interchangeable, but impossible to sell without also selling the fingerprint.
       * What exists to prove against? The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification. That leaves some preregistered biometrics, recall of previous conversations in public forums, match voice in previous public conversations with current voice.
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
