@@ -230,7 +230,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
       * And the jurors benefit even if they never agree to participate.
       * Counter Measure: This exploit can be shut down if the jurors are never revealed and no juror has a way to prove to the smart contract that they were on the jury.
     * Exploit: Jurors selling their vote during a jury trial:
-      * Counter Measure: What if a jury is made up of say 100 members but only 10 jury votes (selected at random and in secret using verifiable zkp) were counted to create a verdict?
+      * Counter Measure: What if a jury is made up of say 100 members but only 10 jury votes (selected at random) were counted to create a verdict?
         * This would require bribing 10 times the number of jurors to steal a trial.
       * Counter Measure: Sting operation where beneficiaries of governance proposals are forced to expose jurors who solicit for bribes.
         * Procedure as follows:
