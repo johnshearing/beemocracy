@@ -207,6 +207,10 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * The Constitutional Committee will serve as the jury for all governance issues until a pool of jurors has grown through the solicitation process.
       
 #### Possible Exploits and Counter Measures
+  * Counter Measure: The Constitution and the Constitutional Committee:
+    * No one can see all the possible exploits the clever people contrive.
+    * The if a trial is stolen then it will likely be obvious and for some purpose which is clearly unconstitutional.
+    * Since all governance actions must be ratified by the CC there is a high degree of protection against stolen trials.
   * Exploit: Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
     * Counter Measure: Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
@@ -258,6 +262,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
         * A device like this would not work for anyone but the owner and so could not be sold.
         * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
+        * Is this a silly idea or will soon everyone have an a.i. witness certified to tell the truth but will only answer questions asked by the owner?
 
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
