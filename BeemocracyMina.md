@@ -262,6 +262,8 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
         * A device like this would not work for anyone but the owner and so could not be sold.
         * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
+        * What if for some reason the a.i. is no longer able to recognize the owner? Is the account lost?
+          * A [timed recovery option is discussed](https://github.com/johnshearing/SmartWallet) here which allows a predefined wallet address to recover funds and perhaps anonymous reputation after a set time of wallet inactivity.
         * Is this a silly idea or will soon everyone have an a.i. witness certified to tell the truth but will only answer questions asked by the owner?
 
 
