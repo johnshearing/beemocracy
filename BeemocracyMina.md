@@ -210,10 +210,10 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
   * Exploit: Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
     * The investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
     * Counter Measure: Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
-      * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up mulitple identities to load the randomized jury pool.
+      * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up multiple identities to load the randomized jury pool.
     * Counter Measure: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
       * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
-      * This deposit makes it costly to spin up mulitple identities to load the randomized jury pool.
+      * This deposit makes it costly to spin up multiple identities to load the randomized jury pool.
       * This deposit must be large enough to deter the creation of multiple anonymous reputations.
     * Counter Measure: ZK-Ceremony and demonstration of human memory for elite scouts that wish to become jurors: 
       * Candidate jurors demonstrate, in front of a reliable witness, they have memorized the 24 word passphrase on their Ledger hardware wallet which identifies the Mina account for their anonymous reputation without revealing the words.
@@ -239,9 +239,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * If this is not reported the proposal is dismissed.
         * No one knows who the jurors are during a trial, so:
           * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation and which is from a juror.
-          * If proposal beneficiaries can identify a juror then this indicates possible bribe request because the jurors are supposed to be anonymous.
+          * If proposal beneficiaries can identify a juror then this indicates a possible bribe request because the jurors are supposed to be anonymous.
     * Exploit: Jurors selling their wallet keys (selling their entire anonymous reputation to special interest):
-      * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that the all copies of the 24 words are destroyed and that the original owner doesn't remember the 24 words.
+      * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that all copies of the 24 words have been destroyed and that the original owner doesn't remember the 24 words.
         * This makes buying the wallet less attractive.
       * Ideas below for counter measures but nothing solid yet:
       * I am wondering about some kind of proof that demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
@@ -260,7 +260,7 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * The 24 words known to the user plus the 25th unknown word are all used to create the Mina account which controls the anonymous reputation of the owner.
         * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
         * A device like this would not work for anyone but the owner and so could not be sold.
-        * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) incase the original device is lost or stolen.
+        * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
 
 
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
