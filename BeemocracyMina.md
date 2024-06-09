@@ -246,13 +246,20 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation and which is from a juror.
           * If proposal beneficiaries can identify a juror then this indicates a possible bribe request because the jurors are supposed to be anonymous.
     * Exploit: Jurors selling their wallet keys (selling their entire anonymous reputation to special interest):
+      * There is currently a market for this in video games where people make a living by playing the games and building their player profile then selling the profile to other players. It is reasonable to assume a similar market will arrise in Mina governance if there is no way to link anonymous reputation with a unique human.  
       * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that all copies of the 24 words have been destroyed and that the original owner doesn't remember the 24 words.
-        * This makes buying the wallet less attractive.
+        * This makes buying the wallet less attractive but does not prevent the practice.
       * Ideas below for counter measures but nothing solid yet:
       * I am wondering about some kind of proof that demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
-      * What exists to prove against? The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification.
-      * That leaves some preregistered biometrics (I don't like the idea of collecting biometrics), ability to recall previous conversations in public forums, match voice in previous public conversations with current voice.
-      * Also wondering if biometrics can be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory recall such as voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish that the same unique human still controls the wallet). I don't like the idea of collecting biometrics even if it is not associated with KYC.
+      * What exists to prove against?
+        * The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification.
+        * That leaves some preregistered biometrics (I don't like the idea of collecting biometrics),
+        * Matching voice in previous public conversations with voice in a current converastion.
+          * It is possible mimic original voice using a.i. but the original person would not likely cooperate with sampling and gaining samples from public record would be time consuming and expensive.
+          * Also wondering if biometrics can be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory recall that was discussed above.
+            * Biometrics such as voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish that the same unique human still controls the wallet).
+            * I don't like the idea of collecting biometrics even if it is not associated with KYC.
+            * There must be another way.
       * Sounds like a job for the a.i. controlled hardware wallet I have been thinking about [described at this link here](https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography).
         * The idea is a hardware wallet with onboard a.i. that is trained to recognize only it's owner.
         * The device would have camera (Face Recognition), microphone (Voice Recognition), fingerprint reader, and keyboard for input.
