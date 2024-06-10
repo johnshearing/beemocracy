@@ -206,82 +206,6 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
 #### Bootstrapping Governance
   * The Constitutional Committee will serve as the jury for all governance issues until a pool of jurors has grown through the solicitation process.
       
-#### Possible Exploits and Counter Measures
-  * Global Counter Measure: The Constitution and the Constitutional Committee:
-    * No one can see all the possible exploits that clever people contrive.
-    * The if a trial is stolen then it will likely be obvious and for some purpose which is clearly unconstitutional.
-    * Since all governance actions must be ratified by the Constitutional Committee there is a high degree of protection against stolen trials assuming the constitution is well thought out.
-  * Exploit: Smart contract which pays out to jurors as incentive if governance proposal is passed.
-    * Difficult to counter because anyone can create this type of smart contract, not just the proposal beneficiaries.
-    * And the jurors benefit even if they never agree to participate.
-    * Counter Measure: This exploit can be shut down if the jurors are never revealed and no juror has a way to prove to the smart contract that they were on the jury.
-  * Exploit: Jurors selling their vote during a jury trial:
-    * Counter Measure 1: Consider a jury made up of say 100 members but only 10 jury votes are counted to create a verdict?
-      * The votes would be selected at random and in secret by the system (not by humans) such that it is impossible to tell who's votes decided the trial.
-      * This would require bribing 10 times the number of jurors to steal a trial.
-      * Word would certainly get out that someone is trying to steal the verdict.
-    * Counter Measure 2: Sting operation where beneficiaries of governance proposals are forced to expose jurors who solicit for bribes.
-      * Procedure as follows:
-      * Jurors should remain anonymous during a trial.
-      * Governance will pose as a juror and solicit for bribes.
-      * If this is not reported the proposal may be dismissed.
-      * No one knows who the jurors are during a trial, so:
-        * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation and which is from a juror.
-        * If proposal beneficiaries can identify a juror then this indicates a possible bribe request because the jurors are supposed to be anonymous.
-    * Counter Measure 3: Jurors found guilty of selling their vote will have their anonymous reputation nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
-
-  * Exploit: Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
-    * Counter Measure 1: Generally, the investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
-    * Counter Measure 1a: Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
-      * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up multiple identities to load the randomized jury pool.
-    * Counter Measure 1b: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
-      * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
-      * This deposit makes it costly to spin up multiple identities to load the randomized jury pool.
-      * This deposit must be large enough to deter the creation of multiple anonymous reputations.
-    * Counter Measure 1c: ZK-Ceremony and demonstration of human memory for elite scouts that wish to become jurors: 
-      * Candidate jurors demonstrate, in front of a reliable witness, they have memorized the 24 word passphrase on their Ledger hardware wallet which identifies the Mina account for their anonymous reputation without revealing the words.
-      * No zero knowledge cryptography is required for this zero knowledge proof of memory. The process is described below.
-      * In front of a reliable witness, the human resets their Ledger hardware wallet by entering the pin incorrectly three times.
-      * Now it's like a brand new device with no passphrase and no applications installed.
-      * In front of a reliable witness, but without showing the words as they are entered, the human inputs the 24 word passphrase from his/her own memory for the Mina account associated with the anonymous reputation.
-      * In front of a reliable witness, the human loads the Mina application onto the Ledger hardware wallet.
-      * In front of a reliable witness, the human then signs a random message with the Ledger hardware wallet, as dictated by the witness, and broadcasts the message onto the Mina blockchain.
-      * This message proves the anonymous reputation is controlled by this unique human without revealing who the human is and without revealing the 24 words that control the wallet.
-      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with multiple anonymous reputations belonging to special interests. The scout's time, effort, and Mina might be much better spent in honest campaigning by writing well thought out proposals and responses to debate the solicitions of other scouts.
-      * During the ceremony biometrics could be collected which link the unique human with the wallet controlling the anonymous reputation without doing any KYC.
-        * I don't like the idea of collecting biometrics even if it is never used to KYC the human.
-        * Just having biometric information on our citizens is to dangerous if it falls into the hands of criminals or government.
-        * There is a better solution on the horizon which uses an open source, citizen owned and controlled a.i. which is certified by the government to tell the truth but will only answer questions when asked by the owner.
-        * This a.i. would certify that the human casting the vote is the same human originally linked to the juror's account during the ZK-Ceremony and demonstration of human memory which was discussed above.
-        * This option will be discussed in more detail as we proceed.
-  * Exploit: Jurors selling their wallet keys (selling their entire anonymous reputation to special interest):
-    * It would be possible for special interest to buy enough wallets and associated anonymous reputations to create favorable odds of controlling all randomly selected juries.
-    * There is currently a market in video game communities where people make a living by playing the games and building their player profile. Then they sell the profile to other players.
-    * It is reasonable to assume a similar market will arrise in Mina governance if there is no way to link anonymous reputation with a unique human.  
-    * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that all copies of the 24 words have been destroyed and that the original owner doesn't remember the 24 words.
-      * This makes buying the wallet less attractive but does not prevent the practice.
-    * Counter Measures:
-      * What kind of proof demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
-      * The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification.
-      * Collecting biometrics is dangerous. So let's forget that idea.
-      * Matching voice biometrics from previous public conversations with the voice in a current converastion can be done without asking for biometrics but it is possible to mimic the original voice using a.i., and besides, there is no guarantee that the wallet holder has ever spoken in public to begin with. So let's forget that idea too.
-      * Biometrics could be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory that was discussed above. But the idea of collecting and holding biometrics, even if it is not used for KYC, is repugnant to almost everyone in our commuity, and with good reason.
-      * There is another way.
-      * Sounds like a job for the a.i. controlled hardware wallet I have been thinking about [described at this link here](https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography).
-      * The idea is a hardware wallet with onboard a.i. that is trained to recognize only it's owner.
-      * The device would have camera (Face Recognition), microphone (Voice Recognition), fingerprint reader, and keyboard for input.
-      * [It might look something like this hardware wallet from a previous project](https://github.com/johnshearing/PrivateKeyVault/blob/master/README.md).
-      * Using OpenCV (Machine Vision) along with Deep Learning (a.i.) as [described from this previous project](https://github.com/johnshearing/MachineControlByObjectDetection) would help with facial recognition.
-      * A unique 25th word would be generated by the wallet which is unknown even to the owner.
-      * The 24 words known to the user plus the 25th unknown word are all used to create the Mina account which controls the anonymous reputation of the owner.
-      * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
-      * A device like this would not work for anyone but the owner and so could not be sold.
-      * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
-      * What if for some reason the a.i. is no longer able to recognize the owner? Is the account lost?
-        * A [timed recovery option is discussed](https://github.com/johnshearing/SmartWallet) here which allows a predefined wallet address to recover funds and perhaps anonymous reputation after a set time of wallet inactivity.
-      * What we are reaching for is an opensource a.i. witness that is certified by governance to tell the truth but will only answer questions asked by the owner?
-
-
 #### **Constitutional Amendments: Protecting Mina From Becoming Like The Central Banks Or From Being Enslaved By Them**
   * [Right in the Bitcoin genesis block is a reference to a newspaper article about the abuse of central banks.](https://en.bitcoin.it/wiki/Genesis_block)  
 So right from the beginning we know the purpose of blockchain is to offer humanity a decentralized alternative to central bank tyranny.  
@@ -416,6 +340,93 @@ Human delegated representative democracy, on the other hand enforces, that polit
     * Supporting Documentation on constitutional issues
       * There must be a link from Mina Constitution to the following document so that future generations will remember the horrors of fiat money and the central banks and never permit their return
       * [The Creature From Jekyll Island](https://drive.google.com/file/d/1Aj4rGWnTLvmXzG_gP0Xw_mM7T4Rnb3zi/view?usp=sharing)
+
+#### Possible Exploits and Counter Measures
+  * Global Counter Measure: The Constitution and the Constitutional Committee:
+    * No one can see all the possible exploits that clever people contrive.
+    * The if a trial is stolen then it will likely be obvious and for some purpose which is clearly unconstitutional.
+    * Since all governance actions must be ratified by the Constitutional Committee there is a high degree of protection against stolen trials assuming the constitution is well thought out.
+  * Exploit: Smart contract which pays out to jurors as incentive if governance proposal is passed.
+    * Difficult to counter because anyone can create this type of smart contract, not just the proposal beneficiaries.
+    * And the jurors benefit even if they never agree to participate.
+    * Counter Measure: This exploit can be shut down if the jurors are never revealed and no juror has a way to prove to the smart contract that they were on the jury.
+  * Exploit: Jurors selling their vote during a jury trial:
+    * Counter Measure 1: Consider a jury made up of say 100 members but only 10 jury votes are counted to create a verdict?
+      * The votes would be selected at random and in secret by the system (not by humans) such that it is impossible to tell who's votes decided the trial.
+      * This would require bribing 10 times the number of jurors to steal a trial.
+      * Word would certainly get out that someone is trying to steal the verdict.
+    * Counter Measure 2: Sting operation where beneficiaries of governance proposals are forced to expose jurors who solicit for bribes.
+      * Procedure as follows:
+      * Jurors should remain anonymous during a trial.
+      * Governance will pose as a juror and solicit for bribes.
+      * If this is not reported the proposal may be dismissed.
+      * No one knows who the jurors are during a trial, so:
+        * Proposal beneficiaries must report all bribe requests because they don't know which one is from the sting operation and which is from a juror.
+        * If proposal beneficiaries can identify a juror then this indicates a possible bribe request because the jurors are supposed to be anonymous.
+    * Counter Measure 3: Jurors found guilty of selling their vote will have their anonymous reputation nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
+
+  * Exploit: Loading the Random Jury Pool With Elite Scout wallets Under The Control Of A Special Interest
+    * Counter Measure 1: Generally, the investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
+    * Counter Measure 1a: Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
+      * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up multiple identities to load the randomized jury pool.
+    * Counter Measure 1b: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
+      * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
+      * This deposit makes it costly to spin up multiple identities to load the randomized jury pool.
+      * This deposit must be large enough to deter the creation of multiple anonymous reputations.
+    * Counter Measure 1c: ZK-Ceremony and demonstration of human memory for elite scouts that wish to become jurors: 
+      * Candidate jurors demonstrate, in front of a reliable witness, they have memorized the 24 word passphrase on their Ledger hardware wallet which identifies the Mina account for their anonymous reputation without revealing the words.
+      * No zero knowledge cryptography is required for this zero knowledge proof of memory. The process is described below.
+      * In front of a reliable witness, the human resets their Ledger hardware wallet by entering the pin incorrectly three times.
+      * Now it's like a brand new device with no passphrase and no applications installed.
+      * In front of a reliable witness, but without showing the words as they are entered, the human inputs the 24 word passphrase from his/her own memory for the Mina account associated with the anonymous reputation.
+      * In front of a reliable witness, the human loads the Mina application onto the Ledger hardware wallet.
+      * In front of a reliable witness, the human then signs a random message with the Ledger hardware wallet, as dictated by the witness, and broadcasts the message onto the Mina blockchain.
+      * This message proves the anonymous reputation is controlled by this unique human without revealing who the human is and without revealing the 24 words that control the wallet.
+      * On top of all the other requirements, there is a lot of human effort invested in this zero knowledge proof which can be considered part of the cost which prevents loading the randomized jury pool with multiple anonymous reputations belonging to special interests. The scout's time, effort, and Mina might be much better spent in honest campaigning by writing well thought out proposals and responses to debate the solicitions of other scouts.
+      * During the ceremony biometrics could be collected which link the unique human with the wallet controlling the anonymous reputation without doing any KYC.
+        * I don't like the idea of collecting biometrics even if it is never used to KYC the human.
+        * Just having biometric information on our citizens is to dangerous if it falls into the hands of criminals or government.
+        * There is a better solution on the horizon which uses an open source, citizen owned and controlled a.i. which is certified by the government to tell the truth but will only answer questions when asked by the owner.
+        * This a.i. would certify that the human casting the vote is the same human originally linked to the juror's account during the ZK-Ceremony and demonstration of human memory which was discussed above.
+        * This option will be discussed in more detail as we proceed.
+  * Exploit: Jurors selling their wallet keys (selling their entire anonymous reputation to special interest):
+    * It would be possible for special interest to buy enough wallets and associated anonymous reputations to create favorable odds of controlling all randomly selected juries.
+    * There is currently a market in video game communities where people make a living by playing the games and building their player profile. Then they sell the profile to other players.
+    * It is reasonable to assume a similar market will arrise in Mina governance if there is no way to link anonymous reputation with a unique human.  
+    * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that all copies of the 24 words have been destroyed and that the original owner doesn't remember the 24 words.
+      * This makes buying the wallet less attractive but does not prevent the practice.
+    * Counter Measures:
+      * What kind of proof demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
+      * The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification.
+      * Collecting biometrics is dangerous. So let's forget that idea.
+      * Matching voice biometrics from previous public conversations with the voice in a current converastion can be done without asking for biometrics but it is possible to mimic the original voice using a.i., and besides, there is no guarantee that the wallet holder has ever spoken in public to begin with. So let's forget that idea too.
+      * Biometrics could be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory that was discussed above.
+      * But the idea of collecting and holding biometrics, even if it is not used for KYC, is repugnant to almost everyone in our commuity, and with good reason.
+      * What about a hardware wallet with a fingerprint reader?
+      * Now it is possible to use the wallet owners biometrics to prove humanity and uniqueness without governace having to store the biometrics.
+      * Upon setting up this HW wallet with fingerprint reader, a unique 25th word would be generated by the wallet which is unknown even to the owner.
+      * The 24 words known to the user plus the 25th unknown word are all used to create the Mina account which controls the anonymous reputation of the owner.
+      * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
+      * A device like this would not work for anyone but the owner and so could not be sold without also a copy of the owners finger print.
+      * Once setup, this device would have to be clonable so that the owner can have backup devices in case the original is lost or stolen.
+      * The owner would need to keep a copy of their own finger print in case their finger becomes dammaged.
+      * While no device like this is currently made, if implemented correctly, it would provide proof of unique humanity without the need for governance to store biometrics and without doing any KYC.
+      * We could take this idea even further:
+      * What we are reaching for is an opensource a.i. witness that is certified by governance to tell the truth but will only answer questions when asked by the owner?
+      * [The idea is described in some detail at this link here](https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography).
+      * The idea is a hardware wallet with onboard a.i. that is trained to recognize only it's owner.
+      * The device would have camera (Face Recognition), microphone (Voice Recognition), fingerprint reader, and keyboard for input.
+      * [It might look something like this hardware wallet from a previous project](https://github.com/johnshearing/PrivateKeyVault/blob/master/README.md).
+      * Using OpenCV (Machine Vision) along with Deep Learning (a.i.) as [described from this previous project](https://github.com/johnshearing/MachineControlByObjectDetection) would help with facial recognition.
+      * A unique 25th word would be generated by the wallet which is unknown even to the owner.
+      * The 24 words known to the user plus the 25th unknown word are all used to create the Mina account which controls the anonymous reputation of the owner.
+      * This is the Mina account that would be registered by the juror in the ZK-Ceremony and demonstration of human memory that was described above.
+      * A device like this would not work for anyone but the owner and so could not be sold.
+      * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
+      * What if for some reason the a.i. is no longer able to recognize the owner? Is the account lost?
+      * A [timed recovery option is discussed](https://github.com/johnshearing/SmartWallet) here which allows a predefined wallet address to recover funds and perhaps anonymous reputation after a set time of wallet inactivity.
+  * Until these counter-measures can be put into place the Constitution and the Constitutional Committee are all that stand against stolen verdicts.
+
 
 #### **Conclusion:** 
 
