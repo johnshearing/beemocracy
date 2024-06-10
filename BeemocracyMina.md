@@ -255,23 +255,19 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * This a.i. would certify that the human casting the vote is the same human originally linked to the juror's account during the ZK-Ceremony and demonstration of human memory which was discussed above.
         * This option will be discussed in more detail as we proceed.
   * Exploit: Jurors selling their wallet keys (selling their entire anonymous reputation to special interest):
-    * There is currently a market for this in video games where people make a living by playing the games and building their player profile.
-    * Then they sell the profile to other players.
+    * It would be possible for special interest to buy enough wallets and associated anonymous reputations to create favorable odds of controlling all randomly selected juries.
+    * There is currently a market in video game communities where people make a living by playing the games and building their player profile. Then they sell the profile to other players.
     * It is reasonable to assume a similar market will arrise in Mina governance if there is no way to link anonymous reputation with a unique human.  
     * Deterrent: Jurors may share their private keys for a price but could never sell them outright because there is no way to prove that all copies of the 24 words have been destroyed and that the original owner doesn't remember the 24 words.
       * This makes buying the wallet less attractive but does not prevent the practice.
-    * Ideas below for counter measures but nothing solid yet:
-    * I am wondering about some kind of proof that demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
-    * What exists to prove against?
+    * Counter Measures:
+      * What kind of proof demonstrates the person who completed the zero knowledge ceremony of human memory (discussed above) is the same person responding to a challenge of wallet ownership.
       * The attacker already has control of the wallet. So nothing about the wallet or the reputation assigned to the wallet can be used for verification.
-      * That leaves some preregistered biometrics (I don't like the idea of collecting biometrics),
-      * Matching voice in previous public conversations with voice in a current converastion.
-        * It is possible mimic original voice using a.i. but the original person would not likely cooperate with sampling and gaining samples from public record would be time consuming and expensive.
-        * Also wondering if biometrics can be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory recall that was discussed above.
-          * Biometrics such as voice, photos of hand, foot, elbow (areas not normally collected by KYC authorities but enough to establish that the same unique human still controls the wallet).
-          * I don't like the idea of collecting biometrics even if it is not associated with KYC.
-          * There must be another way.
-    * Sounds like a job for the a.i. controlled hardware wallet I have been thinking about [described at this link here](https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography).
+      * Collecting biometrics is dangerous. So let's forget that idea.
+      * Matching voice biometrics from previous public conversations with the voice in a current converastion can be done without asking for biometrics but it is possible to mimic the original voice using a.i., and besides, there is no guarantee that the wallet holder has ever spoken in public to begin with. So let's forget that idea too.
+      * Biometrics could be taken from the wallet holder during the zero knowledge ceremony and demonstration of human memory that was discussed above. But the idea of collecting and holding biometrics, even if it is not used for KYC, is repugnant to almost everyone in our commuity, and with good reason.
+      * There is another way.
+      * Sounds like a job for the a.i. controlled hardware wallet I have been thinking about [described at this link here](https://github.com/johnshearing/A.i.-Classifiers-Zero-Knowledge-Proofs-Without-Zero-Knowledge-Cryptography).
       * The idea is a hardware wallet with onboard a.i. that is trained to recognize only it's owner.
       * The device would have camera (Face Recognition), microphone (Voice Recognition), fingerprint reader, and keyboard for input.
       * [It might look something like this hardware wallet from a previous project](https://github.com/johnshearing/PrivateKeyVault/blob/master/README.md).
