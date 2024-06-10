@@ -425,6 +425,7 @@ Human delegated representative democracy, on the other hand enforces, that polit
       * The device would have a [clonable encrypted sd card for backup as seen here](https://github.com/johnshearing/PrivateKeyVault?tab=readme-ov-file#cloning-your-encrypted-sd-card-using-only-the-raspberry-pi) in case the original device is lost or stolen.
       * What if for some reason the a.i. is no longer able to recognize the owner? Is the account lost?
       * A [timed recovery option is discussed](https://github.com/johnshearing/SmartWallet) here which allows a predefined wallet address to recover funds and perhaps anonymous reputation after a set time of wallet inactivity.
+      * While no device like this is currently made, if implemented correctly, it would provide proof of unique humanity without the need for governance to store biometrics and without doing any KYC.
   * Until these countermeasures can be put into place the Constitution and the Constitutional Committee are all that stand against stolen verdicts.
 
 
