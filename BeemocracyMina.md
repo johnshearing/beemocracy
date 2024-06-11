@@ -39,7 +39,7 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
     * Deciding governance proposals at jury trials ensures that:
       * All proposals are decided based on accurate first hand information only, without any cronyism, and without overloading the network.
       * All proposals are debated in a transparent forum.
-      * Only Decision makers with first hand information participate in the decision making process.
+      * Only decision makers with first hand information participate in the decision making process.
       * We know from watching the bees that these are the qualities nature selects for in collective decision making processes.
     * [Mina's opening document on the governance conversation](https://minaprotocol.com/blog/next-steps-mina-protocol-governance) seems to already lean in the direction of governance by jury and this document presents one possible version.
     * A detailed description of one possible governance by jury implementation for Mina is provided as this document proceeds.
