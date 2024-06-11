@@ -435,7 +435,7 @@ Human delegated representative democracy, on the other hand enforces, that polit
       * What if for some reason the a.i. is no longer able to recognize the owner? Is the account lost?
         * A [timed recovery option is discussed](https://github.com/johnshearing/SmartWallet) here which allows a predefined wallet address to recover funds and perhaps anonymous reputation after a set time of wallet inactivity.
         * It was discovered that this timed recovery option could not be implemented on a regular blockchain but the Mina blockchain is perfectly suited for this wallet feature.
-      * While no device like this is currently made, if implemented correctly, it would provide **proof of unique humanity and prevent any human from registering more than one anonymous reputations, all without the need for governance to store biometrics and without doing any KYC**.
+      * While no device like this is currently made, if implemented correctly, it would provide **proof of unique humanity and prevent any human from registering more than one anonymous reputation, all without the need for governance to store biometrics and without doing any KYC**.
   * Until these countermeasures can be put into place the Constitution and the Constitutional Committee are all that stand against stolen verdicts.
 
 
