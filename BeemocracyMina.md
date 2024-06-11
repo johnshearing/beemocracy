@@ -465,13 +465,14 @@ In all thy ways acknowledge him, and he shall direct thy paths.
 Proverbs 3:3-6  
 
 When I started this project I had only a vague idea of what I was trying to accomplish.  
-I wanted to make an accounting system for cryptocurrency that would be easy to audit.  
-All I do is write, test, meditate on the results, study, delete the bad stuff, and write again.  
-I'm doing the work but I'm not trying to control were it's going.  
+I wanted to imagine governance which does not learn to grow by creating the very problems it was formed to solve.  
+All I do is write, test, meditate on the results, study, listen, delete the bad stuff, and write again.  
+I'm doing the work but I'm not trying to control where it's going.  
 Perhaps some will understand when I say that the experience is spiritual and that the entire project is a demonstration of faith.    
 
 Most people need to know what they are going to make before they start their work.  
-But I have discovered that it is possible to accomplish tasks that are way beyond the limits of my own intellect by letting go of the big plan and just doing the work set down in front of me. This is exactly what nature does.  
+But I have discovered that it is possible to accomplish tasks that are way beyond the limits of my own intellect by letting go of the big plan and just doing the work set down in front of me. 
+This is exactly what nature does.  
 I feel blessed and I love God. The work you see here is the result.  
 
 Thanks, John 
