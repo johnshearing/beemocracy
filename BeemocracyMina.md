@@ -37,8 +37,8 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
     * By abstracting nature's method for collective decision making we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time.
     * Governance by random juries of domain experts is that abstraction - it's what the bees are doing.
     * Deciding governance proposals at jury trials ensures that:
-      * All proposals are decided based on accurate first hand information only without any cronyism, and without overloading the network
-      * All proposals are debated in a transparent forum
+      * All proposals are decided based on accurate first hand information only, without any cronyism, and without overloading the network.
+      * All proposals are debated in a transparent forum.
       * Only Decision makers with first hand information participate in the decision making process.
       * We know from watching the bees that these are the qualities nature selects for in collective decision making processes.
     * [Mina's opening document on the governance conversation](https://minaprotocol.com/blog/next-steps-mina-protocol-governance) seems to already lean in the direction of governance by jury and this document presents one possible version.
