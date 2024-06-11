@@ -36,7 +36,11 @@ Privacy, Identity, Bootstrapping, Low voter turnout, Selling delegation and vote
       * [Please listen to Tom Seeley in this video](https://www.youtube.com/watch?v=1x8T_CHZemE&t=123s) which is queued up to the correct moment when he explains the difference between bee democracy and human democracy. In the video he says that no decision maker advocates for a site they have not seen for themselves whereas in human democracy the decision makers often cast votes based on affiliation without ever investigating the matter for themselves. This is the quality that BeemocracyMina abstracts from the collective decision making process that evolution has selected for in the honey bee colony.
     * By abstracting nature's method for collective decision making we can arrive at the optimum democracy which produces the best possible decisions in the shortest amount of time.
     * Governance by random juries of domain experts is that abstraction - it's what the bees are doing.
-    * Deciding governance proposals at jury trials ensures that all proposals are decided based on accurate first hand information only, without any cronyism, and without overloading the network.
+    * Deciding governance proposals at jury trials ensures that:
+      * All proposals are decided based on accurate first hand information only without any cronyism, and without overloading the network
+      * All proposals are debated in a transparent forum
+      * Only Decision makers with first hand information participate in the decision making process.
+      * We know from watching the bees that these are the qualities nature selects for in collective decision making processes.
     * [Mina's opening document on the governance conversation](https://minaprotocol.com/blog/next-steps-mina-protocol-governance) seems to already lean in the direction of governance by jury and this document presents one possible version.
     * A detailed description of one possible governance by jury implementation for Mina is provided as this document proceeds.
     * What Mina can learn from Cardano Governance:
