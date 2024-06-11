@@ -439,7 +439,7 @@ Human delegated representative democracy, on the other hand enforces, that polit
   * Until these countermeasures can be put into place the Constitution and the Constitutional Committee are all that stand against stolen verdicts.
 
 
-#### **Conclusion:** 
+#### Conclusion: 
 
 Most all these ideas are abstracted from peer reviewed science on how bees implement democracy. Since bees have been doing it successfully for millions of years, it makes sense to consider what evolution has engineered and to use what we can. As it turns out, peer reviewed science also shows that the same methods that bees use to make decisions also evolved within the human brain. So if Mina governance lasts long enough, the very same decision structures will likely evolve anyway. We can shorten the time it takes Mina governance to evolve to provide the most truth and the best possible decisions for our community by studying how bee colonies and other complex adaptive systems make collective decisions.
 
@@ -459,3 +459,19 @@ Our community should look at peer reviewed science on how decision making has ev
 * Tom Seeley, Cornell - [BReps vs DReps](https://youtu.be/1x8T_CHZemE?t=122)
 * Tom Seeley, Cornell - [The Five Habits of Highly Effective Hives](https://youtu.be/XgSbPkInTzs?t=1929)
   
+#### Credits  
+Trust the Lord with all thine heart; and lean not unto thine own understanding.  
+In all thy ways acknowledge him, and he shall direct thy paths.  
+Proverbs 3:3-6  
+
+When I started this project I had only a vague idea of what I was trying to accomplish.  
+I wanted to make an accounting system for cryptocurrency that would be easy to audit.  
+All I do is write, test, meditate on the results, study, delete the bad stuff, and write again.  
+I'm doing the work but I'm not trying to control were it's going.  
+Perhaps some will understand when I say that the experience is spiritual and that the entire project is a demonstration of faith.    
+
+Most people need to know what they are going to make before they start their work.  
+But I have discovered that it is possible to accomplish tasks that are way beyond the limits of my own intellect by letting go of the big plan and just doing the work set down in front of me. This is exactly what nature does.  
+I feel blessed and I love God. The work you see here is the result.  
+
+Thanks, John 
