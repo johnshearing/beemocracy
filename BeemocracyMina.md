@@ -126,9 +126,9 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
         * how well their work is judged by other scouts
         * and so on
         * The amount of Mina staked by the scout's wallet could also in some way contribute to the scout's anonymous reputation.
-          * Some will argue that those with more at stake have a need for greater decision making power in order to balance the greater risk of investing larger sums.
+          * Some will argue that those with more at stake have a need for greater decision making power in order to balance the greater risk of investing larger sums. This seems reasonable.
           * The amount of decision making power associated with stake must also be balanced with the understanding that plutocrats are incentivized to use their voting power to vote more power and wealth for themselves.
-          * One benefit of considering stake as part of anonymous reputation is that it incentivizes large holders to maintain only one anonymous reputation rather than trying to spread their funds across multiple wallets and then trying to spin up multiple anonymous reputations in order to gain more decision making power.
+          * One possible benefit of considering stake as part of anonymous reputation is that it could incentivize large holders to maintain only one anonymous reputation rather than trying to spread their funds across multiple wallets and then trying to spin up multiple anonymous reputations in order to gain more decision making power. Whether or not the incentive works correctly is completely dependent on how the advantage of stake is calculated. Game theorists should be consulted.
           * This issue with its pros and cons was brought to light by the Mina Governance Team: Ben, Cristina, Remi, and Joaquin (in no particular order). Much thanks to them.
       * All Mina holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
@@ -379,8 +379,10 @@ Human delegated representative democracy, on the other hand enforces, that polit
       * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up multiple identities to load the randomized jury pool.
     * Countermeasure 1b: The amount of Mina staked by the scout's wallet could also in some way contribute to the scout's anonymous reputation.
       * This incentivizes large holders to maintain only one anonymous reputation rather than trying to spread their funds across multiple wallets and then trying to spin up multiple anonymous reputations in order to gain more decision making power.
+      * Whether or not the incentive works correctly is completely dependent on how the advantage of stake is calculated.
       * The amount of decision making power associated with stake must also be balanced with the understanding that plutocrats are incentivized to use their voting power to vote more power and wealth for themselves.
       * Some will argue that those with more at stake have a need for some greater decision making power in order to balance the greater risk of investing larger sums. This argument should be considered.
+      * Game theorists should be consulted.
       * This issue with its pros and cons was brought to light by the Mina Governance Team: Ben, Cristina, Remi, and Joaquin (in no particular order). Much thanks to them.
     * Countermeasure 1c: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
       * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
