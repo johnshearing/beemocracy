@@ -124,8 +124,12 @@ https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/
           * Work at o1labs, partner corporations, DAOs
         * how often they add to or challenge other scout solicitations
         * how well their work is judged by other scouts
-        * How many words on average are in the solicitations
         * and so on
+        * The amount of Mina staked by the scout's wallet could also in some way contribute to the scout's anonymous reputation.
+          * Some will argue that those with more at stake have a need for greater decision making power in order to balance the greater risk of investing larger sums.
+          * The amount of decision making power associated with stake must also be balanced with the understanding that plutocrats are incentivized to use their voting power to vote more power and wealth for themselves.
+          * One benefit of considering stake as part of anonymous reputation is that it incentivizes large holders to maintain only one anonymous reputation rather than trying to spread their funds across multiple wallets and then trying to spin up multiple anonymous reputations in order to gain more decision making power.
+          * This issue with its pros and cons was brought to light by the Mina Governance Team: Ben, Cristina, Remi, and Joaquin (in no particular order). Much thanks to them.
       * All Mina holders can serve as scouts, which is to write solicitations and recommend a vote for or against a governance proposal.
         * These solicitations may be considered by the jurors. So everyone gets a voice as they gain history, reputation, and rank.
       * Jurors can get a lot of information from the body of solicitations even before reading them individually.
@@ -373,11 +377,16 @@ Human delegated representative democracy, on the other hand enforces, that polit
     * Countermeasure 1: Generally, the investment in becoming an elite scout and earning the rank and privilege required to serve on a jury must be so high that the cost of generating several disposable elite scout identities sufficient to load a randomly selected jury with digital signatures controlled by a special interest will be prohibitively expensive.
     * Countermeasure 1a: Some ranking qualifications were [discussed above](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md#the-reputation-system-will-be-tiered-based-on-the-following-on-chain-criteria-with-the-higher-ranked-scouts-serving-on-juries-which-decide-cases-that-hold-greater-importance-for-the-community).
       * The cost of gaining rank to sit on juries that decide issues of greater importance both improves the quality of decisions and makes it difficult to spin up multiple identities to load the randomized jury pool.
-    * Countermeasure 1b: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
+    * Countermeasure 1b: The amount of Mina staked by the scout's wallet could also in some way contribute to the scout's anonymous reputation.
+      * This incentivizes large holders to maintain only one anonymous reputation rather than trying to spread their funds across multiple wallets and then trying to spin up multiple anonymous reputations in order to gain more decision making power.
+      * The amount of decision making power associated with stake must also be balanced with the understanding that plutocrats are incentivized to use their voting power to vote more power and wealth for themselves.
+      * Some will argue that those with more at stake have a need for some greater decision making power in order to balance the greater risk of investing larger sums. This argument should be considered.
+      * This issue with its pros and cons was brought to light by the Mina Governance Team: Ben, Cristina, Remi, and Joaquin (in no particular order). Much thanks to them.
+    * Countermeasure 1c: Refundable deposit for each anonymous reputation (for each elite scout wallet) that wishes to be included in the jury pool.
       * Once the deposit is refunded, the reputation is nullified, removed from the jury pool, and that scout (identified by the wallet) can never sit on a jury again.
       * This deposit makes it costly to spin up multiple identities to load the randomized jury pool.
       * This deposit must be large enough to deter the creation of multiple anonymous reputations.
-    * Countermeasure 1c: ZK-Ceremony and demonstration of human memory for elite scouts that wish to become jurors: 
+    * Countermeasure 1d: ZK-Ceremony and demonstration of human memory for elite scouts that wish to become jurors: 
       * Candidate jurors demonstrate, in front of a reliable witness, they have memorized the 24 word passphrase on their Ledger hardware wallet which identifies the Mina account for their anonymous reputation without revealing the words.
       * No zero knowledge cryptography is required for this zero knowledge proof of memory. The process is described below.
       * In front of a reliable witness, the human resets their Ledger hardware wallet by entering the pin incorrectly three times.
