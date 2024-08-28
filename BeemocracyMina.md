@@ -249,7 +249,7 @@ Extra surprise! Bitcoin is now a CBCD.
           * Some biases are deliberately built into the models by the creators.
           * Some biases remain unknown, even to the creators, until the model is used to answer questions or aggregate data.
           * Humans also have biases.
-          * The difference is that you can address and correct for human bias by talking with the human or by taking a large sampling of humans whereas a model must be retrained, which can only be done by the creators of the model and they have little incentive to respond.
+          * The difference is that you can address and correct for human bias by talking with the human or by taking a large sampling of humans whereas a centralized model must be retrained, which can only be done by the creators of the model and they have little incentive to respond.
         * a.i. models must never sit on a jury.
         * a.i. models must never substitute for human due diligence and first hand knowledge.
         * a.i. models must never be used to aggregate public opinion.
